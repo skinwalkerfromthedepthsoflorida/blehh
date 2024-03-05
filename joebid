@@ -256,8 +256,8 @@ Close.TextScaled = true
 Close.TextSize = 14
 Close.TextWrapped = true
 Close.MouseButton1Down:connect(function()
-Main.Visible = false
-OpenFrame.Visible = true
+	Main.Visible = false
+	OpenFrame.Visible = true
 end)
 
 Settings.Name = "Settings"
@@ -268,21 +268,21 @@ Settings.Position = UDim2.new(0.913207531, 0, 0.0158730168, 0)
 Settings.Size = UDim2.new(0, 38, 0, 27)
 Settings.Image = "rbxassetid://311226871"
 Settings.MouseButton1Down:connect(function()
-SettingsFrame.Visible = true
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = true
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Credits.Name = "Credits"
@@ -296,21 +296,21 @@ Credits.Text = "CREDITS"
 Credits.TextColor3 = Color3.new(1, 0.85098, 0)
 Credits.TextSize = 13
 Credits.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = true
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = true
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Mod.Name = "Mod"
@@ -322,21 +322,21 @@ Mod.Size = UDim2.new(0, 30, 0, 18)
 Mod.Image = "rbxassetid://1345142441"
 Mod.ImageColor3 = Color3.new(1, 0.85098, 0)
 Mod.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = true
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = true
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Category.Name = "Category"
@@ -361,21 +361,21 @@ LocalPlayer.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 LocalPlayer.TextSize = 18
 LocalPlayer.TextWrapped = true
 LocalPlayer.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = true
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = true
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 MAINText.Name = "MAINText"
@@ -403,21 +403,21 @@ Players.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Players.TextSize = 18
 Players.TextWrapped = true
 Players.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = true
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = true
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 World.Name = "World"
@@ -432,21 +432,21 @@ World.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 World.TextSize = 18
 World.TextWrapped = true
 World.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = true
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = true
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Maps.Name = "Maps"
@@ -461,21 +461,21 @@ Maps.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Maps.TextSize = 18
 Maps.TextWrapped = true
 Maps.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = true
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = true
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 MISCText.Name = "MISCText"
@@ -503,21 +503,21 @@ Elder.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Elder.TextSize = 18
 Elder.TextWrapped = true
 Elder.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = true
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = true
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Trading.Name = "Trading"
@@ -532,21 +532,21 @@ Trading.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Trading.TextSize = 18
 Trading.TextWrapped = true
 Trading.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = true
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = true
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 DNAFarm.Name = "DNAFarm"
@@ -561,21 +561,21 @@ DNAFarm.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 DNAFarm.TextSize = 18
 DNAFarm.TextWrapped = true
 DNAFarm.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = true
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = true
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Exclusive.Name = "Exclusive"
@@ -590,21 +590,21 @@ Exclusive.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Exclusive.TextSize = 18
 Exclusive.TextWrapped = true
 Exclusive.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = true
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = true
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Fun.Name = "Fun"
@@ -619,21 +619,21 @@ Fun.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Fun.TextSize = 18
 Fun.TextWrapped = true
 Fun.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = true
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = true
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 Automation.Name = "Automation"
@@ -648,21 +648,21 @@ Automation.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Automation.TextSize = 18
 Automation.TextWrapped = true
 Automation.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = true
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = true
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = false
 end)
 
 ADMINText.Name = "ADMINText"
@@ -691,21 +691,21 @@ Bundles.TextSize = 18
 Bundles.TextStrokeTransparency = 0
 Bundles.TextWrapped = true
 Bundles.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = false
-BundlesFrame.Visible = true
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = false
+	BundlesFrame.Visible = true
 end)
 
 AdminStuff.Name = "AdminStuff"
@@ -720,21 +720,21 @@ AdminStuff.TextColor3 = Color3.new(1, 0.85098, 0)
 AdminStuff.TextSize = 18
 AdminStuff.TextWrapped = true
 AdminStuff.MouseButton1Down:connect(function()
-SettingsFrame.Visible = false
-FunFrame.Visible = false
-DNAFarmFrame.Visible = false
-AutomationFrame.Visible = false
-CreditsFrame.Visible = false
-ElderDinoFrame.Visible = false
-ExclusiveFrame.Visible = false
-LocalPlayerFrame.Visible = false
-MapsFrame.Visible = false
-ModFrame.Visible = false
-PlayersFrame.Visible = false
-TradingFrame.Visible = false
-WorldFrame.Visible = false
-AdminStuffFrame.Visible = true
-BundlesFrame.Visible = false
+	SettingsFrame.Visible = false
+	FunFrame.Visible = false
+	DNAFarmFrame.Visible = false
+	AutomationFrame.Visible = false
+	CreditsFrame.Visible = false
+	ElderDinoFrame.Visible = false
+	ExclusiveFrame.Visible = false
+	LocalPlayerFrame.Visible = false
+	MapsFrame.Visible = false
+	ModFrame.Visible = false
+	PlayersFrame.Visible = false
+	TradingFrame.Visible = false
+	WorldFrame.Visible = false
+	AdminStuffFrame.Visible = true
+	BundlesFrame.Visible = false
 end)
 
 Protect.Name = "Protect"
@@ -750,57 +750,57 @@ Protect.TextSize = 18
 Protect.TextWrapped = true
 Protect.MouseButton1Click:connect(function()
 	game.StarterGui:SetCore("SendNotification", {
-Title = "Dinosaur Protection";
-Text = "Started!";
-Duration = 15;
+		Title = "Dinosaur Protection";
+		Text = "Started!";
+		Duration = 15;
 	})
-wait(3)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Dinosaur Protection";
-Text = "Semi-God Enabled";
-Duration = 15;
-})
-game.Players.LocalPlayer.Character.Stats.Armor:Remove()
-wait(3)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Dinosaur Protection";
-Text = "No Bleed Enabled";
-Duration = 15;
-})
-game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
+	wait(3)
+	game.StarterGui:SetCore("SendNotification", {
+		Title = "Dinosaur Protection";
+		Text = "Semi-God Enabled";
+		Duration = 15;
+	})
+	game.Players.LocalPlayer.Character.Stats.Armor:Remove()
+	wait(3)
+	game.StarterGui:SetCore("SendNotification", {
+		Title = "Dinosaur Protection";
+		Text = "No Bleed Enabled";
+		Duration = 15;
+	})
+	game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
 
-while wait(.1) do
-	if game.Players.LocalPlayer.Character.Age.Value < 3 and game.Players.LocalPlayer.Character.Dinosaur.Health < 50 then
-		game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,-3)
-	game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,3)
-	if game.Players.LocalPlayer.Character.Age.Value > 2 and game.Players.LocalPlayer.Character.Dinosaur.Health < 100 then
-	local p = game.Players.LocalPlayer
-local h = p.Character:FindFirstChildOfClass'Humanoid';
-        for _, Child in pairs(p.Character:GetChildren()) do
-            if (Child:IsA'LocalScript') then
-                Child.Disabled = true;
-            end
-        end
-        h:Destroy();
-        for _, Child in pairs(p.Character:GetChildren()) do
-            if (Child:IsA'LocalScript') then
-                Child.Disabled = false;
-            end
-        end
-        while wait() do
-            if (God == true) then
-                w.Camera.CameraSubject = xo;
-            else
-                break;
-            end
-        end
-if game.Players.LocalPlayer.Character.Age.Value > 2 and game.Players.LocalPlayer.Character.Dinosaur.Health < 300 then
-		game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,-2)
-	game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,3)
-end
-end
-end
-end
+	while wait(.1) do
+		if game.Players.LocalPlayer.Character.Age.Value < 3 and game.Players.LocalPlayer.Character.Dinosaur.Health < 50 then
+			game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,-3)
+			game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,3)
+			if game.Players.LocalPlayer.Character.Age.Value > 2 and game.Players.LocalPlayer.Character.Dinosaur.Health < 100 then
+				local p = game.Players.LocalPlayer
+				local h = p.Character:FindFirstChildOfClass'Humanoid';
+				for _, Child in pairs(p.Character:GetChildren()) do
+					if (Child:IsA'LocalScript') then
+						Child.Disabled = true;
+					end
+				end
+				h:Destroy();
+				for _, Child in pairs(p.Character:GetChildren()) do
+					if (Child:IsA'LocalScript') then
+						Child.Disabled = false;
+					end
+				end
+				while wait() do
+					if (God == true) then
+						w.Camera.CameraSubject = xo;
+					else
+						break;
+					end
+				end
+				if game.Players.LocalPlayer.Character.Age.Value > 2 and game.Players.LocalPlayer.Character.Dinosaur.Health < 300 then
+					game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,-2)
+					game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,3)
+				end
+			end
+		end
+	end
 end)
 
 BetterAntiBan.Name = "BetterAntiBan"
@@ -816,50 +816,50 @@ BetterAntiBan.TextSize = 18
 BetterAntiBan.TextWrapped = true
 BetterAntiBan.MouseButton1Click:connect(function()
 	game.StarterGui:SetCore("SendNotification", {
-                Title = "Anti-Ban";
-                Text = "Enabled!";
-                 Duration = 15;
-	              })
-	
-	local AdminList = {
-    109217153,
-    119868,
-    35276317,
-    160319861,
-    4317782,
-    63300487,
-    39523020,
-    23952793,
-    21238127,
-    6828351,
-    21447425,
-    24836348,
-    14922769,
-    33488003,
-    204949625,
-    117551840,
-    69239108,
-    42285938,
-    94254052,
-    57628717,
-    81275825,
-    14099358,
-    144170792
-}
+		Title = "Anti-Ban";
+		Text = "Enabled!";
+		Duration = 15;
+	})
 
-game.Players.PlayerAdded:Connect(function(player)
-    for i, v in pairs(AdminList) do
-        if player.UserId == v then
-            game.StarterGui:SetCore("SendNotification", {
-                Title = "Anti-Ban";
-                Text = "A mod/admin joined the server! Stay in menu or leave the game!";
-                 Duration = 15;
-                 })
-             wait(1)
-           game.Workspace.GameEvents.GoToMenu:FireServer(7)
-        end
-    end
-end)
+	local AdminList = {
+		109217153,
+		119868,
+		35276317,
+		160319861,
+		4317782,
+		63300487,
+		39523020,
+		23952793,
+		21238127,
+		6828351,
+		21447425,
+		24836348,
+		14922769,
+		33488003,
+		204949625,
+		117551840,
+		69239108,
+		42285938,
+		94254052,
+		57628717,
+		81275825,
+		14099358,
+		144170792
+	}
+
+	game.Players.PlayerAdded:Connect(function(player)
+		for i, v in pairs(AdminList) do
+			if player.UserId == v then
+				game.StarterGui:SetCore("SendNotification", {
+					Title = "Anti-Ban";
+					Text = "A mod/admin joined the server! Stay in menu or leave the game!";
+					Duration = 15;
+				})
+				wait(1)
+				game.Workspace.GameEvents.GoToMenu:FireServer(7)
+			end
+		end
+	end)
 end)
 
 CreditsFrame.Name = "CreditsFrame"
@@ -981,31 +981,31 @@ InfiniteJump.TextWrapped = true
 InfiniteJump.MouseButton1Click:connect(function()
 	_G.infinjump = true
 
-local Player = game:GetService("Players").LocalPlayer
-local Mouse = Player:GetMouse()
-Mouse.KeyDown:connect(function(k)
-if _G.infinjump then
-if k:byte() == 32 then
-Humanoid = game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
-Humanoid:ChangeState("Jumping")
-wait(0.1)
-Humanoid:ChangeState("Seated")
-end
-end
-end)
+	local Player = game:GetService("Players").LocalPlayer
+	local Mouse = Player:GetMouse()
+	Mouse.KeyDown:connect(function(k)
+		if _G.infinjump then
+			if k:byte() == 32 then
+				Humanoid = game:GetService("Players").LocalPlayer.Character:FindFirstChildOfClass("Humanoid")
+				Humanoid:ChangeState("Jumping")
+				wait(0.1)
+				Humanoid:ChangeState("Seated")
+			end
+		end
+	end)
 
-local Player = game:GetService("Players").LocalPlayer
-local Mouse = Player:GetMouse()
-Mouse.KeyDown:connect(function(k)
-k = k:lower()
-if k == "f" then
-if _G.infinjump == true then
-_G.infinjump = false
-else
-_G.infinjump = true
-end
-end
-end)
+	local Player = game:GetService("Players").LocalPlayer
+	local Mouse = Player:GetMouse()
+	Mouse.KeyDown:connect(function(k)
+		k = k:lower()
+		if k == "f" then
+			if _G.infinjump == true then
+				_G.infinjump = false
+			else
+				_G.infinjump = true
+			end
+		end
+	end)
 end)
 
 Fly.Name = "Fly"
@@ -1021,90 +1021,90 @@ Fly.TextSize = 18
 Fly.TextWrapped = true
 Fly.MouseButton1Click:connect(function()
 	local UIS = game:GetService'UserInputService';
-local p = game.Players.LocalPlayer;
-local RU = LoadLibrary'RbxUtility';
-local Cr = RU.Create;
-local Flying = false;
-local Ctrl = {f = 0, b = 0, l = 0, r = 0};
-local LastCtrl = {f = 0, b = 0, l = 0, r = 0};
-local fs = 0;
-_G.ms = 50;
-_G.Fly = true;
+	local p = game.Players.LocalPlayer;
+	local RU = LoadLibrary'RbxUtility';
+	local Cr = RU.Create;
+	local Flying = false;
+	local Ctrl = {f = 0, b = 0, l = 0, r = 0};
+	local LastCtrl = {f = 0, b = 0, l = 0, r = 0};
+	local fs = 0;
+	_G.ms = 50;
+	_G.Fly = true;
 
-function ToggleFly()
-	local BG = Cr 'BodyGyro' {P = 9e4; maxTorque = Vector3.new(9e9, 9e9, 9e9); cframe = p.Character.Torso.CFrame; Parent = p.Character.Torso}
-	local BV = Cr 'BodyVelocity' {velocity = Vector3.new(0,0.1,0); maxForce = Vector3.new(9e9, 9e9, 9e9); Parent = p.Character.Torso};
-	local Hum = p.Character.Dinosaur;
-	repeat wait()
-		Hum.PlatformStand = true;
-		if (Ctrl.l + Ctrl.r ~= 0 or Ctrl.f + Ctrl.b ~= 0) then
-			fs = fs + .5 + (fs/_G.ms);
-			if (fs > _G.ms) then fs = _G.ms; end
-		elseif not ((Ctrl.l + Ctrl.r ~= 0 or Ctrl.f + Ctrl.b ~= 0) and fs ~= 0) then
-			fs = fs - 1;
-			if (fs < 0) then
-				fs = 0;
+	function ToggleFly()
+		local BG = Cr 'BodyGyro' {P = 9e4; maxTorque = Vector3.new(9e9, 9e9, 9e9); cframe = p.Character.Torso.CFrame; Parent = p.Character.Torso}
+		local BV = Cr 'BodyVelocity' {velocity = Vector3.new(0,0.1,0); maxForce = Vector3.new(9e9, 9e9, 9e9); Parent = p.Character.Torso};
+		local Hum = p.Character.Dinosaur;
+		repeat wait()
+			Hum.PlatformStand = true;
+			if (Ctrl.l + Ctrl.r ~= 0 or Ctrl.f + Ctrl.b ~= 0) then
+				fs = fs + .5 + (fs/_G.ms);
+				if (fs > _G.ms) then fs = _G.ms; end
+			elseif not ((Ctrl.l + Ctrl.r ~= 0 or Ctrl.f + Ctrl.b ~= 0) and fs ~= 0) then
+				fs = fs - 1;
+				if (fs < 0) then
+					fs = 0;
+				end
+			end
+			if ((Ctrl.l + Ctrl.r) ~= 0 or (Ctrl.f or Ctrl.b) ~= 0) then
+				BV.velocity = ((Workspace.CurrentCamera.CoordinateFrame.lookVector * (Ctrl.f + Ctrl.b)) + ((Workspace.CurrentCamera.CoordinateFrame * CFrame.new(Ctrl.l + Ctrl.r,(Ctrl.f + Ctrl.b) *.2, 0).p) - Workspace.CurrentCamera.CoordinateFrame.p)) * fs
+				LastCtrl = {f = Ctrl.f, b = Ctrl.b, l = Ctrl.l, r = Ctrl.r};
+			elseif ((Ctrl.l + Ctrl.r) == 0 and (Ctrl.f + Ctrl.b) == 0 and fs ~= 0) then
+				BV.velocity = ((Workspace.CurrentCamera.CoordinateFrame.lookVector * (LastCtrl.f + LastCtrl.b)) + ((Workspace.CurrentCamera.CoordinateFrame * CFrame.new(LastCtrl.l + LastCtrl.r, (LastCtrl.f + LastCtrl.b)*.2,0).p) - Workspace.CurrentCamera.CoordinateFrame.p)) * fs
+			else 
+				BV.velocity = Vector3.new(0, 0.1, 0);
+			end
+		until not Flying;
+		Ctrl = {f = 0, b = 0, l = 0, r = 0};
+		LastCtrl = {f = 0, b = 0, l = 0, r = 0};
+		fs = 0;
+		BG:Destroy();
+		BV:Destroy();
+		p.Character.Dinosaur.PlatformStand = false;
+	end
+
+	UIS.InputBegan:Connect(function(k)
+		kc = Enum.KeyCode;
+		if (k.KeyCode == kc.F) then
+			if (Flying == false) then
+				Flying = true;
+				ToggleFly();
+			else
+				Flying = false;
 			end
 		end
-		if ((Ctrl.l + Ctrl.r) ~= 0 or (Ctrl.f or Ctrl.b) ~= 0) then
-			BV.velocity = ((Workspace.CurrentCamera.CoordinateFrame.lookVector * (Ctrl.f + Ctrl.b)) + ((Workspace.CurrentCamera.CoordinateFrame * CFrame.new(Ctrl.l + Ctrl.r,(Ctrl.f + Ctrl.b) *.2, 0).p) - Workspace.CurrentCamera.CoordinateFrame.p)) * fs
-			LastCtrl = {f = Ctrl.f, b = Ctrl.b, l = Ctrl.l, r = Ctrl.r};
-		elseif ((Ctrl.l + Ctrl.r) == 0 and (Ctrl.f + Ctrl.b) == 0 and fs ~= 0) then
-			BV.velocity = ((Workspace.CurrentCamera.CoordinateFrame.lookVector * (LastCtrl.f + LastCtrl.b)) + ((Workspace.CurrentCamera.CoordinateFrame * CFrame.new(LastCtrl.l + LastCtrl.r, (LastCtrl.f + LastCtrl.b)*.2,0).p) - Workspace.CurrentCamera.CoordinateFrame.p)) * fs
-		else 
-			BV.velocity = Vector3.new(0, 0.1, 0);
+		if (Flying == true) then
+			if (k.KeyCode == kc.W) then
+				Ctrl.f = 1;
+			elseif (k.KeyCode == kc.A) then
+				Ctrl.b = -1;
+			elseif (k.KeyCode == kc.D) then
+				Ctrl.l = -1;
+			elseif (k.KeyCode == kc.S) then
+				Ctrl.r = 1;
+			end
 		end
-	until not Flying;
-	Ctrl = {f = 0, b = 0, l = 0, r = 0};
-	LastCtrl = {f = 0, b = 0, l = 0, r = 0};
-	fs = 0;
-	BG:Destroy();
-	BV:Destroy();
-	p.Character.Dinosaur.PlatformStand = false;
-end
+	end)
 
-UIS.InputBegan:Connect(function(k)
-	kc = Enum.KeyCode;
-	if (k.KeyCode == kc.F) then
-		if (Flying == false) then
-			Flying = true;
-			ToggleFly();
-		else
-			Flying = false;
-		end
-	end
-	if (Flying == true) then
+	UIS.InputEnded:Connect(function(k)
 		if (k.KeyCode == kc.W) then
-			Ctrl.f = 1;
-		elseif (k.KeyCode == kc.A) then
-			Ctrl.b = -1;
-		elseif (k.KeyCode == kc.D) then
-			Ctrl.l = -1;
-		elseif (k.KeyCode == kc.S) then
-			Ctrl.r = 1;
-		end
-	end
-end)
-
-UIS.InputEnded:Connect(function(k)
-	if (k.KeyCode == kc.W) then
 			Ctrl.f = 0;
-	elseif (k.KeyCode == kc.A) then
-		Ctrl.b = 0;
-	elseif (k.KeyCode == kc.D) then
-		Ctrl.l = 0;
-	elseif (k.KeyCode == kc.S) then
-		Ctrl.r = 0;
+		elseif (k.KeyCode == kc.A) then
+			Ctrl.b = 0;
+		elseif (k.KeyCode == kc.D) then
+			Ctrl.l = 0;
+		elseif (k.KeyCode == kc.S) then
+			Ctrl.r = 0;
+		end
+	end)
+
+	p.CharacterRemoving:Connect(function()
+		if (Flying == true) then Flying = false; end
+	end)
+
+	_G.Destroy = function()
+		script:Destroy();
 	end
-end)
-
-p.CharacterRemoving:Connect(function()
-	if (Flying == true) then Flying = false; end
-end)
-
-_G.Destroy = function()
-	script:Destroy();
-end
 end)
 
 FishFly.Name = "FishFly"
@@ -1147,12 +1147,12 @@ InfHunger.TextWrapped = true
 InfHunger.MouseButton1Click:connect(function()
 	while true do
 		wait(0.1)
-	game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,2)
-	local Robo = game:GetService("Workspace").Water
-local Exploit = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p
-local Event = game:GetService("Workspace").GameEvents.addThirst
-Event:FireServer(Robo, Exploit)
-end
+		game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,2)
+		local Robo = game:GetService("Workspace").Water
+		local Exploit = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p
+		local Event = game:GetService("Workspace").GameEvents.addThirst
+		Event:FireServer(Robo, Exploit)
+	end
 end)
 
 SetWalkSpeed.Name = "SetWalkSpeed"
@@ -1168,7 +1168,7 @@ SetWalkSpeed.TextSize = 17
 SetWalkSpeed.TextWrapped = true
 SetWalkSpeed.MouseButton1Click:connect(function()
 	while wait() do
-	game.Players.LocalPlayer.Character.Dinosaur.WalkSpeed = (WSValue.Text)
+		game.Players.LocalPlayer.Character.Dinosaur.WalkSpeed = (WSValue.Text)
 	end
 	game.Players.LocalPlayer.Character.CharacterScripts.ControlWalkSpeed:remove()
 end)
@@ -1186,7 +1186,7 @@ SetJumpPower.TextSize = 17
 SetJumpPower.TextWrapped = true
 SetJumpPower.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.Dinosaur.JumpPower = (JPValue.Text)
-game.Players.LocalPlayer.Character.CharacterScripts.ControlJumpPower:remove()
+	game.Players.LocalPlayer.Character.CharacterScripts.ControlJumpPower:remove()
 end)
 
 Omnivore.Name = "Omnivore"
@@ -1202,7 +1202,7 @@ Omnivore.TextSize = 18
 Omnivore.TextWrapped = true
 Omnivore.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.MeatEater.Value = true
-game.Players.LocalPlayer.Character.PlantEater.Value = true
+	game.Players.LocalPlayer.Character.PlantEater.Value = true
 end)
 
 HugeZoom.Name = "HugeZoom"
@@ -1246,12 +1246,12 @@ HungerLoop.MouseButton1Click:connect(function()
 	while true do
 		wait(0.1)
 		game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,-10)
-	game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,2)
-	local Robo = game:GetService("Workspace").Water
-local Exploit = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p
-local Event = game:GetService("Workspace").GameEvents.addThirst
-Event:FireServer(Robo, Exploit)
-end
+		game.Workspace.GameEvents.EatPlant:FireServer(Workspace.GameMap.Ferns.Fern,2)
+		local Robo = game:GetService("Workspace").Water
+		local Exploit = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p
+		local Event = game:GetService("Workspace").GameEvents.addThirst
+		Event:FireServer(Robo, Exploit)
+	end
 end)
 
 AddHunger.Name = "AddHunger"
@@ -1281,10 +1281,8 @@ AddThirst.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 AddThirst.TextSize = 18
 AddThirst.TextWrapped = true
 AddThirst.MouseButton1Click:connect(function()
-	local A_1 = game:GetService("Workspace").Water
-local A_2 = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p
-local Event = game:GetService("Workspace").GameEvents.addThirst
-Event:FireServer(A_1, A_2)
+	local Event = game:GetService("Workspace").GameEvents.addThirst
+	Event:FireServer(game:GetService("Workspace").Water, game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.p)
 end)
 
 ClickTP.Name = "ClickTP"
@@ -1300,21 +1298,21 @@ ClickTP.TextSize = 17
 ClickTP.TextWrapped = true
 ClickTP.MouseButton1Click:connect(function()
 	local Imput = game:GetService("UserInputService")
-local Plr = game.Players.LocalPlayer
-local Mouse = Plr:GetMouse()
+	local Plr = game.Players.LocalPlayer
+	local Mouse = Plr:GetMouse()
 
-function To(position)
-    local Chr = Plr.Character
-    if Chr ~= nil then
-        Chr:MoveTo(position)
-    end
-end
+	function To(position)
+		local Chr = Plr.Character
+		if Chr ~= nil then
+			Chr:MoveTo(position)
+		end
+	end
 
-Imput.InputBegan:Connect(function(input)
-    if input.UserInputType == Enum.UserInputType.MouseButton1 and Imput:IsKeyDown(Enum.KeyCode.LeftControl) then
-        To(Mouse.Hit.p)
-    end
-end)
+	Imput.InputBegan:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseButton1 and Imput:IsKeyDown(Enum.KeyCode.LeftControl) then
+			To(Mouse.Hit.p)
+		end
+	end)
 end)
 
 localptext2.Name = "localptext2"
@@ -1359,8 +1357,8 @@ FixMenu.TextSize = 18
 FixMenu.TextWrapped = true
 FixMenu.MouseButton1Click:connect(function()
 	local CountDown = 7
-local Menu = workspace.GameEvents.GoToMenu
-Menu:FireServer(CountDown)
+	local Menu = workspace.GameEvents.GoToMenu
+	Menu:FireServer(CountDown)
 end)
 
 _200HungerSubtract.Name = "200HungerSubtract"
@@ -1472,18 +1470,18 @@ InviteAll.TextSize = 18
 InviteAll.TextWrapped = true
 InviteAll.MouseButton1Click:connect(function()
 	for i,v in pairs(game.Workspace.Packs:GetChildren()) do
-for x,z in pairs(game.Players:GetChildren()) do
-if v.PackLeader.Value == game.Players.LocalPlayer.Name then
-v = v.PackLeader.Parent
-	if z ~= game.Players.LocalPlayer.Name then
-local A_1 = z
-local A_2 = game:GetService("Workspace").Packs[v.Name]
-local Event = game:GetService("Workspace").GameFunctions.PackFunctions.InviteToPack
-Event:InvokeServer(A_1, A_2)
+		for x,z in pairs(game.Players:GetChildren()) do
+			if v.PackLeader.Value == game.Players.LocalPlayer.Name then
+				v = v.PackLeader.Parent
+				if z ~= game.Players.LocalPlayer.Name then
+					local A_1 = z
+					local A_2 = game:GetService("Workspace").Packs[v.Name]
+					local Event = game:GetService("Workspace").GameFunctions.PackFunctions.InviteToPack
+					Event:InvokeServer(A_1, A_2)
+				end
+			end
+		end
 	end
-end
-end
-end
 end)
 
 KillAll.Name = "KillAll"
@@ -1499,20 +1497,20 @@ KillAll.TextSize = 18
 KillAll.TextWrapped = true
 KillAll.MouseButton1Click:connect(function()
 	Player = game.Players.LocalPlayer
-Mouse = Player:GetMouse()
-last = nil
-function PressE(key)
-   for i,v in next, game.Players:GetPlayers() do
-if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<12421412423564378256843768757568472365 then
-local target = v.Character
-   if (key == "e") then
-       workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
-    workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
-    end
-end
-end
-end
-Mouse.KeyDown:connect(PressE)
+	Mouse = Player:GetMouse()
+	last = nil
+	function PressE(key)
+		for i,v in next, game.Players:GetPlayers() do
+			if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<12421412423564378256843768757568472365 then
+				local target = v.Character
+				if (key == "e") then
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
+				end
+			end
+		end
+	end
+	Mouse.KeyDown:connect(PressE)
 end)
 
 ESP.Name = "ESP"
@@ -1529,57 +1527,57 @@ ESP.TextWrapped = true
 ESP.MouseButton1Click:connect(function()
 	Important = {Players = game:GetService("Players"), Workspace = game:GetService("Workspace"), CoreGui = game:GetService("CoreGui")}
 
-local enabledesp = false
+	local enabledesp = false
 
-function CreateESP(plr)
-   
-   if plr ~= nil then
-       
-       local GetChar = plr.Character
-       if not GetChar then return end
-       
-       local GetHead do
-           
-           repeat wait() until GetChar:FindFirstChild("Head")
-           
-       end
-       GetHead = GetChar.Head        
-       
-       local bb = Instance.new("BillboardGui", Important.CoreGui)
-       bb.Adornee = GetHead
-       bb.ExtentsOffset = Vector3.new(0, 1, 0)
-       bb.AlwaysOnTop = true
-       bb.Size = UDim2.new(0, 5, 0, 5)
-       bb.StudsOffset = Vector3.new(0, 3, 0)
-       bb.Name = "ESP_PLAYER_" .. plr.Name
+	function CreateESP(plr)
 
-       local displayframe = Instance.new("Frame", bb)
-       displayframe.ZIndex = 10
-       displayframe.BackgroundTransparency = 1
-       displayframe.Size = UDim2.new(1,0,1,0)
-       
-       local name = Instance.new("TextLabel", displayframe)
-       name.Name = "Name"
-       name.ZIndex = 10
-       name.Text = plr.Name
-       name.Visible = true
-       name.TextColor3 = Color3.new(212,244,188)
-       name.BackgroundTransparency = 1
-       name.Size = UDim2.new(1,0,10,0)
-       name.Font = Enum.Font.SourceSansLight
-       name.TextSize = 20
-       name.TextStrokeTransparency = .5
-       
-   end
-   
-end
+		if plr ~= nil then
 
-   
-   for i,v in pairs(Important.Players:GetChildren()) do
-       if game.GameId == 1320186298 then return end
-       CreateESP(v)
-       
-   end
+			local GetChar = plr.Character
+			if not GetChar then return end
+
+			local GetHead do
+
+				repeat wait() until GetChar:FindFirstChild("Head")
+
+			end
+			GetHead = GetChar.Head        
+
+			local bb = Instance.new("BillboardGui", Important.CoreGui)
+			bb.Adornee = GetHead
+			bb.ExtentsOffset = Vector3.new(0, 1, 0)
+			bb.AlwaysOnTop = true
+			bb.Size = UDim2.new(0, 5, 0, 5)
+			bb.StudsOffset = Vector3.new(0, 3, 0)
+			bb.Name = "ESP_PLAYER_" .. plr.Name
+
+			local displayframe = Instance.new("Frame", bb)
+			displayframe.ZIndex = 10
+			displayframe.BackgroundTransparency = 1
+			displayframe.Size = UDim2.new(1,0,1,0)
+
+			local name = Instance.new("TextLabel", displayframe)
+			name.Name = "Name"
+			name.ZIndex = 10
+			name.Text = plr.Name
+			name.Visible = true
+			name.TextColor3 = Color3.new(212,244,188)
+			name.BackgroundTransparency = 1
+			name.Size = UDim2.new(1,0,10,0)
+			name.Font = Enum.Font.SourceSansLight
+			name.TextSize = 20
+			name.TextStrokeTransparency = .5
+
+		end
+
+	end
+
+
+	for i,v in pairs(Important.Players:GetChildren()) do
+		if game.GameId == 1320186298 then return end
+		CreateESP(v)
+
+	end
 end)
 
 gototext.Name = "gototext"
@@ -1608,152 +1606,152 @@ ChatLogs.TextSize = 18
 ChatLogs.TextWrapped = true
 ChatLogs.MouseButton1Click:connect(function()
 	if game:service('RunService'):IsStudio() then print('!STUDIO!') else
-	if game:service('CoreGui'):findFirstChild('LogHolder') then return nil
+		if game:service('CoreGui'):findFirstChild('LogHolder') then return nil
+		end
 	end
-end
 
-local LogHolder = Instance.new("ScreenGui")
-local Logs = Instance.new("Frame")
-local Scroll = Instance.new("ScrollingFrame")
-local Template = Instance.new("TextLabel")
+	local LogHolder = Instance.new("ScreenGui")
+	local Logs = Instance.new("Frame")
+	local Scroll = Instance.new("ScrollingFrame")
+	local Template = Instance.new("TextLabel")
 
-LogHolder.Name = "LogHolder"
-if game:service('RunService'):IsStudio() then LogHolder.Parent = game.Players.LocalPlayer.PlayerGui else
-	LogHolder.Parent = game.CoreGui
-end
-
-Logs.Name = "Logs"
-Logs.Parent = LogHolder
-Logs.AnchorPoint = Vector2.new(0.5, 0.5)
-Logs.BackgroundColor3 = Color3.new(0, 0, 0)
-Logs.Position = UDim2.new(0.200000003, 0, 0.200000003, 0)
-Logs.Size = UDim2.new(0, 400, 0, 250)
-Logs.Style = Enum.FrameStyle.DropShadow
-
-Scroll.Name = "Scroll"
-Scroll.Parent = Logs
-Scroll.BackgroundColor3 = Color3.new(0, 0, 0)
-Scroll.BackgroundTransparency = 1
-Scroll.BorderSizePixel = 0
-Scroll.Size = UDim2.new(1, 0, 1, 0)
-Scroll.CanvasSize = UDim2.new(0, 0, 0, 0)
-Scroll.ScrollBarThickness = 6
-
-Template.Name = "Template"
-Template.Parent = Logs
-Template.BackgroundColor3 = Color3.new(1, 1, 1)
-Template.BackgroundTransparency = 1
-Template.Position = UDim2.new(0, 0, 0, -25)
-Template.Size = UDim2.new(1, 0, 0, 20)
-Template.Font = Enum.Font.ArialBold
-Template.Text = ""
-Template.TextColor3 = Color3.new(1, 1, 1)
-Template.TextSize = 15
-Template.TextXAlignment = Enum.TextXAlignment.Left
-Template.TextWrap = true
-
-Logs.Active = true
-Logs.Draggable = true
-
-local loggedTable = {}
-
-local getTotalSize = function()
-local totalSize = UDim2.new(0, 0, 0, 0)
-	
-	for i, v in next, loggedTable do
-		totalSize = totalSize + UDim2.new(0, 0, 0, v.Size.Y.Offset)
+	LogHolder.Name = "LogHolder"
+	if game:service('RunService'):IsStudio() then LogHolder.Parent = game.Players.LocalPlayer.PlayerGui else
+		LogHolder.Parent = game.CoreGui
 	end
-	
-	return totalSize
-end
 
-local BUD = UDim2.new(0, 0, 0, 0)
-local TotalNum = 0
+	Logs.Name = "Logs"
+	Logs.Parent = LogHolder
+	Logs.AnchorPoint = Vector2.new(0.5, 0.5)
+	Logs.BackgroundColor3 = Color3.new(0, 0, 0)
+	Logs.Position = UDim2.new(0.200000003, 0, 0.200000003, 0)
+	Logs.Size = UDim2.new(0, 400, 0, 250)
+	Logs.Style = Enum.FrameStyle.DropShadow
 
-local function GenLog(txt, colo, time)
-	local oldColo = Color3.fromRGB(0, 0, 0)	
-	
-	local Temp = Template:Clone()
-	Temp.Parent = Scroll
-	Temp.Name = txt..'Logged'
-	Temp.Text = tostring(txt)
-	Temp.Visible = true
-	Temp.Position = BUD + UDim2.new(0, 0, 0, 0)
-	if colo then oldColo = colo Temp.TextColor3 = colo elseif not colo then Temp.TextColor3 = Color3.fromRGB(200, 200, 200) end
-
-	local timeVal = Instance.new('StringValue', Temp)
-	timeVal.Name = 'TimeVal'
-	timeVal.Value = time
-
-	TotalNum = TotalNum + 1
-	
-	if not Temp.TextFits then repeat Temp.Size = UDim2.new(Temp.Size.X.Scale, Temp.Size.X.Offset, Temp.Size.Y.Scale, Temp.Size.Y.Offset + 10)
-		Temp.Text = txt
-	until Temp.TextFits 
-end
-
-	BUD = BUD + UDim2.new(0, 0, 0, Temp.Size.Y.Offset)
-	
-	table.insert(loggedTable, Temp)
-	
-	local totSize = getTotalSize()
-	
-	if totSize.Y.Offset >= Scroll.CanvasSize.Y.Offset then Scroll.CanvasSize = UDim2.new(totSize.X.Scale, totSize.X.Offset, totSize.Y.Scale, totSize.Y.Offset + 100)
-	Scroll.CanvasPosition = Scroll.CanvasPosition + Vector2.new(0, totSize.Y.Offset) 
-	end
-	
-	return Temp
-end
-
-local ChatData = ""
-
-local function SaveToFile()
-	local t = os.date("*t")
-	local dateDat = t['hour']..' '..t['min']..' '..t['sec']..' '..t['day']..'.'..t['month']..'.'..t['year']
-	
-	ChatData = ""
-	
-	for i, v in pairs(Scroll:GetChildren()) do
-		ChatData = ChatData..v.TimeVal.Value..' '..v.Text..'\n'
-	end
-	
-	writefile('ChatLogs '..dateDat..'.txt', ChatData)
-end
-
-
-local function Clear()
-	loggedTable = {}
-	ChatData = ""
-	Scroll.CanvasPosition = Vector2.new(0, 0)
-	for i, v in pairs(Scroll:GetChildren()) do
-		v:Destroy()
-	end
+	Scroll.Name = "Scroll"
+	Scroll.Parent = Logs
+	Scroll.BackgroundColor3 = Color3.new(0, 0, 0)
+	Scroll.BackgroundTransparency = 1
+	Scroll.BorderSizePixel = 0
+	Scroll.Size = UDim2.new(1, 0, 1, 0)
 	Scroll.CanvasSize = UDim2.new(0, 0, 0, 0)
-	BUD = UDim2.new(0, 0, 0, 0)
-end
+	Scroll.ScrollBarThickness = 6
 
-local LogPlr = function(plr)
-			plr.Chatted:connect(function(msg)
-				
+	Template.Name = "Template"
+	Template.Parent = Logs
+	Template.BackgroundColor3 = Color3.new(1, 1, 1)
+	Template.BackgroundTransparency = 1
+	Template.Position = UDim2.new(0, 0, 0, -25)
+	Template.Size = UDim2.new(1, 0, 0, 20)
+	Template.Font = Enum.Font.ArialBold
+	Template.Text = ""
+	Template.TextColor3 = Color3.new(1, 1, 1)
+	Template.TextSize = 15
+	Template.TextXAlignment = Enum.TextXAlignment.Left
+	Template.TextWrap = true
+
+	Logs.Active = true
+	Logs.Draggable = true
+
+	local loggedTable = {}
+
+	local getTotalSize = function()
+		local totalSize = UDim2.new(0, 0, 0, 0)
+
+		for i, v in next, loggedTable do
+			totalSize = totalSize + UDim2.new(0, 0, 0, v.Size.Y.Offset)
+		end
+
+		return totalSize
+	end
+
+	local BUD = UDim2.new(0, 0, 0, 0)
+	local TotalNum = 0
+
+	local function GenLog(txt, colo, time)
+		local oldColo = Color3.fromRGB(0, 0, 0)	
+
+		local Temp = Template:Clone()
+		Temp.Parent = Scroll
+		Temp.Name = txt..'Logged'
+		Temp.Text = tostring(txt)
+		Temp.Visible = true
+		Temp.Position = BUD + UDim2.new(0, 0, 0, 0)
+		if colo then oldColo = colo Temp.TextColor3 = colo elseif not colo then Temp.TextColor3 = Color3.fromRGB(200, 200, 200) end
+
+		local timeVal = Instance.new('StringValue', Temp)
+		timeVal.Name = 'TimeVal'
+		timeVal.Value = time
+
+		TotalNum = TotalNum + 1
+
+		if not Temp.TextFits then repeat Temp.Size = UDim2.new(Temp.Size.X.Scale, Temp.Size.X.Offset, Temp.Size.Y.Scale, Temp.Size.Y.Offset + 10)
+				Temp.Text = txt
+			until Temp.TextFits 
+		end
+
+		BUD = BUD + UDim2.new(0, 0, 0, Temp.Size.Y.Offset)
+
+		table.insert(loggedTable, Temp)
+
+		local totSize = getTotalSize()
+
+		if totSize.Y.Offset >= Scroll.CanvasSize.Y.Offset then Scroll.CanvasSize = UDim2.new(totSize.X.Scale, totSize.X.Offset, totSize.Y.Scale, totSize.Y.Offset + 100)
+			Scroll.CanvasPosition = Scroll.CanvasPosition + Vector2.new(0, totSize.Y.Offset) 
+		end
+
+		return Temp
+	end
+
+	local ChatData = ""
+
+	local function SaveToFile()
+		local t = os.date("*t")
+		local dateDat = t['hour']..' '..t['min']..' '..t['sec']..' '..t['day']..'.'..t['month']..'.'..t['year']
+
+		ChatData = ""
+
+		for i, v in pairs(Scroll:GetChildren()) do
+			ChatData = ChatData..v.TimeVal.Value..' '..v.Text..'\n'
+		end
+
+		writefile('ChatLogs '..dateDat..'.txt', ChatData)
+	end
+
+
+	local function Clear()
+		loggedTable = {}
+		ChatData = ""
+		Scroll.CanvasPosition = Vector2.new(0, 0)
+		for i, v in pairs(Scroll:GetChildren()) do
+			v:Destroy()
+		end
+		Scroll.CanvasSize = UDim2.new(0, 0, 0, 0)
+		BUD = UDim2.new(0, 0, 0, 0)
+	end
+
+	local LogPlr = function(plr)
+		plr.Chatted:connect(function(msg)
+
 			local t = os.date("*t")
 			local dateDat = t['hour']..':'..t['min']..':'..t['sec']
-	
+
 			if string.len(msg) >= 1000 then return nil end
 			if string.lower(msg) == 'clear' and plr == game:service('Players').LocalPlayer then Clear() return nil end
 			if string.lower(msg) == 'savetofile' and plr == game:service('Players').LocalPlayer then SaveToFile() return nil end
 			if string.sub(msg, 1, 1):match('%p') and string.sub(msg, 2, 2):match('%a') and string.len(msg) >= 5 then GenLog(plr.Name..': '..msg, Color3.new(255, 0, 0), dateDat) else
-			GenLog(plr.Name..': '..msg, Color3.new(255, 255, 255), dateDat)
+				GenLog(plr.Name..': '..msg, Color3.new(255, 255, 255), dateDat)
 			end
+		end)
+	end
+
+	for i, v in pairs(game.Players:GetChildren()) do
+		LogPlr(v)
+	end
+
+	game.Players.PlayerAdded:connect(function(plr)
+		LogPlr(plr)
 	end)
-end
-
-for i, v in pairs(game.Players:GetChildren()) do
-	LogPlr(v)
-end
-
-game.Players.PlayerAdded:connect(function(plr)
-	LogPlr(plr)
-end)
 end)
 
 WorldFrame.Name = "WorldFrame"
@@ -1852,10 +1850,10 @@ FullBright.TextSize = 18
 FullBright.TextWrapped = true
 FullBright.MouseButton1Click:connect(function()
 	for i,v in pairs(game:GetService("Lighting"):GetChildren()) do
-        if v:IsA("PostEffect") then
-            v:Destroy()
-        end
-    end
+		if v:IsA("PostEffect") then
+			v:Destroy()
+		end
+	end
 end)
 
 RemoveTrees.Name = "RemoveTrees"
@@ -1886,12 +1884,12 @@ SkyPlatform.TextSize = 18
 SkyPlatform.TextWrapped = true
 SkyPlatform.MouseButton1Click:connect(function()
 	Part0 = Instance.new("Part", game.Workspace)
-Part0.Anchored = true
-Part0.Transparency = 0.5
-Part0.Size = Vector3.new(168, 1, 266)
-Part0.CFrame = CFrame.new(24, 2.5, 30, 1, 0, 0, 0, 1, 0, 0, 0, 1)
-Part0.Position = Vector3.new(113, 500, 101)
-game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(113, 502, 101) + Vector3.new(1,0,0)
+	Part0.Anchored = true
+	Part0.Transparency = 0.5
+	Part0.Size = Vector3.new(168, 1, 266)
+	Part0.CFrame = CFrame.new(24, 2.5, 30, 1, 0, 0, 0, 1, 0, 0, 0, 1)
+	Part0.Position = Vector3.new(113, 500, 101)
+	game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(113, 502, 101) + Vector3.new(1,0,0)
 end)
 
 textworld.Name = "textworld"
@@ -2085,13 +2083,13 @@ Elder_2.TextSize = 18
 Elder_2.TextWrapped = true
 Elder_2.MouseButton1Click:connect(function()
 	local a = (Eldereddino.Text)
-local targ = (Targetdino.Text)
-workspace.GameEvents.ChangeDinosaur:FireServer(a)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	local targ = (Targetdino.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(a)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
 end)
 
 Targetdino.Name = "Targetdino"
@@ -2153,24 +2151,24 @@ Elderplus.TextSize = 18
 Elderplus.TextWrapped = true
 Elderplus.MouseButton1Click:connect(function()
 	local CountDown = 7
-local t = 1
-local c = game.Players.LocalPlayer.Character
-local Menu = workspace.GameEvents.GoToMenu
-local a = (Eldereddinoplus.Text)
-local targ = (Targetdinoplus.Text)
+	local t = 1
+	local c = game.Players.LocalPlayer.Character
+	local Menu = workspace.GameEvents.GoToMenu
+	local a = (Eldereddinoplus.Text)
+	local targ = (Targetdinoplus.Text)
 
 
-     print("If adult, with baby stats, try a few more times for success.")
-workspace.GameEvents.ChangeDinosaur:FireServer(a)
-Menu:FireServer(CountDown)
-wait(5)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-Menu:FireServer(CountDown)
-wait(6)
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-workspace.GameEvents.StartPlayer:FireServer()
-print("It's a 1/8 chance to be an actual elder. ")
+	print("If adult, with baby stats, try a few more times for success.")
+	workspace.GameEvents.ChangeDinosaur:FireServer(a)
+	Menu:FireServer(CountDown)
+	wait(5)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	Menu:FireServer(CountDown)
+	wait(6)
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	workspace.GameEvents.StartPlayer:FireServer()
+	print("It's a 1/8 chance to be an actual elder. ")
 end)
 
 TradingFrame.Name = "TradingFrame"
@@ -2255,9 +2253,9 @@ FakeDupe.TextSize = 18
 FakeDupe.TextWrapped = true
 FakeDupe.MouseButton1Click:connect(function()
 	for i=1, 20 do
-spawn(function() print(workspace.GameFunctions.ConvertSkin:InvokeServer(tokennamevalue.Text)) end)
-end
-workspace.GameFunctions.UpdateObtainedTokensDS:InvokeServer("ConvertSkin")
+		spawn(function() print(workspace.GameFunctions.ConvertSkin:InvokeServer(tokennamevalue.Text)) end)
+	end
+	workspace.GameFunctions.UpdateObtainedTokensDS:InvokeServer("ConvertSkin")
 end)
 
 ConvertToSkin.Name = "ConvertToSkin"
@@ -2273,8 +2271,8 @@ ConvertToSkin.TextSize = 14
 ConvertToSkin.TextWrapped = true
 ConvertToSkin.MouseButton1Click:connect(function()
 	for i=1, 20 do
-spawn(function() print(workspace.GameFunctions.ConvertToken:InvokeServer(tokennamevalue.Text)) end)
-end
+		spawn(function() print(workspace.GameFunctions.ConvertToken:InvokeServer(tokennamevalue.Text)) end)
+	end
 end)
 
 ConvertToToken.Name = "ConvertToToken"
@@ -2290,8 +2288,8 @@ ConvertToToken.TextSize = 14
 ConvertToToken.TextWrapped = true
 ConvertToToken.MouseButton1Click:connect(function()
 	for i=1, 20 do
-spawn(function() print(workspace.GameFunctions.ConvertSkin:InvokeServer(tokennamevalue.Text)) end)
-end
+		spawn(function() print(workspace.GameFunctions.ConvertSkin:InvokeServer(tokennamevalue.Text)) end)
+	end
 end)
 
 texttrade2.Name = "texttrade2"
@@ -2464,10 +2462,10 @@ Whitelist.TextSize = 18
 Whitelist.TextWrapped = true
 Whitelist.MouseButton1Click:connect(function()
 	game.StarterGui:SetCore("SendNotification", {
-Title = "Moderation";
-Text = "You do not have permission!";
-Duration = 5;
-})
+		Title = "Moderation";
+		Text = "You do not have permission!";
+		Duration = 5;
+	})
 end)
 
 moduserid.Name = "moduserid"
@@ -2494,10 +2492,10 @@ Blacklist.TextSize = 18
 Blacklist.TextWrapped = true
 Blacklist.MouseButton1Click:connect(function()
 	game.StarterGui:SetCore("SendNotification", {
-Title = "Moderation";
-Text = "You do not have permission!";
-Duration = 5;
-})
+		Title = "Moderation";
+		Text = "You do not have permission!";
+		Duration = 5;
+	})
 end)
 
 ExclusiveFrame.Name = "ExclusiveFrame"
@@ -2536,8 +2534,8 @@ God.TextSize = 18
 God.TextWrapped = true
 God.MouseButton1Click:connect(function()
 	while wait() do
-game.Players.LocalPlayer.Character.Stats.Armor:Remove()
-end
+		game.Players.LocalPlayer.Character.Stats.Armor:Remove()
+	end
 end)
 
 InvisibleFossil.Name = "InvisibleFossil"
@@ -2568,8 +2566,8 @@ NoBleed.TextSize = 18
 NoBleed.TextWrapped = true
 NoBleed.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.Stats.bleedingStack:Remove()
-wait(1)
-game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
+	wait(1)
+	game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
 end)
 
 SafeLog.Name = "SafeLog"
@@ -2585,25 +2583,25 @@ SafeLog.TextSize = 18
 SafeLog.TextWrapped = true
 SafeLog.MouseButton1Click:Connect(function()
 	local p = game.Players.LocalPlayer
-local h = p.Character:FindFirstChildOfClass'Humanoid';
-        for _, Child in pairs(p.Character:GetChildren()) do
-            if (Child:IsA'LocalScript') then
-                Child.Disabled = true;
-            end
-        end
-        h:Destroy();
-        for _, Child in pairs(p.Character:GetChildren()) do
-            if (Child:IsA'LocalScript') then
-                Child.Disabled = false;
-            end
-        end
-        while wait() do
-            if (God == true) then
-                w.Camera.CameraSubject = xo;
-            else
-                break;
-            end
-        end
+	local h = p.Character:FindFirstChildOfClass'Humanoid';
+	for _, Child in pairs(p.Character:GetChildren()) do
+		if (Child:IsA'LocalScript') then
+			Child.Disabled = true;
+		end
+	end
+	h:Destroy();
+	for _, Child in pairs(p.Character:GetChildren()) do
+		if (Child:IsA'LocalScript') then
+			Child.Disabled = false;
+		end
+	end
+	while wait() do
+		if (God == true) then
+			w.Camera.CameraSubject = xo;
+		else
+			break;
+		end
+	end
 end)
 
 CanSwim.Name = "CanSwim"
@@ -2665,16 +2663,16 @@ BetterSpeed.TextWrapped = true
 BetterSpeed.MouseButton1Click:connect(function()
 	local c = game.Players.LocalPlayer.Character.Dinosaur
 
-while wait(.1) do
-c.WalkSpeed = c.WalkSpeed + 1
- if c.WalkSpeed >= 40 then 
-c.WalkSpeed = c.WalkSpeed - 5
-  if c.WalkSpeed < 21 then 
-      c.WalkSpeed = 21
-      c.WalkSpeed = c.WalkSpeed + 1
-  end
-  end
- end
+	while wait(.1) do
+		c.WalkSpeed = c.WalkSpeed + 1
+		if c.WalkSpeed >= 40 then 
+			c.WalkSpeed = c.WalkSpeed - 5
+			if c.WalkSpeed < 21 then 
+				c.WalkSpeed = 21
+				c.WalkSpeed = c.WalkSpeed + 1
+			end
+		end
+	end
 end)
 
 InfOxygen.Name = "InfOxygen"
@@ -2705,7 +2703,7 @@ Fire.TextSize = 18
 Fire.TextWrapped = true
 Fire.MouseButton1Click:connect(function()
 	local s = Instance.new("Fire", game.Players.LocalPlayer.Character.Torso)
-s.Size =  20
+	s.Size =  20
 end)
 
 Sparkles.Name = "Sparkles"
@@ -2736,22 +2734,22 @@ Grab.TextSize = 18
 Grab.TextWrapped = true
 Grab.MouseButton1Click:connect(function()
 	last = nil
-game:service"UserInputService".InputBegan:connect(function(key, proc)
-if key.KeyCode == Enum.KeyCode.J and not proc then
-for i,v in next, game.Players:GetPlayers() do
-if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<20 then
-local target = v.Character
-workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
-workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
-end
-end
-elseif key.KeyCode == Enum.KeyCode.Q and not proc then
-last = game.Players.LocalPlayer:GetMouse().Target.Parent
-workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
-elseif key.KeyCode == Enum.KeyCode.E and not proc then
-workspace.GameEvents.Grab:FireServer(last, game.Players.LocalPlayer:GetMouse().Hit.p, "Drop")
-end
-end)
+	game:service"UserInputService".InputBegan:connect(function(key, proc)
+		if key.KeyCode == Enum.KeyCode.J and not proc then
+			for i,v in next, game.Players:GetPlayers() do
+				if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<20 then
+					local target = v.Character
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
+				end
+			end
+		elseif key.KeyCode == Enum.KeyCode.Q and not proc then
+			last = game.Players.LocalPlayer:GetMouse().Target.Parent
+			workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
+		elseif key.KeyCode == Enum.KeyCode.E and not proc then
+			workspace.GameEvents.Grab:FireServer(last, game.Players.LocalPlayer:GetMouse().Hit.p, "Drop")
+		end
+	end)
 end)
 
 UnderLight.Name = "UnderLight"
@@ -2767,9 +2765,9 @@ UnderLight.TextSize = 18
 UnderLight.TextWrapped = true
 UnderLight.MouseButton1Click:connect(function()
 	local s = Instance.new("PointLight", game.Players.LocalPlayer.Character.Torso)
-s.Brightness = 5
-s.Color = Color3.new(255, 0, 0)
-s.Range = 12
+	s.Brightness = 5
+	s.Color = Color3.new(255, 0, 0)
+	s.Range = 12
 end)
 
 RemoveParts.Name = "RemoveParts"
@@ -2785,7 +2783,7 @@ RemoveParts.TextSize = 18
 RemoveParts.TextWrapped = true
 RemoveParts.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.Tail1:Remove()
-game.Players.LocalPlayer.Character.Neck1:Remove()
+	game.Players.LocalPlayer.Character.Neck1:Remove()
 end)
 
 textspecial1.Name = "textspecial1"
@@ -2814,26 +2812,26 @@ ReplaceStats.TextSize = 18
 ReplaceStats.TextWrapped = true
 ReplaceStats.MouseButton1Click:connect(function()
 	for i=1, 5 do
-local b = (StatReplaceBaby.Text) --Baby Dinosaur (You will spawn as that dinosaur)
-local e = (StatReplaceElder.Text) --Elder/Adult Dinosaur (You will have this dino's stats)
+		local b = (StatReplaceBaby.Text) --Baby Dinosaur (You will spawn as that dinosaur)
+		local e = (StatReplaceElder.Text) --Elder/Adult Dinosaur (You will have this dino's stats)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-end
+		workspace.GameEvents.ChangeDinosaur:FireServer(b)
+		wait(1)
+		workspace.GameEvents.StartPlayer:FireServer()
+		workspace.GameEvents.ChangeDinosaur:FireServer(e)
+		wait(.1)
+		workspace.GameEvents.ChangeDinosaur:FireServer(e)
+		workspace.GameEvents.ChangeDinosaur:FireServer(b)
+		workspace.GameEvents.StartPlayer:FireServer()
+		wait(.1)
+		workspace.GameEvents.ChangeDinosaur:FireServer(e)
+		workspace.GameEvents.ChangeDinosaur:FireServer(b)
+		workspace.GameEvents.ChangeDinosaur:FireServer(e)
+		workspace.GameEvents.StartPlayer:FireServer()
+		wait(.1)
+		workspace.GameEvents.ChangeDinosaur:FireServer(b)
+		print("You cant fill your hunger as a baby elder!")
+	end
 end)
 
 StatReplaceElder.Name = "StatReplaceElder"
@@ -2871,26 +2869,26 @@ FreezePlayer.TextSize = 15
 FreezePlayer.TextWrapped = true
 FreezePlayer.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.FakeHead:Remove()
-	
+
 	wait(2)
-	
+
 	last = nil
-game:service"UserInputService".InputBegan:connect(function(key, proc)
-if key.KeyCode == Enum.KeyCode.J and not proc then
-for i,v in next, game.Players:GetPlayers() do
-if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<20 then
-local target = v.Character
-workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
-workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
-end
-end
-elseif key.KeyCode == Enum.KeyCode.K and not proc then
-last = game.Players.LocalPlayer:GetMouse().Target.Parent
-workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
-elseif key.KeyCode == Enum.KeyCode.E and not proc then
-workspace.GameEvents.Grab:FireServer(last, game.Players.LocalPlayer:GetMouse().Hit.p, "Drop")
-end
-end)
+	game:service"UserInputService".InputBegan:connect(function(key, proc)
+		if key.KeyCode == Enum.KeyCode.J and not proc then
+			for i,v in next, game.Players:GetPlayers() do
+				if v~=game.Players.LocalPlayer and v.Character~=nil and (v.Character.Torso.Position-game.Players.LocalPlayer.Character.Torso.Position).magnitude<20 then
+					local target = v.Character
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,0,0), "Grab")
+					workspace.GameEvents.Grab:FireServer(target, Vector3.new(0,-90000,9000), "Drop")
+				end
+			end
+		elseif key.KeyCode == Enum.KeyCode.K and not proc then
+			last = game.Players.LocalPlayer:GetMouse().Target.Parent
+			workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
+		elseif key.KeyCode == Enum.KeyCode.E and not proc then
+			workspace.GameEvents.Grab:FireServer(last, game.Players.LocalPlayer:GetMouse().Hit.p, "Drop")
+		end
+	end)
 end)
 
 SecretEmoji.Name = "SecretEmoji"
@@ -2970,16 +2968,16 @@ EarRape.TextSize = 18
 EarRape.TextWrapped = true
 EarRape.MouseButton1Click:connect(function()
 	while wait(0.2) do
-for _,plr in pairs(game.Players:GetPlayers()) do
-pcall(function()
-for _,obj in pairs(plr.Character.Head:GetChildren()) do
-if obj:IsA("Sound") then
-obj:Play()
-end
-end
-end)
-end
-end
+		for _,plr in pairs(game.Players:GetPlayers()) do
+			pcall(function()
+				for _,obj in pairs(plr.Character.Head:GetChildren()) do
+					if obj:IsA("Sound") then
+						obj:Play()
+					end
+				end
+			end)
+		end
+	end
 end)
 
 ChatTroll.Name = "ChatTroll"
@@ -2995,11 +2993,11 @@ ChatTroll.TextSize = 18
 ChatTroll.TextWrapped = true
 ChatTroll.MouseButton1Click:connect(function()
 	local Action = game.Players:GetPlayers()
-  for i = 1,#Action do
-Action[i].Chatted:connect(function(Message)
-  game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("".."["..Action[i].Name.."]".." "..Message, "All")
-  end)
-end
+	for i = 1,#Action do
+		Action[i].Chatted:connect(function(Message)
+			game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("".."["..Action[i].Name.."]".." "..Message, "All")
+		end)
+	end
 end)
 
 FakeHealth.Name = "FakeHealth"
@@ -3015,8 +3013,8 @@ FakeHealth.TextSize = 18
 FakeHealth.TextWrapped = true
 FakeHealth.MouseButton1Click:connect(function()
 	game.Players.LocalPlayer.Character.Dinosaur.MaxHealth = 999999
-    game.Players.LocalPlayer.Character.Dinosaur.Health = 999999
-    game.Players.LocalPlayer.Character.Dinosaur.Regen = 999999
+	game.Players.LocalPlayer.Character.Dinosaur.Health = 999999
+	game.Players.LocalPlayer.Character.Dinosaur.Regen = 999999
 end)
 
 FakeArmor.Name = "FakeArmor"
@@ -3076,8 +3074,8 @@ SetDays.TextWrapped = true
 SetDays.MouseButton1Click:connect(function()
 	for i=1, 20 do
 
-    spawn(function() print(workspace.GameFunctions.UpdateValues:InvokeServer(DaysValue.Text)) end)
-    end
+		spawn(function() print(workspace.GameFunctions.UpdateValues:InvokeServer(DaysValue.Text)) end)
+	end
 end)
 
 AdminsaurButton.Name = "AdminsaurButton"
@@ -3139,9 +3137,9 @@ BuySkin.TextWrapped = true
 BuySkin.MouseButton1Click:connect(function()
 	for i = 1, 1 do
 
-    spawn(function() print(workspace.GameFunctions.PurchasingDino:InvokeServer(BuySkinValue.Text)) 
-end)
-end 
+		spawn(function() print(workspace.GameFunctions.PurchasingDino:InvokeServer(BuySkinValue.Text)) 
+		end)
+	end 
 end)
 
 BuySkinValue.Name = "BuySkinValue"
@@ -3168,13 +3166,13 @@ AlbinoTerror.TextSize = 18
 AlbinoTerror.TextWrapped = true
 AlbinoTerror.MouseButton1Click:connect(function()
 	local a = "Albino Terror V2"
-local targ = "Albino Terror V2"
-workspace.GameEvents.ChangeDinosaur:FireServer(a)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	local targ = "Albino Terror V2"
+	workspace.GameEvents.ChangeDinosaur:FireServer(a)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
 end)
 
 HotheadMegavore.Name = "HotheadMegavore"
@@ -3190,13 +3188,13 @@ HotheadMegavore.TextSize = 15
 HotheadMegavore.TextWrapped = true
 HotheadMegavore.MouseButton1Click:connect(function()
 	local a = "Hothead Megavore"
-local targ = "Hothead Megavore"
-workspace.GameEvents.ChangeDinosaur:FireServer(a)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	local targ = "Hothead Megavore"
+	workspace.GameEvents.ChangeDinosaur:FireServer(a)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
 end)
 
 Shake.Name = "Shake"
@@ -3212,11 +3210,11 @@ Shake.TextSize = 18
 Shake.TextWrapped = true
 Shake.MouseButton1Click:connect(function()
 	AnimationId = "741896167"
-local Anim = Instance.new("Animation")
-Anim.AnimationId = "rbxassetid://"..AnimationId
-local k = game.Players.LocalPlayer.Character.Dinosaur:LoadAnimation(Anim)
-k:Play()
-k:AdjustSpeed(10)
+	local Anim = Instance.new("Animation")
+	Anim.AnimationId = "rbxassetid://"..AnimationId
+	local k = game.Players.LocalPlayer.Character.Dinosaur:LoadAnimation(Anim)
+	k:Play()
+	k:AdjustSpeed(10)
 end)
 
 SwimAnimation.Name = "SwimAnimation"
@@ -3247,11 +3245,11 @@ AntiAFK.TextSize = 18
 AntiAFK.TextWrapped = true
 AntiAFK.MouseButton1Click:connect(function()
 	local VirtualUser=game:service'VirtualUser'
-game:service'Players'.LocalPlayer.Idled:connect(function()
-VirtualUser:CaptureController()
-VirtualUser:ClickButton2(Vector2.new())
-end)
-print'Anti Afk ran'
+	game:service'Players'.LocalPlayer.Idled:connect(function()
+		VirtualUser:CaptureController()
+		VirtualUser:ClickButton2(Vector2.new())
+	end)
+	print'Anti Afk ran'
 end)
 
 AutomationFrame.Name = "AutomationFrame"
@@ -3290,9 +3288,9 @@ AutoSwim.TextSize = 18
 AutoSwim.TextWrapped = true
 AutoSwim.MouseButton1Click:connect(function()
 	local Robo = "Up"
-local Exploit = true
-local Event = game:GetService("Workspace").GameEvents.Swimming
-Event:FireServer(Robo, Exploit)
+	local Exploit = true
+	local Event = game:GetService("Workspace").GameEvents.Swimming
+	Event:FireServer(Robo, Exploit)
 end)
 
 AutoAttack.Name = "AutoAttack"
@@ -3308,9 +3306,9 @@ AutoAttack.TextSize = 18
 AutoAttack.TextWrapped = true
 AutoAttack.MouseButton1Click:connect(function()
 	while true do
-wait()
-game.Workspace.GameEvents.Damage:FireServer("Workspace")
-end
+		wait()
+		game.Workspace.GameEvents.Damage:FireServer("Workspace")
+	end
 end)
 
 AutoSprint.Name = "AutoSprint"
@@ -3356,9 +3354,9 @@ SwimDisable.TextSize = 18
 SwimDisable.TextWrapped = true
 SwimDisable.MouseButton1Click:connect(function()
 	local Robo = "Stop"
-local Exploit = false
-local Event = game:GetService("Workspace").GameEvents.Swimming
-Event:FireServer(Robo)
+	local Exploit = false
+	local Event = game:GetService("Workspace").GameEvents.Swimming
+	Event:FireServer(Robo)
 end)
 
 DNAFarmFrame.Name = "DNAFarmFrame"
@@ -3397,9 +3395,9 @@ StartDNALoop.TextSize = 18
 StartDNALoop.TextWrapped = true
 StartDNALoop.MouseButton1Click:connect(function()
 	while true do
-    wait(DNAtimevalue.Text)
-    game.Workspace.GameEvents.StartPlayer:FireServer()
-end
+		wait(DNAtimevalue.Text)
+		game.Workspace.GameEvents.StartPlayer:FireServer()
+	end
 end)
 
 DNAtimevalue.Name = "DNAtimevalue"
@@ -3463,7 +3461,7 @@ DestroyGUI.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 DestroyGUI.TextSize = 18
 DestroyGUI.TextWrapped = true
 DestroyGUI.MouseButton1Click:connect(function()
-HypGUIAdmin:Destroy()
+	HypGUIAdmin:Destroy()
 end)
 
 AdminStuffFrame.Name = "AdminStuffFrame"
@@ -3517,9 +3515,9 @@ AutoFastAttack.TextSize = 16
 AutoFastAttack.TextWrapped = true
 AutoFastAttack.MouseButton1Click:connect(function()
 	while wait() do
-game.Workspace.GameEvents.Damage:FireServer()
-workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
-end
+		game.Workspace.GameEvents.Damage:FireServer()
+		workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
+	end
 end)
 
 FastAttack.Name = "FastAttack"
@@ -3535,12 +3533,12 @@ FastAttack.TextSize = 17
 FastAttack.TextWrapped = true
 FastAttack.MouseButton1Click:connect(function()
 	local UIS = game:GetService("UserInputService")
-UIS.InputBegan:Connect(function(k)
-if k.KeyCode == Enum.KeyCode.E then
-game.Workspace.GameEvents.Damage:FireServer()
-workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
-end
-end)
+	UIS.InputBegan:Connect(function(k)
+		if k.KeyCode == Enum.KeyCode.E then
+			game.Workspace.GameEvents.Damage:FireServer()
+			workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
+		end
+	end)
 end)
 
 SpamAttack.Name = "SpamAttack"
@@ -3556,29 +3554,29 @@ SpamAttack.TextSize = 16
 SpamAttack.TextWrapped = true
 SpamAttack.MouseButton1Click:connect(function()
 	getgenv().Toggled=false
-getgenv().KeyBind="Q"
-getgenv().Delay=0.1
-local UIS=game:GetService'UserInputService'
+	getgenv().KeyBind="Q"
+	getgenv().Delay=0.1
+	local UIS=game:GetService'UserInputService'
 
-local function Source()
-game.Workspace.GameEvents.Damage:FireServer()
-workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
-end
-UIS.InputBegan:Connect(function(Key)
-    if Key.KeyCode==Enum.KeyCode[getgenv().KeyBind:upper()] and not UIS:GetFocusedTextBox() then
-        if getgenv().Toggled then
-            getgenv().Toggled=false
-            warn'Disabled!'
-        elseif not getgenv().Toggled then
-            getgenv().Toggled=true
-            warn'Enabled!'
-            while getgenv().Toggled do
-                Source()
-                wait(getgenv().Delay)
-            end
-        end
-    end
-end)
+	local function Source()
+		game.Workspace.GameEvents.Damage:FireServer()
+		workspace.GameEvents.Grab:FireServer(last, Vector3.new(0,0,0), "Grab")
+	end
+	UIS.InputBegan:Connect(function(Key)
+		if Key.KeyCode==Enum.KeyCode[getgenv().KeyBind:upper()] and not UIS:GetFocusedTextBox() then
+			if getgenv().Toggled then
+				getgenv().Toggled=false
+				warn'Disabled!'
+			elseif not getgenv().Toggled then
+				getgenv().Toggled=true
+				warn'Enabled!'
+				while getgenv().Toggled do
+					Source()
+					wait(getgenv().Delay)
+				end
+			end
+		end
+	end)
 end)
 
 CrashServer.Name = "CrashServer"
@@ -3595,42 +3593,42 @@ CrashServer.TextWrapped = true
 CrashServer.MouseButton1Click:connect(function()
 	sounds = {}
 
-function getSounds(loc)
-if loc:IsA("Sound") then
-table.insert(sounds,loc)
-end
-for _,obj in pairs(loc:GetChildren()) do
-getSounds(obj)
-end
-end
+	function getSounds(loc)
+		if loc:IsA("Sound") then
+			table.insert(sounds,loc)
+		end
+		for _,obj in pairs(loc:GetChildren()) do
+			getSounds(obj)
+		end
+	end
 
-getSounds(game)
+	getSounds(game)
 
-game.DescendantAdded:connect(function(obj)
-if obj:IsA("Sound") then
-table.insert(sounds,obj)
-end
-end)
+	game.DescendantAdded:connect(function(obj)
+		if obj:IsA("Sound") then
+			table.insert(sounds,obj)
+		end
+	end)
 
-while wait(0.2) do
-for _,sound in pairs(sounds) do
-pcall(function()
-sound:Play()
-end)
-end
-end
+	while wait(0.2) do
+		for _,sound in pairs(sounds) do
+			pcall(function()
+				sound:Play()
+			end)
+		end
+	end
 
-wait(1)
+	wait(1)
 
-while wait() do
-   for i,v in pairs(game:GetService'Players':GetPlayers()) do
-       if v.Character ~= nil and v.Character:FindFirstChild'Head' then
-           for _,x in pairs(v.Character.Head:GetChildren()) do
-               if x:IsA'Sound' then x.Playing = true x.CharacterSoundEvent:FireServer(true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true) end
-           end
-       end
-   end
-end
+	while wait() do
+		for i,v in pairs(game:GetService'Players':GetPlayers()) do
+			if v.Character ~= nil and v.Character:FindFirstChild'Head' then
+				for _,x in pairs(v.Character.Head:GetChildren()) do
+					if x:IsA'Sound' then x.Playing = true x.CharacterSoundEvent:FireServer(true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true, true) end
+				end
+			end
+		end
+	end
 end)
 
 textadminstuff1.Name = "textadminstuff1"
@@ -3659,164 +3657,164 @@ ReplaceStatsImp.TextSize = 18
 ReplaceStatsImp.TextWrapped = true
 ReplaceStatsImp.MouseButton1Click:connect(function()
 	local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
-wait(0.1)
-local b = (StatReplaceBabyImp.Text)
-local e = (StatReplaceElderImp.Text)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
+	wait(0.1)
+	local b = (StatReplaceBabyImp.Text)
+	local e = (StatReplaceElderImp.Text)
 
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-wait(1)
-workspace.GameEvents.StartPlayer:FireServer()
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-workspace.GameEvents.ChangeDinosaur:FireServer(e)
-workspace.GameEvents.StartPlayer:FireServer()
-wait(.1)
-workspace.GameEvents.ChangeDinosaur:FireServer(b)
-print("You cant fill your hunger as a baby elder!")
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	wait(1)
+	workspace.GameEvents.StartPlayer:FireServer()
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	workspace.GameEvents.ChangeDinosaur:FireServer(e)
+	workspace.GameEvents.StartPlayer:FireServer()
+	wait(.1)
+	workspace.GameEvents.ChangeDinosaur:FireServer(b)
+	print("You cant fill your hunger as a baby elder!")
 end)
 
 StatReplaceElderImp.Name = "StatReplaceElderImp"
@@ -3877,12 +3875,12 @@ Unbeatable.TextSize = 18
 Unbeatable.TextWrapped = true
 Unbeatable.MouseButton1Click:connect(function()
 	while wait() do
-game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
-end
-wait(1)
-while wait() do
-game.Players.LocalPlayer.Character.Stats.Armor:Remove()
-end
+		game.Players.LocalPlayer.Character.CharacterScripts.HandleBleeding:Remove()
+	end
+	wait(1)
+	while wait() do
+		game.Players.LocalPlayer.Character.Stats.Armor:Remove()
+	end
 end)
 
 ClearSight.Name = "ClearSight"
@@ -3900,10 +3898,10 @@ ClearSight.MouseButton1Click:connect(function()
 	game.Lighting.FogEnd = 999999999
 	wait(1)
 	for i,v in pairs(game:GetService("Lighting"):GetChildren()) do
-        if v:IsA("PostEffect") then
-            v:Destroy()
-        end
-	    end
+		if v:IsA("PostEffect") then
+			v:Destroy()
+		end
+	end
 	wait(1)
 	game.Lighting.Blur.Size = 0
 end)
@@ -3922,59 +3920,59 @@ ServerSpy.TextWrapped = true
 ServerSpy.MouseButton1Click:connect(function()
 	Important = {Players = game:GetService("Players"), Workspace = game:GetService("Workspace"), CoreGui = game:GetService("CoreGui")}
 
-local enabledesp = false
+	local enabledesp = false
 
-function CreateESP(plr)
-   
-   if plr ~= nil then
-       
-       local GetChar = plr.Character
-       if not GetChar then return end
-       
-       local GetHead do
-           
-           repeat wait() until GetChar:FindFirstChild("Head")
-           
-       end
-       GetHead = GetChar.Head        
-       
-       local bb = Instance.new("BillboardGui", Important.CoreGui)
-       bb.Adornee = GetHead
-       bb.ExtentsOffset = Vector3.new(0, 1, 0)
-       bb.AlwaysOnTop = true
-       bb.Size = UDim2.new(0, 5, 0, 5)
-       bb.StudsOffset = Vector3.new(0, 3, 0)
-       bb.Name = "ESP_PLAYER_" .. plr.Name
+	function CreateESP(plr)
 
-       local displayframe = Instance.new("Frame", bb)
-       displayframe.ZIndex = 10
-       displayframe.BackgroundTransparency = 1
-       displayframe.Size = UDim2.new(1,0,1,0)
-       
-       local name = Instance.new("TextLabel", displayframe)
-       name.Name = "Name"
-       name.ZIndex = 10
-       name.Text = plr.Name
-       name.Visible = true
-       name.TextColor3 = Color3.new(212,244,188)
-       name.BackgroundTransparency = 1
-       name.Size = UDim2.new(1,0,10,0)
-       name.Font = Enum.Font.SourceSansLight
-       name.TextSize = 20
-       name.TextStrokeTransparency = .5
-       
-   end
-   
-end
+		if plr ~= nil then
 
-   
-   for i,v in pairs(Important.Players:GetChildren()) do
-       if game.GameId == 1320186298 then return end
-       CreateESP(v)
-       
-   end
-wait(1)
-game.Lighting.FogEnd = 999999999
+			local GetChar = plr.Character
+			if not GetChar then return end
+
+			local GetHead do
+
+				repeat wait() until GetChar:FindFirstChild("Head")
+
+			end
+			GetHead = GetChar.Head        
+
+			local bb = Instance.new("BillboardGui", Important.CoreGui)
+			bb.Adornee = GetHead
+			bb.ExtentsOffset = Vector3.new(0, 1, 0)
+			bb.AlwaysOnTop = true
+			bb.Size = UDim2.new(0, 5, 0, 5)
+			bb.StudsOffset = Vector3.new(0, 3, 0)
+			bb.Name = "ESP_PLAYER_" .. plr.Name
+
+			local displayframe = Instance.new("Frame", bb)
+			displayframe.ZIndex = 10
+			displayframe.BackgroundTransparency = 1
+			displayframe.Size = UDim2.new(1,0,1,0)
+
+			local name = Instance.new("TextLabel", displayframe)
+			name.Name = "Name"
+			name.ZIndex = 10
+			name.Text = plr.Name
+			name.Visible = true
+			name.TextColor3 = Color3.new(212,244,188)
+			name.BackgroundTransparency = 1
+			name.Size = UDim2.new(1,0,10,0)
+			name.Font = Enum.Font.SourceSansLight
+			name.TextSize = 20
+			name.TextStrokeTransparency = .5
+
+		end
+
+	end
+
+
+	for i,v in pairs(Important.Players:GetChildren()) do
+		if game.GameId == 1320186298 then return end
+		CreateESP(v)
+
+	end
+	wait(1)
+	game.Lighting.FogEnd = 999999999
 end)
 
 Aquatic.Name = "Aquatic"
@@ -4018,6 +4016,6 @@ Open.TextScaled = true
 Open.TextSize = 14
 Open.TextWrapped = true
 Open.MouseButton1Down:Connect(function()
-Main.Visible = true
-OpenFrame.Visible = false
+	Main.Visible = true
+	OpenFrame.Visible = false
 end)
