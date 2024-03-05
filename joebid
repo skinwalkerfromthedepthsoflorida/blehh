@@ -2094,7 +2094,6 @@ Elder_2.MouseButton1Click:connect(function()
 	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
 	wait(6)
 	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-	workspace.GameEvents.StartPlayer:FireServer()
 	print("If adult, with baby stats, try a few more times for success.")
 end)
 
