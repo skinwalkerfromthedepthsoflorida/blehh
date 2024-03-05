@@ -2082,14 +2082,22 @@ Elder_2.TextColor3 = Color3.new(0.611765, 0.611765, 0.611765)
 Elder_2.TextSize = 18
 Elder_2.TextWrapped = true
 Elder_2.MouseButton1Click:connect(function()
+	local CountDown = 7
 	local a = (Eldereddino.Text)
 	local targ = (Targetdino.Text)
+	local Menu = workspace.GameEvents.GoToMenu
+
+	print("If adult, with baby stats, try a few more times for success.")
 	workspace.GameEvents.ChangeDinosaur:FireServer(a)
-	wait(1)
+	Menu:FireServer(CountDown)
+	wait(5)
 	workspace.GameEvents.StartPlayer:FireServer()
 	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
-	wait(.1)
+	Menu:FireServer(CountDown)
+	wait(6)
 	workspace.GameEvents.ChangeDinosaur:FireServer(targ)
+	workspace.GameEvents.StartPlayer:FireServer()
+	print("If adult, with baby stats, try a few more times for success.")
 end)
 
 Targetdino.Name = "Targetdino"
