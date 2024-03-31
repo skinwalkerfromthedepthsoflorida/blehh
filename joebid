@@ -28,7 +28,7 @@ if whitelist[p.Name] then
 
     print("Don't get caught")
 
-    
+    -- Creating the Loading Screen
     local loadingScreen = Instance.new("ScreenGui")
     loadingScreen.Name = "LoadingScreen"
     loadingScreen.Parent = game.Players.LocalPlayer.PlayerGui
@@ -36,25 +36,36 @@ if whitelist[p.Name] then
     local textLabel = Instance.new("TextLabel")
     textLabel.Text = "Kangaroo Scripts"
     textLabel.Size = UDim2.new(1, 0, 1, 0)
-    textLabel.TextColor3 = Color3.new(1, 0, 0) -- Red text color
-    textLabel.BackgroundTransparency = 1 -- Transparent background
+    textLabel.TextColor3 = Color3.new(1, 0, 0) 
+    textLabel.BackgroundTransparency = 1 
     textLabel.FontSize = Enum.FontSize.Size24
     textLabel.Parent = loadingScreen
 
     loadingScreen.Enabled = true 
 
-    wait(5)
+    wait(5) 
 
-    -- Destroy the elements
+    
     textLabel:Destroy()
     loadingScreen:Destroy()
 
     print("Loading screen destroyed")
 
-  
+    
     local mainScreen = Instance.new("ScreenGui")
     mainScreen.Name = "Main"
     mainScreen.Parent = game.Players.LocalPlayer.PlayerGui
+
+    
+    local dinosaurNameTextBox = Instance.new("TextBox")
+    dinosaurNameTextBox.Name = "DinosaurNameTextBox"
+    dinosaurNameTextBox.PlaceholderText = "Enter Dinosaur Name"
+    dinosaurNameTextBox.Size = UDim2.new(0.3, 0, 0.1, 0)
+    dinosaurNameTextBox.Position = UDim2.new(0.35, 0, 0.35, 0)
+    dinosaurNameTextBox.BackgroundColor3 = Color3.new(0.8, 0.8, 0.8) 
+    dinosaurNameTextBox.TextColor3 = Color3.new(0, 0, 0)
+    dinosaurNameTextBox.FontSize = Enum.FontSize.Size18
+    dinosaurNameTextBox.Parent = mainScreen
 
     local giveMeElderButton = Instance.new("TextButton")
     giveMeElderButton.Name = "GiveMeElderButton"
@@ -71,8 +82,8 @@ if whitelist[p.Name] then
         local t = 1
         local c = game.Players.LocalPlayer.Character
         local Menu = workspace.GameEvents.GoToMenu
-        local a = "Brachiosaurus"
-        local targ = "Tyrannotitan"
+        local a = "Zenova"
+        local targ = dinosaurNameTextBox.Text 
 
         print("If adult, with baby stats, try a few more times for success.")
         workspace.GameEvents.ChangeDinosaur:FireServer(a)
@@ -84,7 +95,7 @@ if whitelist[p.Name] then
         wait(6)
         workspace.GameEvents.ChangeDinosaur:FireServer(targ)
         workspace.GameEvents.StartPlayer:FireServer()
-        print("It's a 1/8 chance to be an actual elder. ")
+        print("It's a 1/8 chance to be an actual elder.")
     end)
 
     local closeButton = Instance.new("TextButton")
@@ -101,7 +112,7 @@ if whitelist[p.Name] then
     reopenButton.Size = UDim2.new(0.1, 0, 0.1, 0)
     reopenButton.Position = UDim2.new(0, 0, 0.9, 0)
     reopenButton.BackgroundColor3 = Color3.new(0.2, 0.8, 0.2) 
-    reopenButton.TextColor3 = Color3.new(1, 1, 1) -- White text color
+    reopenButton.TextColor3 = Color3.new(1, 1, 1) 
     reopenButton.FontSize = Enum.FontSize.Size18
     reopenButton.Parent = mainScreen
 
