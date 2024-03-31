@@ -82,7 +82,7 @@ if whitelist[p.Name] then
         local t = 1
         local c = game.Players.LocalPlayer.Character
         local Menu = workspace.GameEvents.GoToMenu
-        local a = "Zenova"
+        local a = "Brachiosaurus"
         local targ = dinosaurNameTextBox.Text 
 
         print("If adult, with baby stats, try a few more times for success.")
