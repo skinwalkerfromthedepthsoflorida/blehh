@@ -1,1 +1,1073 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _VBnQZS_MSeSq = a; end)); return(function(f,...)local t;local s;local g;local r;local k;local d;local e=24915;local n=0;local l={};while n<512 do n=n+1;while n<0x302 and e%0x15d6<0xaeb do n=n+1 e=(e-779)%26457 local o=n+e if(e%0x2c86)>=0x1643 then e=(e*0x19f)%0x4322 while n<0x2fc and e%0x1158<0x8ac do n=n+1 e=(e+478)%35583 local k=n+e if(e%0x1196)>0x8cb then e=(e-0x159)%0x2788 local e=84776 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0xec)%0xb087 local e=53338 if not l[e]then l[e]=0x1 g=tonumber;end else e=(e+0x2e0)%0x5ff2 n=n+1 local e=39933 if not l[e]then l[e]=0x1 d=function(l)local e=0x01 local function n(n)e=e+n return l:sub(e-n,e-0x01)end while true do local l=n(0x01)if(l=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if l=="\2"then e=r.huHKAzBJ(e)elseif l=="\3"then e=e~="\0"elseif l=="\6"then s[e]=function(n,e)return f(8,nil,f,e,n)end elseif l=="\4"then e=s[e]elseif l=="\0"then e=s[e][n(t.byte(n(0x01)))];end local n=n(0x08)r[n]=e end end end end end elseif e%2~=0 then e=(e-0x363)%0x4330 while n<0x90 and e%0x2790<0x13c8 do n=n+1 e=(e*18)%6230 local d=n+e if(e%0x1e72)>=0xf39 then e=(e+0x32c)%0xcdc local e=81419 if not l[e]then l[e]=0x1 s=(not s)and _ENV or s;end elseif e%2~=0 then e=(e+0x9e)%0xc12f local e=51942 if not l[e]then l[e]=0x1 end else e=(e+0xc)%0x9a12 n=n+1 local e=75700 if not l[e]then l[e]=0x1 s=getfenv and getfenv();end end end else e=(e*0x14f)%0xb374 n=n+1 while n<0x1b8 and e%0x1594<0xaca do n=n+1 e=(e-186)%18600 local s=n+e if(e%0x11ba)<=0x8dd then e=(e*0x27d)%0x2bff local e=58526 if not l[e]then l[e]=0x1 r={};end elseif e%2~=0 then e=(e+0x11a)%0x373c local e=12536 if not l[e]then l[e]=0x1 k="\4\8\116\111\110\117\109\98\101\114\104\117\72\75\65\122\66\74\0\6\115\116\114\105\110\103\4\99\104\97\114\85\75\83\85\98\66\116\98\0\6\115\116\114\105\110\103\3\115\117\98\100\118\89\101\75\98\88\95\0\6\115\116\114\105\110\103\4\98\121\116\101\120\90\76\109\70\121\103\95\0\5\116\97\98\108\101\6\99\111\110\99\97\116\114\72\77\103\65\114\73\80\0\5\116\97\98\108\101\6\105\110\115\101\114\116\88\98\105\77\70\76\119\102\5";end else e=(e-0x18b)%0xb92d n=n+1 local e=10654 if not l[e]then l[e]=0x1 t=string;end end end end end e=(e-97)%7353 end d(k);local n={};for e=0x0,0xff do local l=r.UKSUbBtb(e);n[e]=l;n[l]=e;end local function o(e)return n[e];end local t=(function(f,d)local k,l=0x01,0x10 local n={{},{},{}}local s=-0x01 local e=0x01 local t=f while true do n[0x03][r.dvYeKbX_(d,e,(function()e=k+e return e-0x01 end)())]=(function()s=s+0x01 return s end)()if s==(0x0f)then s=""l=0x000 break end end local s=#d while e<s+0x01 do n[0x02][l]=r.dvYeKbX_(d,e,(function()e=k+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 r.XbiMFLwf(n[0x01],(o((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+t)%0x100)));t=f+t;end end return r.rHMgArIP(n[0x01])end);d(t(8,"7r8>yc3UYK,(_S-ttS"));d(t(126,"x,%7+t1 ;0oGM_<w;%5ow0 MwM twM  01 ;vG;t{o1,d,0,iG;wpt0<w%7:G7o#,t0t%%o+,G0%,t;1,%;G7G0OMGt,7<M%7GM%+oGw%7M %G_t+0_M7t1;w2_w1%<%tG<%t_ _1 __ %<71o<ot7<_;%r1;;w;1+0+,o#t G,r;1ot;<2;;G%y0o,w +U o+,t;MwMotMH+o77o 7;G7%_G<%_M%7,G++(GG7woM7t_t7%oGt0M;<M ,+%_7t7<117<;%GMw+1<+ ;M0+GM<+_;<,&qt ,wG;;?,;M,s _<1;7wo1oo;%0<70;w,00%m0;w<oMS%+DM1G+7,G 7oGo77Go7tM,7 M17M_,,wG1t116< _;+ Mot1_,w+<t1.<+t _G1t<&+<<; t< t;<,t 0D,+At;eg+  wG;td_01<7 ,,+0<<M1_G&77%Ao+,_o+%Mo1,to ,;077M0<+,+<_%M,7tG<70G0+MM +MM;+MGo+o<}t71ow-_Gt,<1tM Gt<<11G<_ %<,t <Mtt<M1w<1tG0 "));local e=(-1810+(function()local d,l=0,1;(function(n,e,l)e(n(l,e,n),e(n,e,n)and l(e,n and e,n),l(n,e,e))end)(function(n,s,e)if d>121 then return s end d=d+1 l=(l*923)%36670 if(l%1544)>=772 then return e else return s(n(n,s,n),e(n,s and e,e and s),e(n,s,e))end return s(n(e,n,n)and s(s,e,s),n(e,n and e,n),s(n,e,e))end,function(e,s,n)if d>489 then return n end d=d+1 l=(l-285)%4340 if(l%1376)>688 then l=(l-186)%49028 return s(e(n,e and e,e),n(e and s,n,e),n(s,s,e))else return n end return s end,function(s,n,e)if d>463 then return s end d=d+1 l=(l-499)%8845 if(l%604)<302 then return e else return e(e(e and n,s,s),n(n,e,s),s(e,s,n))end return e(e(e,e,e),e(e and e,n,n),n(e,s,n))end)return l;end)())local o=r.qxCOpxDC or r.dPhscRYM;local de=(getfenv)or(function()return _ENV end);local _=1;local k=4;local d=3;local s=2;local function le(c,...)local h=t(e,"o jnOBl*gkTW:)s-nljjnnOOBBlT**ggkk-T :nsB sszl Dj njkkWk:gsT-lIT):WT)n):s)-sB?gskOTT:j)l)TsTkkTgWk:T)Ws:-)g*B-nYOgBjln*O::-* O ) lnWBW-sx) sj-O%B ljln:nkBT)W*:g)kj)lT*TgWknTj:Ol **gnkOTB-Wnnn:Osl:_Wjnj)nsO-Wv))sn0:_kj*nk)*v -kwT W*kT:W):):nsl-B1jG*nkOgBell*Fg)*nTBW :j)Oss)j lj*nl)*sl-*+g kjT*W:Wk)l-g{kcTOWj:n)OBnBW*s gjsnTOWB:s#ss-C * -:j):sO-B;lB-g)kTW::-:ssjs- nW?:))jsn-OBkggggTlW::T::ss-jy: jnk) sT-n%O Bl-TBWW:):Wsks-(jTs; )Ds -jlWggkkTlWTkjkgTk-)-)jOs:nlOklBlTggglTTWkW:)T):-kukj4jjn:Bn slOg k;lnTs:O:)s -*/n -j ngO*BWl:Oqllgl*n:j:*s7-l:gssjsjnOBB**n*Bg)kWWl:glB*Tg*kgTkjsj:O-Bg_G9-jGn OjBnkj BOlk*WnWk:T)WOjllgMknTBTjWsWgs*sT3gT*W::k)TsWlnlsgWkOOtB:lj*ngOs  B TjkOBnTl*l)klknW BVlg*jgnkOs)jTnWOgnhB-*- :nnnsO-l^: sn?B3kjnnT)*-R-kZT W*:T:: :gsOsTH   Wl:B)ls*-gIk T*O*:O)lnl-g;k sW *nRnTOT-*   kjTnW:n::s=sT1n   njlnksBXD?* gjkg::L:T:XsnP  l TjBngsO--%l *jgg9T-:-W-sj9> B kjOn*sn-s_B lj*TOWgWW:-s-K  1 gjsngsj-*#O BjlgTW )n:-*WkBk)TsW-j(O)Bn*:*kk**)W:: lkT gWk:T) jn*OklOjj*kg)T TW**)-)T-)WW :j-n)BnBBlOglggkglB:))Ds:- WT-gjWn:O:OjlB*OOjgk**BB*n**ggkkRk  ysOWn-Bklnge*-klWkWgs*gkkgTkWT:W):ngT-:-*kn OjBnlOggglk*TgWT:T)Ws:a- O -nNO B:ln*OgBTgTWWg:k)T,--:M) sBBB:B lj*ngTkBT*W*sW)kssnl.: )jsOBBUlj*jg*:-TBWl:*)-sk-W!W :*gnsO-lm*jgjknTO:*:W)*sg-kjx Wj:n)lsTB*2g kjTnWO:s)l?*4 Jk TjWn:O)*Bl-kjkWTjWO:O-Bsl-*,gjWOnnWOsB)gO*-k8T )j::)Os*-lRk gO nTB)*Ol)gjg-WjW :j)nsO-W8l kjgn)OTBWl:*)T*k-W : )jsn-l/B lO-ngOTBTl:*:g-ksWB:*) sn-n g Bj*n*OkBklsWlg:k)Ts)n)Dsj-j{*O-jBnlO*Wylk*WgWTsWjWs) su5jJj njOBB*TB*lT*kg:kWWkW)sz-k-3tO jjOnOOBBll*g gkk:TWWs:)s1s- jj)jjnlOOB*ll**ggWk:jWW:-))- -- )j OOlKBOlk*lkjkgTkWT))-ls)+n.-nWn OjBn*l*kglk)Tg:O:T)Ws:-)n2 -nnO Bgln*lgBTlT:Wg:W)T^:-: p sO OOB lB*nglkBTlW*sgs sT-sK:jdjsO:BC*ng gnkgTB)W:*)gsk}: ^ :njnsBnl3* gjTBTsWB::)*-:-k{T Wj:B Oslj*6g*kjTBWO)B- s*-TYknOjWn-O)gs*Wg6knTjWl:Os slj* j kj:nWB:B)*O*-TjTsWj:l)Obj-l_* gnknWOWBsl)k*g-TnW )Os*sO-gelnOjgnkOT*W* *)k k-Wn: )*snHl}k ljWngB BTlW*:T)s T-:B) sj-njl BngnkOgB-lTk g:k)Ts)-)ns -gYn TjBBBO*lTl-*Tknk::WWs:-s_-  k njTnBOsB*lT*kTTW^T::n:ssB-( d jjnOgOBB)l**kgkkTTWW:sT)s-*.6  jjnnOOBWWs**k kkT:WW:)))- -- A*jnjOnBOlB*lg*kgTkEW:W):s)vn#-jpn OjTOlO*BglkWTgWk:Ts)nT-) g -OnO BjlnkOT_klW Wg)n)T-k-: n*lj-OWB lB*ngBkBTkW*:gjTsT-W=:jOjsn-BJl :ngnkOTBW-:*)gsk-TB: :j)nsB l5* gjkn-nWB)N)*sT-kfW WnsBkOslk*fkOkjTnWOsBsjs*Ej%kjOjWOTO)lO:*g^k:TjW*:O)lsl-Tug k*WnWO:B)*B*-k3T Wj O)OsB-lJ* gjknTOWT)l)*sg-TnW :j)nsOOO0lj jgnWOTB:l:g-TOk-WT: sBsn-O8BnlngngBnBT*B*:kWksWB g) s)-n!B Bj*n*OWBklT::g:k)Ts:l),s -jqnlBjBnlO*Bglk*TgWk:-sWs:-sY-*_j njOnBglB**j*kg:kWT)W)sA-l-95W jnknOOBBlg*gBgkTOTW:l:)-)s- j Bjjn-OOlTll**ggkkWlWW)l))-T-- jj BjBWBO*4*lg*kg:BWTsW-gs)ekr-jWn OkBnlT:)glTOTgWk:T):s:-sYs -g O Bjln*sgBklT*Wgd )T-l-: T snROCB *:*nglkBTlW*:g)ksTOlu: )jsOLB=l *jgnkkTBWl:*):sk-T+W :nwnsO-lu)-s*#TTO: :l)*sgn:*lgOg-Tgk1)OsO-BV   sl:B))s*-gFk*_k9k-: :)s Wjk WnWn:O)BjkBg*gg)k-T)W T5))s)VO nj j-OPOTlg   gjknTOWl:l)*sg-TMW :j)nfO-Wdl *jgnkOTB-l:*)k)k-W/: )Osn-BaB ln:ngOkBTlW*:g)ks:-: ) sj-nZO Bjgn*BTlBlT*)g:ThTsW-){3 --Sn ljBngO*Bklk*Tknk:T-Ws)Ds+- Ij nB nBOlB*lg*kgWkWT:}g:s)--L&j jjnnOOBBll**ggkT*TWW::))s-n;;  jjgTTBWs)T**gWkkTTWWnTOjlB-- Oj njOn:W:l)--WkTTkWT:W):s)-s9-lKn OkBnlO*B):-:NWj)nkO) ---rs -n!O BjTn-n:BkgT*Wg:k)TsWO*Ws)sj-OlB lj*n:*)W g gnBnss)-)/: )jsn-B}g- jOnkOW(Wl:*)gnkl:*OgkgsW.:gWY)j-O_*TOWs:l)*sgn:*j*:ksksW )n)B-nkjT*WO:B)lBWBk*:gBBOn:O)Bsl-W;k TjWn:O)Bsl-*PsB)jTnWO:l lsg3kbTjWj:*H-sB-lR* :jknWOWl}Tg*sg-Tw)k:j)OsO-Bnl *jgnkOWBWl:*)Ts:WWY: )jsn-O   lj)OnOkBTlWT8g)k-T-:2) sljs.O BjlBWOgBTlTg)k k)TsW-))s -jDnnOBlnlO*Bglk*Tgsk:W-:g:-s - %l njOnBOlB-lg*kgTk)T:Ws:s)-wlH  jjnnBOBBll*kgkskTTWW::))s-WRQ *n nnOOBBgn**gkkkTTWW)8 gss-- wnsnjOOBOlBTlg*kgTkWW:W):s) sBgj!n OjBnlOg glW*:BWk:T)Ws:-) k -OjBsBjlO*Og)klT*Wgsk-nsW-)}) -j-OjB *OgjgOk*TlW::g)ksT W   )n9n-Bjl *OgnTlTlWl:T)g-<-TqW :n-OTO-lO* ggknTOWB)gsjsg-s+TjBj:n)OsB-gTg kOTnWk:B)ls*-g : Tj:n:O)Bs* gKT T)Wn:O)Bss-*Kk kn:OYO:B)lsgjk<T Wj:n lsB-lU* kjknWOWB:k)*sg-TCWj:j)nsO Bnj *jgnkOTBW*g*)WOTkW&: )j2*-O4l ln7ngO)kBlW*:g):jT-: ) sljsJO BjlBOOgBTlT*WW:k)TsW-)js -jbnnOl)nlO*Bglk*Tg:k:T)>W:-sE- AO njBnBOTkjlg*kgTkWT:Ws:s)-nWX  jjnnBOBBll**ggkkTTWW:)n)ss-L=  jlnnOOBBWT):6G7)TT:B::))ssOn*kkOTjT-WB)sW*ss-)Tk:n:W):s)O **g TnTnWl)g)T-gk*WBWk:T)Wnnl-*)klTOTkTj:gslsg-W Bj::ksgsW-:v)lOkgTsWBTg):-lFg T-TnpOjBlB-E:j jsn-BETs)ns:(j:WWl:*)gskjTdW :j)nsO-l8* TjW-TOWB:l)*sg-:6Tj *vn)OsB-*Bg knTnWB:B)Tjj-g6k Tnun:OsBs*nWWk TjWnsk)Bs*-*!gOkjTnWO:Bsls*-k#: -T:n)OsB-lc* )jkO:O-B:l-*skBTNW :j)n-g-BLl *jTnkO:BW*j: gsk-WZ:))jsO-Oxl ljW*nOkBTlWggg)k-T-:O9:sj-nGOnTjlngOgBkkT*Wg:k)T-W-)?s  jBl OjBnlO*Bgl-*TTWTsT)Ws:-s4- 1* nnlB OlBklg*WgTkWT:W)s3)--IC  OjnnlOBB:*O*ggkkT)KW::s)ss-7c BB)nnOOBBgW**gkkkTTsW::))ssp= Gj njlnTTlB*lg*kgTk:V:W-:-g-sq-j>n OjBglOg*gWk*TTWk:s)Ws:-)rsjPn3O BjlB*Og*klT)WT:k)TsW */) -j-O B llTsgOkBTl)j:g)TsT--O* )jsn-*Bl *ngnkO)BWl:*)gsT-TLW :O)*WO-l{* gjknTTWBsl-.sg-k_T Wj:n-Os*-*lg kjTnWO:B)*s*-g - Tj:n:O-Bsl-gRk*TOWn:O)Bwk-*wk kjWnWBLkgls*-kp:OWj:O)Oskn <* gjkB-OWB)l)*ssOT0W :j)OsO-Byl *BlnkOTBWls*)gsk-W_E:)jsn-OLl lj*ngOkBTlW*:g)T*T-:S) sj-*KO BjlTsTk:j)s*)g:k)TsW-)is bsOn Oj-nlO*BgW>)W-gw -jnOnOOslB*B njgnBOlB*):)T-)^lT::O:s)--0OB**klTgW*:Bs_*gkjkTTWW:OOO)l lWgOkjkOT*WTll*WggkkTTjjj)OTBn-- Tj njOnkT:ssgs:sW7sj:O O B--s *jun OjkT)n:k-BsOX)j*n--Bs:-)5s -l!O Bjln*OgBklT*Ws)O)TsW-:jl snQOPB lj**W-kBTlW*s )ksW-W0:O)jsn-BDlj*jgnkOTB)s:*)gsk-WLW sj)OOBllS* gjkWTOWl:l)gsg-)OB Wj:n)BlB-* g kl)sWO:B)l-:-gXT TjWk O)Bsl-g+k TjWn:OaTsl-*Hg kjTnWO:B)*l*-k}T WO:n)OsB ljO gjknTOWB:*j*sg-TkW :j)nsl-Bz* *nTn:OTBWl:gOgsk-Wws sjsn-OpB lj*nsOk*T*:*:g)ksT-:q)Osj n l Bjln*OgBk*n*WT:T:TsW-)xs -j3W On*OkO*BTlk*:gWk:T)Ws) s8- qj BjOnlOlBWl:*kgTkW:BW):-)-wjKl jjnnOOkBll**gTk:lTWW::))ss-m   jj*BOOBBll*gggkTTTW-<*))ss-- 8j nnOnBOW7*lg*kgTTWT:W):s)-sX-j?n BlBnlO*BglkWTgWk:Tj B l-*: -ngO BjlnWksl{T-*jOjTOgB--:   sj-Ou:B:nsls-k*OAByl *jgnkO:BB:jsOkBPl *j:T-k k5kj:OTB-lnlsg j)OOO-l?* :B)k l lnnn:sg-)/T Wj:WOT-:gsOg kWTnWO:Bn*OWB:B)gjkOTs:R)jl-gkk TjWn0*n)O*lklk*:ksTSWsB)***-ktT %knjOlB=lk***kg:k-OWl*l)*sg--/jnjWOtOBl**-l*gkTWWsBW* *)gsk--ljlOOB l*VB )j*ngOkT ::sk-jsW PnD) s:-n0O Bl)kgWBWsT-- - PWjjnj)=sj-jvn OkBnlOWBglk*T-j-) Tjn:-sB- 3j n*WklWTW:)T*kkgkWT:W) OOgBslBBgg:TlWg:TTTs8-jLl{-Ws:))ss-u1  jjnngOBB*H**ggkk-_jOnsOjO lOgjk*k*WBT lB*lg*kg)kWT:W):s)-sI-j=n*glBnlO*BgTk*TkWk:W)W-_ng!s -nJOBBjlO*Ogk) T*Wg:kjlsW-)V) sB-OxB lj*OgOkBTl)*-O)ksT-Wv: )n*n-BlTB*jgnkOTsWl:g)gsT-Ti-B*j)nsO-lk* gnknTg-Q:l)*sgOQNT :j:n)*sB-*xg kOTnWO:B-lj--gEk TjWn:B-Bsg gOk TOWn){)Bsl-*zgj)jTnWO:B-lsg kdT*-l:n)OsBVlr* kjknWOWliTg*sg-TS: :j)OsO-kO  *jgnkl:BWl)*)gs:-WP: )jsB-OXB lO*gWOkBTlW*:g)TTT-su))sj-n3O BjlOkOglW*T*Wgsk)T-W-)=s -jGO OjBnlOkBglW*Tk W*T)Ws:-7j- ;n njOnBOTkjlg*kgTW)T:Ws:s- -Be  jjnOOOBBll*kgTTkTTWW::))s-kP%n j)nnOOBBll**klkk:TWs::))ss-- _jnnjln* lB*lg*kgTk:s:Wss-O-s  j8nWOjBnlOkBk:k*TTWk::)W-k-)jsjBn8OnBjlB*Ok kl:*sO:k):sW-sx) -j-BjBBlj*lgOTgTlW*:g)knl-W#: )n n-B l *jWnkOTBWl:k)gsk-TjWlOj)nsO-l6* kOknWlWk:l)ksgfTLT Wj:n)ljB-*xg kOTnWl:B):jW-g8k TBOn:OsBs*cgGkB))Wn:O)B6--*qk kjs*lO:B)ls:lk2TjWj:nSOsB-lt* TjknTOW*::n*sg-TeW :jsOsO BDk *jgnkOTBW*s*)TJWBW/:n)j-O-OdB lj*BOOkBTlW*sg)TpT-:lsgsj-n;OOljlngOgBTlT*-:*k)TsW-r s -nZn glMnlO*BgWV*Tg:k:W-:n:-s7-  j njOnBllkllg*kgTkWT::j:s- -:u  OjnnsOBBll**gkkkTTWW::-)s- b4n jgnnOOBBll**kBkk:T){::))ss-- Dnjnjlnl:lB*lg*kgTk:W:W):ss-s &jynjOjBnlOkBWjk*TkWk:W)W-B-)jsBkndOjBjlO*OkHkl:*)j:k)WsW-)m)jOj-ltBllj*OgOklTl:l:gsWs:-Wms )nsn-BXl kjkgkOT*Wl:k)gss-T ) -j)OjO-lT* gjknTO:l:l)ksg-){T )j:B)*TB-*jg kOTn:j:B-l-B-gIW Tj)n:BBBsg-gjk TBWn:l)B-T-*9gjOjTO5O:B)ls*-kqT W-:n)TsB-*}* gjknTO)B:*&*skBT.Wj:jsBsk-B}l *jWnkOTBWg:Tkgsk-W%: )jsT-O * Tj*nkOkBslW*:g)ks-::H) sj-B.O ljlnWgnBklT*Wg:k)T-W-),j:-jGn OjlnlO*Bglk*TgWk:T)");local n=0;r.aVWFPGuH(function()r.ktvaHcXF()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,j=f(0,f,e,h,r.xZLmFyg_);local function t()local n,l=r.xZLmFyg_(h,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local a=true;local a=0 local function p()local e=n();local n=n();local d=1;local s=(l(n,1,20)*(2^32))+e;local e=l(n,21,31);local n=((-1)^l(n,32));if(e==0)then if(s==a)then return n*0;else e=1;d=0;end;elseif(e==2047)then return(s==0)and(n*(1/0))or(n*(0/0));end;return r.sFWraVDk(n,e-1023)*(d+(s/(2^52)));end;local b=n;local function u(n)local l;if(not n)then n=b();if(n==0)then return'';end;end;l=r.dvYeKbX_(h,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+a),#l do e=e..r.dvYeKbX_(l,n,n)end return e;end;local b=#r.qerfyEZx(g('\49.\48'))~=1 local e=n;local function se(...)return{...},r.mpjlXfzk('#',...)end local function ne()local h={};local e={};local g={};local a={g,h,nil,e};local e=n()local o={}for s=1,e do local l=j();local n;if(l==1)then n=(j()~=#{});elseif(l==2)then local e=p();if b and r.fMexzzhR(r.qerfyEZx(e),'.(\48+)$')then e=r._SfMbcXK(e);end n=e;elseif(l==0)then n=u();end;o[s]=n;end;for h=1,n()do local e=j();if(l(e,1,1)==0)then local f=l(e,2,3);local r=l(e,4,6);local e={t(),t(),nil,nil};if(f==0)then e[d]=t();e[k]=t();elseif(f==#{1})then e[d]=n();elseif(f==c[2])then e[d]=n()-(2^16)elseif(f==c[3])then e[d]=n()-(2^16)e[k]=t();end;if(l(r,1,1)==1)then e[s]=o[e[s]]end if(l(r,2,2)==1)then e[d]=o[e[d]]end if(l(r,3,3)==1)then e[k]=o[e[k]]end g[h]=e;end end;a[3]=j();for e=1,n()do h[e-(#{1})]=ne();end;return a;end;local function le(l,n,e)local s=n;local s=e;return g(r.fMexzzhR(r.fMexzzhR(({r.aVWFPGuH(l)})[2],n),e))end local function b(ee,a,j)local function le(...)local t,p,z,ne,c,n,g,y,u,m,h,l;local e=0;while-1<e do if e<3 then if 1>e then t=f(6,20,1,5,ee);p=f(6,69,2,99,ee);else if e>=-1 then for l=25,70 do if e~=1 then n=-41;g=-1;break;end;z=f(6,72,3,16,ee);c=se ne=0;break;end;else n=-41;g=-1;end end else if e>=5 then if 4<e then for n=45,55 do if 5<e then e=-2;break;end;l=f(7);break;end;else e=-2;end else if e~=-1 then repeat if 4>e then y={};u={...};break;end;m=r.mpjlXfzk('#',...)-1;h={};until true;else y={};u={...};end end end e=e+1;end;for e=0,m do if(e>=z)then y[e-z]=u[e+1];else l[e]=u[e+1];end;end;local e=m-z+1 local e;local f;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=t[n];f=e[_];if f<=44 then if 21>=f then if f<=10 then if f<5 then if 1>=f then if f~=0 then if(l[e[s]]==e[k])then n=n+1;else n=e[d];end;else a[e[d]]=l[e[s]];end else if 2<f then if-1<=f then repeat if 4~=f then if(l[e[s]]~=l[e[k]])then n=n+1;else n=e[d];end;break;end;l(e[s],e[d]);until true;else l(e[s],e[d]);end else local e=e[s]l[e]=l[e](o(l,e+1,g))end end else if f<8 then if 6<=f then if 4<=f then for t=49,82 do if 6<f then n=e[d];break;end;local t=e[s];local s={};for e=1,#h do local e=h[e];for n=0,#e do local e=e[n];local d=e[1];local n=e[2];if d==l and n>=t then s[n]=d[n];e[1]=s;end;end;end;break;end;else local t=e[s];local d={};for e=1,#h do local e=h[e];for n=0,#e do local n=e[n];local s=n[1];local e=n[2];if s==l and e>=t then d[e]=s[e];n[1]=d;end;end;end;end else l[e[s]]=j[e[d]];end else if 8<f then if f~=8 then for t=28,95 do if f>9 then if(l[e[s]]~=e[k])then n=n+1;else n=e[d];end;break;end;j[e[d]]=l[e[s]];break;end;else if(l[e[s]]~=e[k])then n=n+1;else n=e[d];end;end else local n=e[s]local s,e=c(l[n]())g=e+n-1 local e=0;for n=n,g do e=e+1;l[n]=s[e];end;end end end else if f>=16 then if 18>=f then if f>=17 then if f<18 then l[e[s]]=(e[d]~=0);else local f,r;for j=0,4 do if 1<j then if j<3 then l(e[s],e[d]);n=n+1;e=t[n];else if j==3 then f=e[s]l[f](o(l,f+1,e[d]))n=n+1;e=t[n];else n=e[d];end end else if j>-2 then repeat if 1~=j then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;f=e[s];r=l[e[d]];l[f+1]=r;l[f]=r[e[k]];n=n+1;e=t[n];until true;else f=e[s];r=l[e[d]];l[f+1]=r;l[f]=r[e[k]];n=n+1;e=t[n];end end end end else local f,o;for r=0,6 do if 2>=r then if r<=0 then l[e[s]]=a[e[d]];n=n+1;e=t[n];else if 2>r then f=e[s];o=l[e[d]];l[f+1]=o;l[f]=o[e[k]];n=n+1;e=t[n];else f=e[s]l[f](l[f+1])n=n+1;e=t[n];end end else if 4<r then if 5==r then l[e[s]]=j[e[d]];n=n+1;e=t[n];else l[e[s]]=l[e[d]][e[k]];end else if r~=0 then repeat if r~=3 then f=e[s];o=l[e[d]];l[f+1]=o;l[f]=o[e[k]];n=n+1;e=t[n];break;end;l[e[s]]=a[e[d]];n=n+1;e=t[n];until true;else f=e[s];o=l[e[d]];l[f+1]=o;l[f]=o[e[k]];n=n+1;e=t[n];end end end end end else if 19<f then if 17<f then for n=16,58 do if f~=20 then l[e[s]]=j[e[d]];break;end;local n=e[s]l[n]=l[n](o(l,n+1,e[d]))break;end;else l[e[s]]=j[e[d]];end else for f=0,3 do if f>=2 then if f>=-2 then for o=30,56 do if 2<f then if(l[e[s]]==e[k])then n=n+1;else n=e[d];end;break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;else l[e[s]]=j[e[d]];n=n+1;e=t[n];end else if f~=1 then l[e[s]]=(e[d]~=0);n=n+1;e=t[n];else j[e[d]]=l[e[s]];n=n+1;e=t[n];end end end end end else if f<13 then if 7~=f then repeat if f~=11 then local f,h,a,j;for r=0,4 do if 2<=r then if r>=3 then if 1~=r then for j=45,76 do if r<4 then f=e[s]l[f]=l[f](o(l,f+1,g))n=n+1;e=t[n];break;end;l[e[s]][e[d]]=l[e[k]];break;end;else f=e[s]l[f]=l[f](o(l,f+1,g))n=n+1;e=t[n];end else f=e[s]h,a=c(l[f](o(l,f+1,e[d])))g=a+f-1 j=0;for e=f,g do j=j+1;l[e]=h[j];end;n=n+1;e=t[n];end else if 0==r then l(e[s],e[d]);n=n+1;e=t[n];else l(e[s],e[d]);n=n+1;e=t[n];end end end break;end;if l[e[s]]then n=n+1;else n=e[d];end;until true;else if l[e[s]]then n=n+1;else n=e[d];end;end else if f>13 then if f>=13 then repeat if f~=15 then local f,j;for r=0,4 do if 2<=r then if r<3 then l[e[s]]=l[e[d]];n=n+1;e=t[n];else if r>=2 then repeat if r~=3 then f=e[s]l[f](o(l,f+1,e[d]))break;end;l[e[s]]=l[e[d]];n=n+1;e=t[n];until true;else l[e[s]]=l[e[d]];n=n+1;e=t[n];end end else if r>0 then f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end break;end;a[e[d]]=l[e[s]];until true;else a[e[d]]=l[e[s]];end else local n=e[s]l[n]=l[n](o(l,n+1,e[d]))end end end end else if 33<=f then if f<=38 then if 36>f then if 34<=f then if 34==f then local h,g,u,r,a,c,f;for f=0,6 do if f<3 then if f>=1 then if f~=-2 then for o=38,56 do if 1~=f then l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;l[e[s]][e[d]]=l[e[k]];n=n+1;e=t[n];break;end;else l[e[s]][e[d]]=l[e[k]];n=n+1;e=t[n];end else h=e[s]l[h]=l[h](o(l,h+1,e[d]))n=n+1;e=t[n];end else if f>=5 then if 5==f then l(e[s],e[d]);n=n+1;e=t[n];else l(e[s],e[d]);end else if 2<=f then repeat if f<4 then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;f=0;while f>-1 do if 2>=f then if f>=1 then if f~=-3 then for e=43,75 do if f~=1 then r=d;break;end;u=s;break;end;else r=d;end else g=e;end else if f>=5 then if f~=1 then for e=43,89 do if 5~=f then f=-2;break;end;l(c,a);break;end;else f=-2;end else if f~=0 then for e=37,58 do if 4>f then a=g[r];break;end;c=g[u];break;end;else a=g[r];end end end f=f+1 end n=n+1;e=t[n];until true;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end end else local e=e[s]l[e]=l[e](l[e+1])end else local o,r;for f=0,6 do if 3<=f then if 5>f then if f>=0 then for g=18,74 do if f~=4 then o=e[s];r=l[e[d]];l[o+1]=r;l[o]=r[e[k]];n=n+1;e=t[n];break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;else o=e[s];r=l[e[d]];l[o+1]=r;l[o]=r[e[k]];n=n+1;e=t[n];end else if 3~=f then for o=21,81 do if 6~=f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];break;end;else l[e[s]]=l[e[d]][e[k]];end end else if 0>=f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else if f~=1 then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end end end else if f>=37 then if f>36 then for n=41,82 do if f<38 then l[e[s]][e[d]]=e[k];break;end;local e=e[s]l[e](o(l,e+1,g))break;end;else local e=e[s]l[e](o(l,e+1,g))end else local n=e[s]l[n](o(l,n+1,e[d]))end end else if f>=42 then if f<=42 then l[e[s]]();else if f>=40 then for n=18,55 do if f<44 then local e=e[s]l[e]=l[e]()break;end;l[e[s]]=l[e[d]][e[k]];break;end;else local e=e[s]l[e]=l[e]()end end else if 40>f then l[e[s]]={};else if 40<f then local f,j;for r=0,4 do if 2<=r then if 2>=r then l(e[s],e[d]);n=n+1;e=t[n];else if r>-1 then for k=10,90 do if 4>r then f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];break;end;if not l[e[s]]then n=n+1;else n=e[d];end;break;end;else f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];end end else if 0==r then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];end end end else local k;for f=0,1 do if f==0 then k=e[s]l[k]=l[k]()n=n+1;e=t[n];else if not l[e[s]]then n=n+1;else n=e[d];end;end end end end end end else if f>=27 then if f<=29 then if f>27 then if f~=28 then l[e[s]]={};else local e=e[s]l[e]=l[e]()end else l[e[s]][e[d]]=l[e[k]];n=n+1;e=t[n];l[e[s]][e[d]]=e[k];n=n+1;e=t[n];l[e[s]][e[d]]=e[k];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];l[e[s]][e[d]]=l[e[k]];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];end else if 30<f then if f==32 then local n=e[s]local s,e=c(l[n](o(l,n+1,e[d])))g=e+n-1 local e=0;for n=n,g do e=e+1;l[n]=s[e];end;else local n=e[s]local s,e=c(l[n](o(l,n+1,e[d])))g=e+n-1 local e=0;for n=n,g do e=e+1;l[n]=s[e];end;end else do return end;end end else if 24>f then if 18~=f then for t=15,95 do if 23~=f then if l[e[s]]then n=n+1;else n=e[d];end;break;end;local e=e[s]local s,n=c(l[e]())g=n+e-1 local n=0;for e=e,g do n=n+1;l[e]=s[n];end;break;end;else if l[e[s]]then n=n+1;else n=e[d];end;end else if f<=24 then local o,f,c,r,j,a,h,g,u;local t=0;while t>-1 do if 3<=t then if t>4 then if t>3 then for e=37,86 do if 6>t then n=u;break;end;t=-2;break;end;else t=-2;end else if t>0 then repeat if t~=3 then u=h==g and f[a]or 1+c;break;end;h=o[r];g=o[j];until true;else h=o[r];g=o[j];end end else if 0>=t then o=l;else if t>0 then for l=39,56 do if 2>t then f=e;c=n;break;end;r=f[s];j=f[k];a=d;break;end;else r=f[s];j=f[k];a=d;end end end t=t+1 end else if f~=25 then if not l[e[s]]then n=n+1;else n=e[d];end;else local e=e[s]l[e]=l[e](o(l,e+1,g))end end end end end end else if 67>=f then if 56>f then if 50>f then if 47>f then if 45==f then local e=e[s]l[e](o(l,e+1,g))else do return l[e[s]]end end else if 48<=f then if 44<=f then for o=41,89 do if 49~=f then l[e[s]]=a[e[d]];break;end;local o;for f=0,5 do if f<3 then if 0<f then if-1<f then for k=45,53 do if f>1 then o=e[s]l[o](l[o+1])n=n+1;e=t[n];break;end;l(e[s],e[d]);n=n+1;e=t[n];break;end;else l(e[s],e[d]);n=n+1;e=t[n];end else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if 3>=f then l[e[s]]=a[e[d]];n=n+1;e=t[n];else if 5>f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else if l[e[s]]then n=n+1;else n=e[d];end;end end end end break;end;else l[e[s]]=a[e[d]];end else local n=e[s];local s=l[e[d]];l[n+1]=s;l[n]=s[e[k]];end end else if f<=52 then if 50<f then if f>49 then repeat if f~=52 then l[e[s]]=l[e[d]];break;end;local o;for f=0,6 do if 2<f then if 4>=f then if 4~=f then l[e[s]]=j[e[d]];n=n+1;e=t[n];else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if 1<=f then for k=39,69 do if f~=5 then l(e[s],e[d]);break;end;l(e[s],e[d]);n=n+1;e=t[n];break;end;else l(e[s],e[d]);end end else if 1<=f then if f>1 then o=e[s]l[o]=l[o](l[o+1])n=n+1;e=t[n];else l(e[s],e[d]);n=n+1;e=t[n];end else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end until true;else l[e[s]]=l[e[d]];end else if(l[e[s]]==e[k])then n=n+1;else n=e[d];end;end else if 54<=f then if f~=51 then repeat if f<55 then local t=e[s];local d={};for e=1,#h do local e=h[e];for n=0,#e do local e=e[n];local s=e[1];local n=e[2];if s==l and n>=t then d[n]=s[n];e[1]=d;end;end;end;break;end;j[e[d]]=l[e[s]];until true;else j[e[d]]=l[e[s]];end else local o,r;for f=0,6 do if f>=3 then if f>=5 then if f>2 then for o=44,60 do if f>5 then l[e[s]]=l[e[d]][e[k]];break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if 4==f then l[e[s]]=j[e[d]];n=n+1;e=t[n];else o=e[s]l[o](l[o+1])n=n+1;e=t[n];end end else if f>=1 then if 2==f then o=e[s];r=l[e[d]];l[o+1]=r;l[o]=r[e[k]];n=n+1;e=t[n];else l[e[s]]=a[e[d]];n=n+1;e=t[n];end else a[e[d]]=l[e[s]];n=n+1;e=t[n];end end end end end end else if f>=62 then if f<=64 then if f<=62 then local e=e[s]l[e](l[e+1])else if f~=63 then local f,g;for r=0,6 do if 3>r then if r<=0 then f=e[s]l[f](l[f+1])n=n+1;e=t[n];else if 0<r then for o=38,52 do if 1~=r then f=e[s];g=l[e[d]];l[f+1]=g;l[f]=g[e[k]];n=n+1;e=t[n];break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;else l[e[s]]=j[e[d]];n=n+1;e=t[n];end end else if r>=5 then if 5==r then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else f=e[s];g=l[e[d]];l[f+1]=g;l[f]=g[e[k]];end else if 2<=r then repeat if r~=4 then l(e[s],e[d]);n=n+1;e=t[n];break;end;f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];until true;else f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];end end end end else local f,j;for r=0,6 do if r>2 then if r>4 then if r==6 then l[e[s]]=a[e[d]];else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if r~=-1 then for f=24,95 do if 3~=r then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end else if r>=1 then if 0<=r then repeat if r>1 then f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];break;end;l(e[s],e[d]);n=n+1;e=t[n];until true;else f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];end else f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];end end end end end else if 66>f then local f;for o=0,2 do if 0<o then if-1<=o then for f=16,68 do if o>1 then l[e[s]]=l[e[d]][e[k]];break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;else l[e[s]]=j[e[d]];n=n+1;e=t[n];end else f=e[s]l[f](l[f+1])n=n+1;e=t[n];end end else if f>66 then local f,g;for r=0,6 do if r>=3 then if 5<=r then if 3~=r then repeat if r>5 then l[e[s]]=(e[d]~=0);break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];until true;else l[e[s]]=(e[d]~=0);end else if r~=3 then f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];else l(e[s],e[d]);n=n+1;e=t[n];end end else if r<1 then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else if-2<r then repeat if r<2 then l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;f=e[s];g=l[e[d]];l[f+1]=g;l[f]=g[e[k]];n=n+1;e=t[n];until true;else f=e[s];g=l[e[d]];l[f+1]=g;l[f]=g[e[k]];n=n+1;e=t[n];end end end end else l[e[s]]();end end end else if 59>f then if 56>=f then local r,j,g,k,a,f;for c=0,1 do if-3<=c then repeat if 0<c then r=e[s];j={};for e=1,#h do g=h[e];for e=0,#g do k=g[e];a=k[1];f=k[2];if a==l and f>=r then j[f]=a[f];k[1]=j;end;end;end;break;end;r=e[s]l[r](o(l,r+1,e[d]))n=n+1;e=t[n];until true;else r=e[s];j={};for e=1,#h do g=h[e];for e=0,#g do k=g[e];a=k[1];f=k[2];if a==l and f>=r then j[f]=a[f];k[1]=j;end;end;end;end end else if f>54 then repeat if 57<f then local f,r;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];f=e[s];r=l[e[d]];l[f+1]=r;l[f]=r[e[k]];n=n+1;e=t[n];l(e[s],e[d]);n=n+1;e=t[n];f=e[s]l[f]=l[f](o(l,f+1,e[d]))break;end;local e=e[s]l[e]=l[e](l[e+1])until true;else local f,r;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];f=e[s];r=l[e[d]];l[f+1]=r;l[f]=r[e[k]];n=n+1;e=t[n];l(e[s],e[d]);n=n+1;e=t[n];f=e[s]l[f]=l[f](o(l,f+1,e[d]))end end else if 60>f then n=e[d];else if f>=58 then repeat if f>60 then for f=0,4 do if 1<f then if 3>f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else if f>1 then repeat if f>3 then if(l[e[s]]~=l[e[k]])then n=n+1;else n=e[d];end;break;end;l[e[s]]=a[e[d]];n=n+1;e=t[n];until true;else if(l[e[s]]~=l[e[k]])then n=n+1;else n=e[d];end;end end else if f~=-3 then repeat if f>0 then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];until true;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end break;end;l[e[s]][e[d]]=l[e[k]];until true;else l[e[s]][e[d]]=l[e[k]];end end end end end else if f<79 then if 73>f then if f<70 then if 67~=f then repeat if f~=69 then if not l[e[s]]then n=n+1;else n=e[d];end;break;end;l[e[s]]=a[e[d]];until true;else if not l[e[s]]then n=n+1;else n=e[d];end;end else if f>70 then if 69~=f then for t=22,64 do if 72>f then if(l[e[s]]~=e[k])then n=n+1;else n=e[d];end;break;end;local s=e[s];local n=l[e[d]];l[s+1]=n;l[s]=n[e[k]];break;end;else if(l[e[s]]~=e[k])then n=n+1;else n=e[d];end;end else local r,a,u,y,z,b,_,f,p,m,h;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];l[e[s]]=j[e[d]];n=n+1;e=t[n];r=e[s];a=l[e[d]];l[r+1]=a;l[r]=a[e[k]];n=n+1;e=t[n];f=0;while f>-1 do if 2>=f then if f>0 then if 2~=f then y=s;else z=d;end else u=e;end else if f>4 then if f==5 then l(_,b);else f=-2;end else if f==3 then b=u[z];else _=u[y];end end end f=f+1 end n=n+1;e=t[n];r=e[s]p,m=c(l[r](o(l,r+1,e[d])))g=m+r-1 h=0;for e=r,g do h=h+1;l[e]=p[h];end;end end else if 75>=f then if f<74 then local r,a,h,o,g,f;for f=0,6 do if f<3 then if f>0 then if f>=-1 then for o=15,79 do if f>1 then l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;else l[e[s]]=j[e[d]];n=n+1;e=t[n];end else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if 4<f then if f~=2 then for j=42,62 do if 6~=f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;f=0;while f>-1 do if f>=3 then if f<=4 then if 1~=f then for e=20,79 do if f~=3 then g=r[a];break;end;o=r[h];break;end;else o=r[h];end else if f>3 then for e=40,92 do if 5~=f then f=-2;break;end;l(g,o);break;end;else l(g,o);end end else if f>0 then if f>=-2 then repeat if 1<f then h=d;break;end;a=s;until true;else a=s;end else r=e;end end f=f+1 end break;end;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end else if 0~=f then repeat if 4~=f then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];until true;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end end else if f>72 then repeat if f<75 then l[e[s]]=l[e[d]][e[k]];break;end;do return end;until true;else l[e[s]]=l[e[d]][e[k]];end end else if 76<f then if f<78 then local e=e[s]l[e](l[e+1])else for f=0,1 do if-2~=f then for o=11,75 do if f>0 then l[e[s]]=l[e[d]][e[k]];break;end;l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;else l[e[s]]=l[e[d]][e[k]];end end end else local n=e[s]l[n](o(l,n+1,e[d]))end end end else if f<85 then if f<82 then if 80<=f then if f==80 then l[e[s]][e[d]]=l[e[k]];else l[e[s]]=l[e[d]];end else local f;for o=0,2 do if 1<=o then if-3<=o then repeat if o~=2 then l[e[s]]=j[e[d]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];until true;else l[e[s]]=l[e[d]][e[k]];end else f=e[s]l[f](l[f+1])n=n+1;e=t[n];end end end else if f<=82 then do return l[e[s]]end else if f>83 then local f,j;for r=0,4 do if r<=1 then if 1>r then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];else f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];end else if r>=3 then if r>1 then for k=11,83 do if r>3 then if l[e[s]]then n=n+1;else n=e[d];end;break;end;f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];break;end;else if l[e[s]]then n=n+1;else n=e[d];end;end else l(e[s],e[d]);n=n+1;e=t[n];end end end else local f,j;for r=0,4 do if r>=2 then if 3<=r then if r<4 then f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];else if l[e[s]]then n=n+1;else n=e[d];end;end else l(e[s],e[d]);n=n+1;e=t[n];end else if-3<=r then repeat if 0~=r then f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];break;end;l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];until true;else l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];end end end end end end else if 88>f then if f<86 then l[e[s]]=(e[d]~=0);else if f~=86 then local t,r,k,f,o;local n=0;while n>-1 do if 3>n then if 0>=n then t=e;else if-1<n then repeat if n~=1 then k=d;break;end;r=s;until true;else k=d;end end else if n<=4 then if 0~=n then for e=11,78 do if n~=3 then o=t[r];break;end;f=t[k];break;end;else f=t[k];end else if n~=2 then for e=31,83 do if n~=6 then l(o,f);break;end;n=-2;break;end;else n=-2;end end end n=n+1 end else local f,j;for r=0,4 do if 2>r then if-4<r then for o=16,93 do if r~=1 then l[e[s]]=l[e[d]][e[k]];n=n+1;e=t[n];break;end;f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];break;end;else f=e[s];j=l[e[d]];l[f+1]=j;l[f]=j[e[k]];n=n+1;e=t[n];end else if 3>r then l(e[s],e[d]);n=n+1;e=t[n];else if 2<r then repeat if r>3 then if not l[e[s]]then n=n+1;else n=e[d];end;break;end;f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];until true;else f=e[s]l[f]=l[f](o(l,f+1,e[d]))n=n+1;e=t[n];end end end end end end else if f<=88 then local g=p[e[d]];local o;local f={};o=r.gRYwRIub({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for s=1,e[k]do n=n+1;local e=t[n];if e[_]==81 then f[s-1]={l,e[d]};else f[s-1]={a,e[d]};end;h[#h+1]=f;end;l[e[s]]=b(g,o,j);else if f>86 then repeat if 89<f then l[e[s]][e[d]]=e[k];break;end;local g=p[e[d]];local o;local f={};o=r.gRYwRIub({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for s=1,e[k]do n=n+1;local e=t[n];if e[_]==81 then f[s-1]={l,e[d]};else f[s-1]={a,e[d]};end;h[#h+1]=f;end;l[e[s]]=b(g,o,j);until true;else local g=p[e[d]];local o;local f={};o=r.gRYwRIub({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(l,e,n)local e=f[e]e[1][e[2]]=n;end;});for s=1,e[k]do n=n+1;local e=t[n];if e[_]==81 then f[s-1]={l,e[d]};else f[s-1]={a,e[d]};end;h[#h+1]=f;end;l[e[s]]=b(g,o,j);end end end end end end end n=1+n;end;end;return le end;local d=0xff;local j={};local t=(1);local s='';(function(n)local l=n local k=0x00 local e=0x00 l={(function(f)if k>0x2e then return f end k=k+1 e=(e+0xdaa-f)%0x21 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x5);j[t]=de();t=t+d;end return true end)'_Hvtd'and l[0x1](0x3a1+f))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xf7);s='\37';d={function()d()end};s=s..'\100\43';end return true end)'zQygA'and l[0x3](f+0x354))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x2f);end return true end)'EaXyU'and l[0x2](f+0x18a))or f end),(function(s)if k>0x23 then return s end k=k+1 e=(e+0xbab-s)%0x14 return(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x4d);end return true end)'ClGqi'and l[0x3](0x38e+s))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xbf);end return true end)'Wcsux'and l[0x2](s+0x24d))or(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x87);end return true end)'AlWEa'and l[0x1](s+0x87))or s end),(function(f)if k>0x31 then return f end k=k+1 e=(e+0x1113-f)%0x17 return(e%0x03==0x0 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x23);d[2]=(d[2]*(le(function()j()end,o(s))-le(d[1],o(s))))+1;j[t]={};d=d[2];t=t+d;end return true end)'ICX_M'and l[0x1](0x263+f))or(e%0x03==0x1 and(function(l)if not n[l]then e=e+0x01 n[l]=(0x81);end return true end)'SJobL'and l[0x2](f+0x137))or(e%0x03==0x2 and(function(l)if not n[l]then e=e+0x01 n[l]=(0xaf);s={s..'\58 a',s};j[t]=ne();t=t+((not r.Ecqik_vH)and 1 or 0);s[1]='\58'..s[1];d[2]=0xff;end return true end)'BDvkF'and l[0x3](f+0xf7))or f end)}l[0x1](0x25e8)end){};local e=b(o(j));return e(...);end return le((function()local n={}local e=0x01;local l;if r.Ecqik_vH then l=r.Ecqik_vH(le)else l=''end if r.fMexzzhR(l,r.gIkMugxO)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,l,n,s,d,t)local t;if e>=4 then if 6<=e then if 7>e then do return d[n]end;else if 5<=e then repeat if e~=7 then do return n(e,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,d,s,l,n)if n then return e[n]elseif l then return e else e[d]=s end end})end until true;else do return n(e,nil,n);end end end else if e>=1 then repeat if 5~=e then local e=s;local d,s,t=d(2);do return function()local n,f,k,l=l(n,e(e,e),e(e,e)+3);e(4);return(l*d)+(k*s)+(f*t)+n;end;end;break;end;local e=s;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;until true;else local e=s;do return function()local n=l(n,e(e,e),e(e,e));e(1);return n;end;end;end end else if 1>=e then if e~=-4 then repeat if e>0 then do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return l(1),l(4,d,s,n,l),l(5,d,s,n)end;until true;else do return function(n,e,l)if l then local e=(n/2^(e-1))%2^((l-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(n%(e+e)>=e)and 1 or 0;end;end;end;end else if 1~=e then for t=38,97 do if 2~=e then do return l(1),l(4,d,s,n,l),l(5,d,s,n)end;break;end;do return 16777216,65536,256 end;break;end;else do return 16777216,65536,256 end;end end end end),...)
+
+  string char byte sub bit32 bit bxor table concat insert tonumber pcal $ m   f  m    f    m    f    m   1  
+    
+  m    f     m    f   	 m    f   
+                 m    f   
+ m 	  m 
+ 
+  
+        	    
+  
+ s  
+ +      [
+ s    ;    Q   ? 
+  :   : 
+  s          0           0     ;    Q 
+    ? 
+   y 
+ 
+  2 	 
+ _        :   s   I      [    @ :%d+: %d+ ­?     e :   :   :   O  :   s  =     Q    
+    f    5   9    5   Q   ?   &        s  O  I         :   +      [    
+ headers
+
+ ¹¶YÄu┴üÓæYÄb╔  ╚ñ½sñ=û
+ ║±FæÀõLî░ ÒÌöc% 'KB¾ ÖS2û Op  -=|╦ ┬·  ┘írmòb tonumber  !aeA )=p©g r@X▄ ? ▀▒  ¦Qa▓Èÿ░	 °¶Ú╠Ûí z¡ç}ø Æ└¼:  ¿õí`┘_Q Game Name Ê▀"U!R 7╗▒N<O #¤R¯  ÓM«?ï&»
+ ¡qÇEJ+ùR Nõ!8 Ï¥Ç Õ«Êc ÒèXÒ8  Y{ìµ1ì] ²p¹	 *ôûlp
+ (º zº─¿&% êoãMç ½C© ╔biÃ6¦äw htps:/roblox.com/games/ / ░Å(0  ╠┘lÒAbU P┬°Ó á>úòàL
+ ±í *â°í *Ö úÂ└mO "'ı­ òTF`á 1õ6 ìXfm ¢RÃu íË3¬z]5 ┌®Àr Hø╬Ê P{X6 S&4n Q+OV &8wG ²¯UË 6ôÅ8ÂE µô·DÍ├îÑ ┐Âßƒ) =$@Ä  óKrH5Ùþ à2HÙ]  bý\$é3 ¬┐ P─yl┌%╚ı !_6%  Û`b+n ^Ê®  Ùf2º╠ Y»¨*J+ N0┴òC$
+ JSONEncode 3ÄD>
+═X  !P~Óx aplication/json ┘║ <î╚cñ Ñ¹ ? ┬þödF kIı½¨╠ ¿&,í├û ░Ë▒B vÓ£ÔPêÍ  jÙXäG³J Ó"Ä9 Û«Ðv n¥ÃÑ¢æ=	 Ý¯{Ùä╩▀º7 º║ïêÙ
+ ZíçM7║çZØ[ mzıÞ ┌‗║$ PÄù┬- "╚nËp_\åEI╔eXCÊIåcC┼eC╚#TW├7C
+åsE┼x^  ,cª XÔ;7'¡s¨ ─ùIVS @
+ StarterGui  SetCore └'¼W§
+*ûQx ôcIpÔ8x ïpý±úÀaÙ¾ä╗t÷³éÂ ÝÏéò ÂGKSÁ  >Ô.?ð® ╦6a¬<( >ày5ÒmO $*ß  ┬ptRòÂ╬g If you can't se the list for the elderropdown, go to menu and re-execute the gui and check again  ¢^ÈÙ7  nY╚,xáé .@ wait IsLoaded  ø¤J_FX( -╦ú+&#*[ Idled  conect F­■:HÛa «V)ôp	 hƒ)3 !ïúÇ╣ cQÊR ¥78d aá.  ô6¤\~sâ	 >2'rr/0' mQUm ╦x@║3  £ƒ4ÍV¥ è┴£ ▄╬Å¦	 Á~?È└­ço  ▓µMw©¼ ┴Àr ÿòÌj{ ³(ÔJ° '° ı¢Fû#	 |Vf CYV	] h/5
+ CreateSection ùEò╣ o├,ß|▄
+ ¶Ir
+ÿËé üFKE▀ i┘¸ýn Å&½ôë ­? CreateTogle õï¡   ┤░Ô┘ôcâ Infinite Hunger/Thirst  ¸╝)ãÁ; g│┘O iÂ┘CìáA  ├*Î|Á!ý CreateButon Û£1L :RâÞ])
+ «V╚Uu*ìPı  _Ò7░u= ;/G®}( ╦xC+ ┼,YÒ▄ ╣æE-Å ╣
+┤¦ë
+YÄ╔ä┤ ╝Ûyã 3Å:3ê ÒXRs CreateSlider w«½  #┌Ãb	 H/T Delay 1‗ é|øj °╩¯ ▀Á½û¤├û  h?Õ»@. i,Zâ╬ ▄ß¥Á
+?³Ù ^ƒÇÊ┘h d­│Z 0Öf▀?Ö +NÙ·I¨÷BtÕ·S¨ ôb ì  <FÕ╦Z_  +x#â¬f6 w ï║º▒ç_  õ4fþÍ┼ð Crea  B7l^?┤ Select Skins/Dinosaurs 5ƒù6> 9tÝÕWG ç░¶´rÒ åñ■ÞcþS½┐  '╩ÐìçÄ È2 '©Ï:
+4■' 3÷  á╩S¹ÃS┴‗TÓ█Sôågá <ßª1Æ®  ;"ÿm┌}Y¿?■vY¼p┴v z┌│> É┌╠Ê┌¿F¾¶╠Ëã▓Dª─ÏÊ  %ËÂ¡í®┴ Ð5_▄;o¨ð/L╦,r©¨zl╔)oÂõ;X╦=h  ┘ùZ-╣H ¾u¾^â^ÙU╚<ãWÎs¶CÐi¶ 6úçr 
+Î\æ]v+ø|ÆOk'╚\ù\j; H╗=Ô. þB▀Hp â'SËSq7┬QÃT  Dúf#▓' Æu╠╬íï░0Ú¤ªù¡q¤ıª qÌ║ºcıÒ  ¶·+╗ð'¸ ; ûNnø «─.Ù▒^ÿIù─!þÑ
+ÂTä╦  ÕÑGü─~▀ õå╚àä█â«═ôÇË┼êðêòÈ═ ÁúÚñß wç?dC╦
+vEÖ1g_ÿ;~Tä0 0Ù^ [ıÈYR=ÆO█═OX#¦o▀ÐYX=  ▓║©=7S ´▀H2²¶Ð▀R/▓,·¦╠D9³³Î  òñ¡'\Æn Í+Ó&
+ {ôGpz
+ °┼â}G▀Ìì|C╚┬î &¼¡Ô k?³Dl█E ¯^#ÔH#ß Å-qL ø┤/½▒|£▒0À╝?¡½ \Ï| k;©C§áA■PrÿE´I=¥ Ø;R╠  ?´¹Û■┌▓xÔÞµ¨Êñ*+­ ÐX^âÜëè│ Scyla╬▓ ¿Ìfc'$¿Êy:q)▒Ðo6#7; BH┴ñ~CQ È$®V2cÚ+ºK'c§9╗ çL╚8F
+ á1ß,Xý═Û-M¯ë üÝPÿD= xª÷]UÞ)‗]\Þ!ÙNP╝
+ß  81╚dô|w Õ0®§Ì*║¶î¥Ú─;▓░°,ÂÓ├: É¼^▀ 
+
+ÃaÀ	╔yH£ãz Ïg¿h [¼O¿z¼@» ─═# ÂB? KÔk:
+ k█Íì}┘  ¡8¥qqó Û╠?¯ ù½¥Me
+ Ô ¶¡²sKÓ(   kÑOÿ╔ÿ pAõ¤Qqk´╝	 û║B└«÷rÈí │ãÍ7 ┘dsWÃ§2SBÈ │Él%
+ Õ▒Ü▄╔ÁøÅÒñ »ª├{Ú ╠├QE‗¯┴V ÉÅó=) ÈÍD  SÇ│}0þ |óþÊ 6\ú­ı ;Z░Ó ~=Îô¢'  \·Dm¾	 %ƒ} ¨ºyNÏºvI "║ã Ç6å@  aÈ}BÛ%Ò	 ¢Ô║>-Üµ│1 ~ÛâÍU ®▄G /õÁ): ï²┴  ã£╣[cP  Ð╩±▓ - ¥òz¼ÉÃkY ²‗³3· ×Reæ× D¹ $×bv
+ ¶ã■█0ý╬ àávúø8êG  Êºw¾úí  ıû┬ÆÍ 8¿ÏDÑí= V{╔─┤&─┬ ├Ý┴╗ ¤ùê╣
+ ëû<ì4Ye╝é+ë  ╚ÒHÔ  öDÍ▄²¹ ƒð!{À®æÅ Ð[4:­[;= VÆ:X ▓\Ýô ¼µ9òþZß 0»ï¦>ÌBîë¦<╚»û┴ ╗b╩µ▓H Ó¿<H Ô» *Aü─P pairs
+ GetPlayers table insert Ãé¨c (ôþü`
+ F²Ç@©£E¶ì\¥  ╝ÿý%█╠ a¹%
+Y l ëW ëÚ¬-°HR 9╩ê`ãOÖ+
+ PlayerAded  Conect PlayerRemoving ƒ&▓│  ÿ╦C╩ÃÝÃ █W┤}9‗§░l|¶ åÜ#└o  £#
+5Ì¼ ▓ÏFij@ *v·╦ÈÎï Ó_Kû®Á┤ ?Ë╠$A  k║©H$╠ ã®0O
+´² nç¦D. ╬?  [âVlï«Ë Í*á =øKÏw @ P±$-P■# HO1Ø	 ┐#Àøá0┐ì ▄ÞðQ Packs
+ GetChildren
+ PackLeader Value ┴╗²$  ┴òÌàPL: ´÷┴	f ÑlT╚ëGù YÁ'äxÁ(â ÞÈK Lj³ ùW)ê
+ l«ã█¥Tíèþ O¬Ï ×;¤¬░  k[5HÖCJ ý/>S) ┘¿,7¿â¨ó ÔÜ╔@[╩ @`&Õ9■┤ul&°w├ól ÃTzïWæ
+ sÈ¡°FÊ¥ è'i¢╬{
+ ,Ç#³Û╬Û
+Ü ƒgÚMôÖ»
+ 4õ²©A╚ÒÕ┐RÌ ½gÉä╩ 
+ #;­,µ:¹ lpOë
+ ╦s)úµ'>Ê`'┐ U_óH═aë  ├´%Ë	¸├  ¡ùØJ╝mÿ 
+ ╔ ôDhX¢╝4Á /åç▀â╦§ìà─Zíƒıø ░zÞÙ út6Cýüv1 ÄÓZ/ À
+Ô»·î îÝoî└ !q=; 
+~ 
+r
+
+ GameFunctions
+ DamageNest ░Ãõ õóeÉ║
+ l7┤§ß╝µ ä(V┘nÆ ]╩+░Ñr U >½G▄Ã£ ­AtA └Å»wA É┘ÎvA └OZA 
+ÜA └C²@ `ûÏéA  évlA Þ0ÊÇA 8/ÄA 0╚´A Ç╦£A ÇòxPA éÉA 0tA ‗Én¿A ÛÆúA ¿╦▓A ýÅÉA Ç«ûA p³aèA µ"cA <øA `ëUûA p╝àA áÊöbA 4╚┘ôA h´.ÖA ñ7½æA É█)äA É¤xûA h┴zïA ─«`ôA └sõjA P¥/íA P╗	âA T8└×A ² äA É=T 0─X,j─DÁ À¤Ï"öíÔâ▄Î/ëÀÂ LÔ┐╝CÓ─┬ ·)
+³ Ï+ Ø╣HgÉ 5╦¥ò ▓a«ãß0 ¯X°5─┴D┌qÕ  o»6dæå  g&V4 u#y@ ■╝Ô┌!NÌÂ /¢¦ÄÂC ║?▀ I@▀G½(╔@ +âðPÝ_
+â×ù|â jÝñ9└  òíß╗└Ì┤ ÆÐ─ç┌Á▓└ 1ÅRª.; ÃMPÒq0 6J┴/ ¡J_> ´J?Ï¥╩╩╣È  ▄ªy<V½g  ═ ;▒.ã  zëb]ð[¬ ñÓCÎ│¬┴ ¬þü|/ÁÊ╔÷
+ # ¾
+  ¾
+ m   m        5   -   Q   ?   w    m        :  5   5    Q   ?    f     f   	 (    #       m  
+ :  5  
+ 5   Q   _    &  m    f   
+  f         :  5   5   Q   _   m        5   9    m        :    f    M   -  -  m    f    m    f     f      >    >  -    F  m    f    m    f     f      F    F  -  &  M    M  m    f    &
+  M    M  -   m        :   5   5 	  Q   	 ?        m    f     m 	   f 	 	 !  f 	 	 " 9  : 
+ 5 
+ ' 5  ( 9 
+    4 	 
+ ) : 
+ 5 
+ * 5  + 9 
+   : 
+ 5  , 5 
+ - 9 
+ 
+  @ 	 
+ 
+ x     f   . m 	    	 	  : 
+ 5  / 5 
+ 0 Q 
+ 
+ ? 	    	 	 1 s 
+  9 	 
+  O 
+  : 
+ 5 
+ 5  6 5  7 9 
+   :  5  8 5  9 Q   
+ 
+  5 
+ ; M 
+ : m 
+ < s  
+ = 
+ 
+  ú   f  	 = (    #  ú   ú   f  	 = (    M  :  Ñ  C 
+ ø    ø  m 
+ : # 
+ ó  ó m 
+    
+ 
+  : 
+ 5  > 5  ? Q 
+  ? 
+  5  @ O 
+  :  5  A 5  B 9     4 
+  ; :  5  C 5  D 9    O   O   :  5  E 5  F 9    :  5  G 5  H 9    @    :  5  I 5  J 9    m  : @    :  5  K 5  L 9    :  5  M 5  N 9    @    :  5  O 5  P 9    m  Q 5  R x    @    :  5  S 5  T 9    O    O   :  5  U 5  V 9    :  5  W 5  X 9    @    :  5  Y 5  Z 9    m  [  f   
+  f     f   \ @    :  5  ] 5  ^ 9     4   _ O   :  5  ` 5  a 9    :  5  b 5  c 9    @    :  5  d 5  e 9    @    :  5  f 5  g 9     4   _ O   :  5  h 5  i 9    :  5  j 5  k 9    @    :  5  l 5  m 9    5  n m    f     5  o d    @    :  5  p 5  q 9     4   _ O   :  5  r 5  s 9    :  5  t 5  u 9    @    :  5  v 5  w 9     f   \ @    :  5  x 5  y 9     4   _ O   :  5  z 5  { 9    :  5  | 5  } 9    @    :  5  ~ 5   9    m    f    @    :  5  Ç 5  ü 9     4   _ O   :  5  é 5  â 9    :  5  ä 5  à 9    @    :  5  å 5  ç 9    @    :  5  ê 5  ë 9     4   _ O   :  5  è 5  ï 9    :  5  î 5  ì 9    @    :  5  Ä 5  Å 9    @    :  5  É 5  æ 9     4   _ h     @    h    @ 
+      
+ Æ s  
+ 9    O   :  5  ô 5  ö 9     4   ò O   :  5  û 5  ù 9    @    :  5  ÿ 5  Ö 9    @    :  5  Ü 5  ø 9    :  5  £ 5  Ø 9    @    :  5  × 5  ƒ 9    @    s    s   ^    O 
+  :  5 
+ á 5  í 9    : 
+ 5  ó 5  ú 9 
+   m    f   
+  f     f   \ :  5  ñ 5  Ñ 9    d 
+ 
+  @ 
+  
+ :  5 
+ ª 5  º 9    : 
+ 5  ¿ 5  ® 9 
+   @ 
+  
+ :  5 
+ ¬ 5  ½ 9     4 
+  ¼ m    f   ¡     « :  5  » 5  ░ 9    s  
+     m    f   ¡     « :  5  ▒ 5  ▓ 9    O   :  5  │ 5  ┤ 9    :  5  Á 5  Â 9    @    :  5  À 5  © 9     4   ╣ :  5  ║ 5  ╗ 9     4   ╝     m  ¢ Z    m       ¥ x    #  Þ  Þ m  ¢ Z    m        :  5  ┐ 5  └ Q   ?    f     f   ┴     ┬      e     m   m 
+    
+ 
+ ├ 5  ─ -   Q 
+  ?   w      
+  ┼ O   :  5  ã 5  Ã 9    :  5  ╚ 5  ╔ 9    @    9 
+      
+ ╩ O   :  5  ╦ 5  ╠ 9    :  5  ═ 5  ╬ 9    @    :  5  ¤ 5  ð 9     4   _ 9       
+ ╩ O   :  5  Ð 5  Ê 9    :  5  Ë 5  È 9    @    :  5  ı 5  Í 9     4   _ 9       
+ ╩ O   :  5  Î 5  Ï 9    :  5  ┘ 5  ┌ 9    @    :  5  █ 5  ▄ 9     4   _ 9       
+ ╩ O   :  5  ¦ 5  Ì 9    :  5  ▀ 5  Ó 9    @    :  5  ß 5  Ô 9     4   _ 9       
+ ╩ O   :  5  Ò 5  õ 9    :  5  Õ 5  µ 9    @    :  5  þ 5  Þ 9     4    9        Ú O   :  5  Û 5  Ù 9    :  5  ý 5  Ý 9    @    9        Ú O   :  5  ¯ 5  ´ 9    :  5  ­ 5  ± 9    @    9        Ú O   :  5  ‗ 5  ¾ 9    :  5  ¶ 5  § 9    @    9        Ú O   :  5  ÷ 5  ¸ 9     4   ° 9        Ú O   :  5  ¨ 5  · 9    :  5  ¹ 5  ³ 9    @    9    5  ² -  -  -  m     f    :  5   5   9    m   5   (    9    M  ■ m  ■ 5   -   @    m  ■ 5   5   @    m  ■ 5    m    f   5  	 5   
+ 5 ! 
+ 9  !  @    m  ■ 5   m    f   5  
+ 5   
+ 5 ! 
+ 9  !  @    O  % :  5   5   9    :  5   5    9     :  5    5 !  9  !  :   5 !  5 "  9   "  : ! 5 "  5 #  9 ! #  : " 5 #  5 $  9 " $  : # 5 $  5 %  9 # %  : $ 5 %  5 &  9 $ &  : % 5 &  5 '  9 % '  : & 5 '   5 ( ! 9 & (  : ' 5 ( " 5 ) # 9 ' )  : ( 5 ) $ 5 * % 9 ( *  : ) 5 * & 5 + ' 9 ) +  : * 5 + ( 5 , ) 9 * ,  : + 5 , * 5 - + 9 + -  : , 5 - , 5 . - 9 , .  : - 5 . . 5 / / 9 - /  : . 5 / 0 5 0 1 9 . 0  : / 5 0 2 5 1 3 9 / 1  : 0 5 1 4 5 2 5 9 0 2  : 1 5 2 6 5 3 7 9 1 3  : 2 5 3 8 5 4 9 9 2 4  : 3 5 4 : 5 5 ; 9 3 5  : 4 5 5 < 5 6 = 9 4 6  : 5 5 6 > 5 7 ? 9 5 7  : 6 5 7 @ 5 8 A 9 6 8  : 7 5 8 B 5 9 C 9 7 9  : 8 5 9 D 5 : E 9 8 :  : 9 5 : F 5 ; G 9 9 ;  : : 5 ; H 5 < I 9 : <  : ; 5 < J 5 = K 9 ; =  : < 5 = L 5 > M 9 < >  : = 5 > N 5 ? O 9 = ?  : > 5 ? P 5 @ Q 9 > @  : ? 5 @ R 5 A S 9 ? A  : @ 5 A T 5 B U 9 @ B  : A 5 B V 5 C W 9 A C  : B 5 C X 5 D Y 9 B D  : C 5 D Z 5 E [ 9 C E  : D 5 E \ 5 F ] 9 D F  : E 5 F ^ 5 G _ 9 E G  : F 5 G ` 5 H a 9 F H  : G 5 H b 5 I c 9 G I  : H 5 I d 5 J e 9 H J  : I 5 J f 5 K g 9 I K  : J 5 K h 5 L i 9 J L  : K 5 L j 5 M k 9 K M  : L 5 M l 5 N m 9 L N  : M 5 N n 5 O o 9 M O  : N 5 O p 5 P q 9 N P  h  2  :  5  r 5  s 9    :  5  t 5   u 9     :  5   v 5 ! w 9  !  :   5 ! x 5 " y 9   "  : ! 5 " z 5 # { 9 ! #  : " 5 # | 5 $ } 9 " $  : # 5 $ ~ 5 %  9 # %  : $ 5 % Ç 5 & ü 9 $ &  : % 5 & é 5 ' â 9 % '  : & 5 ' ä 5 ( à 9 & (  : ' 5 ( å 5 ) ç 9 ' )  : ( 5 ) ê 5 * ë 9 ( *  : ) 5 * è 5 + ï 9 ) +  : * 5 + î 5 , ì 9 * ,  : + 5 , Ä 5 - Å 9 + -  : , 5 - É 5 . æ 9 , .  : - 5 . Æ 5 / ô 9 - /  : . 5 / ö 5 0 ò 9 . 0  : / 5 0 û 5 1 ù 9 / 1  : 0 5 1 ÿ 5 2 Ö 9 0 2  : 1 5 2 Ü 5 3 ø 9 1 3  : 2 5 3 £ 5 4 Ø 9 2 4  : 3 5 4 × 5 5 ƒ 9 3 5  : 4 5 5 á 5 6 í 9 4 6  : 5 5 6 ó 5 7 ú 9 5 7  : 6 5 7 ñ 5 8 Ñ 9 6 8  : 7 5 8 ª 5 9 º 9 7 9  : 8 5 9 ¿ 5 : ® 9 8 :  : 9 5 : ¬ 5 ; ½ 9 9 ;  : : 5 ; ¼ 5 < ¡ 9 : <  : ; 5 < « 5 = » 9 ; =  : < 5 = ░ 5 > ▒ 9 < >  : = 5 > ▓ 5 ? │ 9 = ?  : > 5 ? ┤ 5 @ Á 9 > @  : ? 5 @ Â 5 A À 9 ? A  : @ 5 A © 5 B ╣ 9 @ B  : A 5 B ║ 5 C ╗ 9 A C  : B 5 C ╝ 5 D ¢ 9 B D  : C 5 D ¥ 5 E ┐ 9 C E  : D 5 E └ 5 F ┴ 9 D F  : E 5 F ┬ 5 G ├ 9 E G  : F 5 G ─ 5 H ┼ 9 F H  : G 5 H ã 5 I Ã 9 G I  : H 5 I ╚ 5 J ╔ 9 H J  : I 5 J ╩ 5 K ╦ 9 I K  : J 5 K ╠ 5 L ═ 9 J L  : K 5 L ╬ 5 M ¤ 9 K M  : L 5 M ð 5 N Ð 9 L N  : M 5 N Ê 5 O Ë 9 M O  : N 5 O È 5 P ı Q N P 
+   5  Í 7    O   :   5 ! Î 5 " Ï 9   "  : ! 5 " ┘ 5 # ┌ 9 ! #  @    ! :   5 ! █ 5 " ▄ 9   "  5 ! ¦ @    ! 9    5   Ì 7     O    : ! 5 " ▀ 5 # Ó 9 ! #  5 " ß @   ! " : ! 5 " Ô 5 # Ò 9 ! #  - " @   ! " : ! 5 " õ 5 # Õ 9 ! #   "        e @   ! "      5   µ 7     O    : ! 5 " þ 5 # Þ 9 ! #  : " 5 # Ú 5 $ Û 9 " $  @   ! " : ! 5 " Ù 5 # ý 9 ! #   "  @   ! "      5   µ 7     O    : ! 5 " Ý 5 # ¯ 9 ! #  : " 5 # ´ 5 $ ­ 9 " $  @   ! " : ! 5 " ± 5 # ‗ 9 ! #   "  @   ! "      5   ¾ 7     O    : ! 5 " ¶ 5 # § 9 ! #  5 " ÷ @   ! " : ! 5 " ¸ 5 # ° 9 ! #  5 " ² @   ! " : ! 5 " ¨ 5 # · 9 ! #  5 " ¦ @   ! " : ! 5 " ¹ 5 # ³ 9 ! #  5 " ² @   ! " : ! 5 " ² 5 # ■ 9 ! #   "      @   ! "      5   Ì 7     O    : ! 5 "   5 #  9 ! #  : " 5 #  5 $  9 " $  @   ! " : ! 5 "  5 #  9 ! #  - " @   ! " : ! 5 "  5 #  9 ! #   "      e   @   ! "      =   5 !   7   ! O !  : " 5 #  5 $ 	 9 " $  5 # 
+ @ ! " # : " 5 # 
+ 5 $  9 " $  O #  : $ 5 % 
+ 5 &  9 $ &  : % 5 &  5 '  9 % '  : & 5 '  5 (  9 & (  : ' 5 (  5 )  9 ' )  : ( 5 )  5 *  9 ( *  : ) 5 *  5 +  9 ) +  : * 5 +  5 ,  9 * ,  : + 5 ,  5 -  9 + -  : , 5 -  5 .  9 , .  : - 5 .  5 /   9 - /  : . 5 / ! 5 0 " 9 . 0  : / 5 0 # 5 1 $ 9 / 1  : 0 5 1 % 5 2 & 9 0 2  : 1 5 2 ' 5 3 ( 9 1 3  : 2 5 3 ) 5 4 * 9 2 4  : 3 5 4 + 5 5 , 9 3 5  : 4 5 5 - 5 6 . 9 4 6  : 5 5 6 / 5 7 0 9 5 7  : 6 5 7 1 5 8 2 9 6 8  : 7 5 8 3 5 9 4 9 7 9  : 8 5 9 5 5 : 6 9 8 :  : 9 5 : 7 5 ; 8 9 9 ;  : : 5 ; 9 5 < : 9 : <  5 ; ; : < 5 = < 5 > = 9 < >  : = 5 > > 5 ? ? 9 = ?  : > 5 ? @ 5 @ A 9 > @  : ? 5 @ B 5 A C 9 ? A  : @ 5 A D 5 B E 9 @ B  : A 5 B F 5 C G 9 A C  : B 5 C H 5 D I 9 B D  : C 5 D J 5 E K 9 C E  : D 5 E L 5 F M 9 D F  : E 5 F N 5 G O 9 E G  : F 5 G P 5 H Q 9 F H  : G 5 H R 5 I S Q G I 
+ #  @ ! " # : " 5 # T 5 $ U 9 " $   #       @ ! " #   !  5 ! µ 7   ! O !  : " 5 # V 5 $ W 9 " $  5 # X @ ! " # : " 5 # Y 5 $ Z 9 " $   #      @ ! " #   !  5 ! µ 7   ! O !  : " 5 # [ 5 $ \ 9 " $  : # 5 $ ] 5 % ^ 9 # %  @ ! " # : " 5 # _ 5 $ ` 9 " $   # 	   e @ ! " #   !  O    :   5 ! a 5 " b 9   "  : ! 5 " c 5 # d 9 ! #  @    ! :   5 ! e 5 " f 9   "  : ! 5 " g 5 # h 9 ! #  5 " i @  ! " h    5 " µ 7    " O "  : # 5 $ j 5 % k 9 # %  : $ 5 % l 5 & m 9 $ &  @ " # $ : # 5 $ n 5 % o 9 # %   $ 
+   e @ " # $    "  5 " Ì 7    " O "  : # 5 $ p 5 % q 9 # %  : $ 5 % r 5 & s 9 $ &  @ " # $ : # 5 $ t 5 % u 9 # %  - $ @ " # $ : # 5 $ v 5 % w 9 # %   $ 
+   e @ " # $    "  =     5 # ¾ 7 !  # O #  : $ 5 % x 5 & y 9 $ &  : % 5 & z 5 ' { 9 % '  @ # $ % : $ 5 % | 5 & } 9 $ &  5 % ~ @ # $ % : $ 5 %  5 & Ç 9 $ &  5 % ü @ # $ % : $ 5 % é 5 & â 9 $ &  5 % ~ @ # $ % : $ 5 % ä 5 & à 9 $ &   %       @ # $ %  ! #  = ! ! 5 $ Ì 7 "  $ O $  : % 5 & å 5 ' ç 9 % '  : & 5 ' ê 5 ( ë 9 & (  @ $ % & : % 5 & è 5 ' ï 9 % '  - & @ $ % & : % 5 & î 5 ' ì 9 % '   & 
+       ! @ $ % &  " $  5 $ µ 7 "  $ O $  : % 5 & Ä 5 ' Å 9 % '  : & 5 ' É 5 ( æ 9 & (  @ $ % & : % 5 & Æ 5 ' ô 9 % '   &  @ $ % &  " $  = " " 5 % Ì 7 #  % O %  : & 5 ' ö 5 ( ò 9 & (  : ' 5 ( û 5 ) ù 9 ' )  @ % & ' : & 5 ' ÿ 5 ( Ö 9 & (  - ' @ % & ' : & 5 ' Ü 5 ( ø 9 & (   '     " e @ % & '  # %  5 % µ 7 #  % O %  : & 5 ' £ 5 ( Ø 9 & (  : ' 5 ( × 5 ) ƒ 9 ' )  @ % & ' : & 5 ' á 5 ( í 9 & (   '  @ % & '  # %  5 % µ 7 #  % O %  : & 5 ' ó 5 ( ú 9 & (  : ' 5 ( ñ 5 ) Ñ 9 ' )  @ % & ' : & 5 ' ª 5 ( º 9 & (   '    e @ % & '  # %  5 % µ 7 #  % O %  : & 5 ' ¿ 5 ( ® 9 & (  : ' 5 ( ¬ 5 ) ½ 9 ' )  @ % & ' : & 5 ' ¼ 5 ( ¡ 9 & (   '    e @ % & '  # %  = # $ 5 '   7 %  ' O '  : ( 5 ) « 5 * » 9 ( *  : ) 5 * ░ 5 + ▒ 9 ) +  @ ' ( ) : ( 5 ) ▓ 5 * │ 9 ( *  O )  : * 5 + ┤ 5 , Á 9 * ,  : + 5 , Â 5 - À 9 + -  : , 5 - © 5 . ╣ 9 , .  : - 5 . ║ 5 / ╗ 9 - /  : . 5 / ╝ 5 0 ¢ 9 . 0  : / 5 0 ¥ 5 1 ┐ Q / 1 
+ )  @ ' ( ) : ( 5 ) └ 5 * ┴ 9 ( *   )     # @ ' ( )  % '  5 ' Ì 7 %  ' O '  : ( 5 ) ┬ 5 * ├ 9 ( *  : ) 5 * ─ 5 + ┼ 9 ) +  @ ' ( ) : ( 5 ) ã 5 * Ã 9 ( *  - ) @ ' ( ) : ( 5 ) ╚ 5 * ╔ 9 ( *   )     #  $ e @ ' ( )  % '  5 ' ¾ 7 %  ' O '  : ( 5 ) ╩ 5 * ╦ 9 ( *  : ) 5 * ╠ 5 + ═ 9 ) +  @ ' ( ) : ( 5 ) ╬ 5 * ¤ 9 ( *  5 ) ~ @ ' ( ) : ( 5 ) ð 5 * Ð 9 ( *  5 ) ü @ ' ( ) : ( 5 ) Ê 5 * Ë 9 ( *  5 ) ~ @ ' ( ) : ( 5 ) È 5 * ı 9 ( *   )       @ ' ( )  % '  5 ' Ì 7 %  ' O '  : ( 5 ) Í 5 * Î 9 ( *  : ) 5 * Ï 5 + ┘ 9 ) +  @ ' ( ) : ( 5 ) ┌ 5 * █ 9 ( *  - ) @ ' ( ) : ( 5 ) ▄ 5 * ¦ 9 ( *   )  @ ' ( )  % '  = % % 5 ( Ì 7 &  ( O (  : ) 5 * Ì 5 + ▀ 9 ) +  : * 5 + Ó 5 , ß 9 * ,  @ ( ) * : ) 5 * Ô 5 + Ò 9 ) +  - * @ ( ) * : ) 5 * õ 5 + Õ 9 ) +   *     % e @ ( ) *  & (  5 ( µ 7 &  ( O (  : ) 5 * µ 5 + þ 9 ) +  : * 5 + Þ 5 , Ú 9 * ,  @ ( ) * : ) 5 * Û 5 + Ù 9 ) +   *    e @ ( ) *  & (  = & & O ' m ( ý m )   f ) ) 
+ 5 + Ý 7 ) ) + 2 ) * L ( *  {  m -   f - - 
+  f - -  U , {  -  {  m - ¯ 5 . ´ ( - - . s . '  f / , \  - /  C ( p    p  = ( ( 5 +   7 )  + O +  : , 5 - ­ 5 . ± 9 , .  : - 5 . ‗ 5 / ¾ 9 - /  @ + , - : , 5 - ¶ 5 . § 9 , .  @ + , ' : , 5 - ÷ 5 . ¸ 9 , .   -     ( @ + , -  ) +  m )   f ) ) 
+ 5 * ° ( ) ) * 5 + ¨ 7 ) ) +  +     '  ) +  m )   f ) ) 
+ 5 * · ( ) ) * 5 + ¨ 7 ) ) +  +     '  ) +  = ) * 5 - Ì 7 +  - O -  : . 5 / ¹ 5 0 ³ 9 . 0  : / 5 0 ² 5 1 ■ 9 / 1  @ - . / : . 5 /   5 0  9 . 0  - / @ - . / : . 5 /  5 0  9 . 0   /     )  (  * @ - . /  + -  5 - ¾ 7 +  - O -  : . 5 /  5 0  9 . 0  : / 5 0  5 1  9 / 1  @ - . / : . 5 /   5 0  9 . 0  5 / ¼ @ - . / : . 5 / 	 5 0 
+ 9 . 0  5 / 
+ @ - . / : . 5 /  5 0 
+ 9 . 0  5 / ¼ @ - . / : . 5 /  5 0  9 . 0   /     * @ - . /  + -  = + + m , ý m -    - -  : / 5 0  5 1  Q / 1 ? -  5 .  ( - - . 5 /  7 - - / 2 - . L , .    5 1  ( 1 0 1 5 2  ( 1 1 2 m 2   f 2 2 
+  f 2 2   f 2 2 \  1   2     f + 0 \ C , ³    ³  5 . µ 7 ,  . O .  : / 5 0  5 1  9 / 1  : 0 5 1  5 2  9 0 2  @ . / 0 : / 5 0  5 1  9 / 1   0     (  + @ . / 0  , .  = , , O - m . ý m /    / /  : 1 5 2  5 3  Q 1 3 ? /  5 0  ( / / 0 5 1  7 / / 1 2 / 0 L . 0  6 m 3 ¯ 5 4 ´ ( 3 3 4 s 4 - 5 5 ¦  f 6 2 \  3 6  C . /   / = . / 5 2   7 0  2 O 2  : 3 5 4  5 5  9 3 5  : 4 5 5   5 6 ! 9 4 6  @ 2 3 4 : 3 5 4 " 5 5 # 9 3 5  @ 2 3 - : 3 5 4 $ 5 5 % 9 3 5   4     .  / @ 2 3 4  0 2  5 2 µ 7 0  2 O 2  : 3 5 4 & 5 5 ' 9 3 5  : 4 5 5 ( 5 6 ) 9 4 6  @ 2 3 4 : 3 5 4 * 5 5 + 9 3 5   4      . @ 2 3 4  0 2  5 2 µ 7 0  2 O 2  : 3 5 4 , 5 5 - 9 3 5  : 4 5 5 . 5 6 / 9 4 6  @ 2 3 4 : 3 5 4 0 5 5 1 9 3 5   4 !    / @ 2 3 4  0 2  5 2 µ 7 0  2 O 2  : 3 5 4 2 5 5 3 9 3 5  : 4 5 5 4 5 6 5 9 4 6  @ 2 3 4 : 3 5 4 6 5 5 7 9 3 5   4 "    / @ 2 3 4  0 2  = 0 0 5 3 Ì 7 1  3 O 3  : 4 5 5 8 5 6 9 9 4 6  : 5 5 6 : 5 7 ; 9 5 7  @ 3 4 5 : 4 5 5 < 5 6 = 9 4 6  - 5 @ 3 4 5 : 4 5 5 > 5 6 ? 9 4 6   5 #   e @ 3 4 5  1 3  O 1  : 2 5 3 @ 5 4 A 9 2 4  : 3 5 4 B 5 5 C 9 3 5  : 4 5 5 D 5 6 E 9 4 6  : 5 5 6 F 5 7 G 9 5 7  : 6 5 7 H 5 8 I 9 6 8  : 7 5 8 J 5 9 K 9 7 9  : 8 5 9 L 5 : M Q 8 : 
+ 1  5 4 µ 7 2  4 O 4  : 5 5 6 N 5 7 O 9 5 7  : 6 5 7 P 5 8 Q 9 6 8  @ 4 5 6 : 5 5 6 R 5 7 S 9 5 7   6 $   e @ 4 5 6  2 4  O 2 O 3 : 4 5 5 T 5 6 U Q 4 6 
+ 3  O 4  : 5 5 6 V 5 7 W 9 5 7  : 6 5 7 X 5 8 Y 9 6 8  : 7 5 8 Z 5 9 [ 9 7 9  : 8 5 9 \ 5 : ] 9 8 :  : 9 5 : ^ 5 ; _ Q 9 ; 
+ 4  O 5 = 6 8 m 9 `  : %   e  5  2  3  4 ^ 9   5 ;   7 9  ; O ;  : < 5 = a 5 > b 9 < >  5 = c @ ; < = : < 5 = d 5 > e 9 < >  @ ; < 3 : < 5 = f 5 > g 9 < >   = &    6 @ ; < =  9 ;  5 ;   7 9  ; O ;  : < 5 = h 5 > i 9 < >  : = 5 > j 5 ? k 9 = ?  @ ; < = : < 5 = l 5 > m 9 < >  @ ; < 4 : < 5 = n 5 > o 9 < >   = '    7 @ ; < =  9 ;  m 9 p 5 : q - ; @ 9 : ;  9 (    7  6 5 < Ì 7 :  < O <  : = 5 > r 5 ? s 9 = ?  : > 5 ? t 5 @ u 9 > @  @ < = > : = 5 > v 5 ? w 9 = ?  - > @ < = > : = 5 > x 5 ? y 9 = ?   > )    9 @ < = >  : <  - :  m ; p 5 < z - = @ ; < = 5 = Ì 7 ;  = O =  : > 5 ? { 5 @ | 9 > @  : ? 5 @ } 5 A ~ 9 ? A  @ = > ? : > 5 ?  5 @ Ç 9 > @  - ? @ = > ? : > 5 ? ü 5 @ é 9 > @   ? *   e @ = > ?  ; =  m ; p 5 < â - = @ ; < = = ; ; 5 > Ì 7 <  > O >  : ? 5 @ ä 5 A à 9 ? A  : @ 5 A å 5 B ç 9 @ B  @ > ? @ : ? 5 @ ê 5 A ë 9 ? A  - @ @ > ? @ : ? 5 @ è 5 A ï 9 ? A   @ +   e @ > ? @  < >  m < p 5 = î - > @ < = > = < < 5 ? Ì 7 =  ? O ?  : @ 5 A ì 5 B Ä 9 @ B  : A 5 B Å 5 C É 9 A C  @ ? @ A : @ 5 A æ 5 B Æ 9 @ B  - A @ ? @ A : @ 5 A ô 5 B ö 9 @ B   A ,   e @ ? @ A  = ?  - = = > > 5 A Ì 7 ?  A O A  : B 5 C ò 5 D û 9 B D  : C 5 D ù 5 E ÿ 9 C E  @ A B C : B 5 C Ö 5 D Ü 9 B D  - C @ A B C : B 5 C ø 5 D £ 9 B D   C -    = e @ A B C  ? A  5 A Ì 7 ?  A O A  : B 5 C Ø 5 D × 9 B D  : C 5 D ƒ 5 E á 9 C E  @ A B C : B 5 C í 5 D ó 9 B D  - C @ A B C : B 5 C ú 5 D ñ 9 B D   C .     e   @ A B C  ? A  = ? ? 5 B Ì 7 @  B O B   : C 5 D Ñ 5 E ª 9 C E  : D 5 E º 5 F ¿ 9 D F  @ B C D m C ® : D 5 E ¬ 5 F ½ 9 D F   E /   e @ B D E h B    @ B  5 B µ 7 @  B O B  : C 5 D ¼ 5 E ¡ 9 C E  : D 5 E « 5 F » 9 D F  @ B C D : C 5 D ░ 5 E ▒ 9 C E   D 0 @ B C D  @ B  O @ = A A m B ý m C    C C  : E 5 F ▓ 5 G │ Q E G ? C  5 D  ( C C D 5 E  7 C C E 2 C D L B D  5
+ m G ý 5 H ┤ ( H F H 5 J  7 H H J 2 H I L G I  3
+ m L ¯ 5 M ´ ( L L M s M @ 5 N ¦ s O K  L O  C G ,
+   ,
+ C B $
+   $
+ m B    B B  : D 5 E Á 5 F Â Q D F ? B  5 C À ( B B C 5 C © ( B B C = C C 5 F Ì 7 D  F O F   : G 5 H ╣ 5 I ║ 9 G I  : H 5 I ╗ 5 J ╝ 9 H J  @ F G H m G ® : H 5 I ¢ 5 J ¥ 9 H J   I 1    C  B  . @ F H I h F    D F  O D  5 E ┐ 5 F └ 5 G ┴ 5 H ┬ 5 I ├ 5 J ─ 5 K ┼ 5 L ã 5 M Ã 5 N ╚ 5 O ╔ 5 P ╩ 5 Q ╦ 5 R ╠ 5 S ═ 5 T ╬ 5 U ¤ 5 V ð 5 W Ð 5 X Ê 5 Y Ë 5 Z È 5 [ ı 5 \ Í 5 ] Î 5 ^ Ï 5 _ ┘ 5 ` ┌ 5 a █ 5 b ▄ 5 c ¦ 5 d Ì 5 e ▀ 5 f Ó 5 g ß 5 h Ô 5 i ¦ 5 j Ò 5 k õ h D '  - E  F 2    E  D - G  H 3    E  D e 5 K µ 7 I  K O K  : L 5 M Õ 5 N µ 9 L N  : M 5 N þ 5 O Þ 9 M O  @ K L M : L 5 M Ú 5 N Û 9 L N   M 4   e  - @ K L M  I K  5 K Ì 7 I  K O K  : L 5 M Ù 5 N ý 9 L N  : M 5 N Ý 5 O ¯ 9 M O  @ K L M : L 5 M ´ 5 N ­ 9 L N  - M @ K L M : L 5 M ± 5 N ‗ 9 L N   M 5    E  F @ K L M  I K  5 K Ì 7 I  K O K  : L 5 M ¾ 5 N ¶ 9 L N  : M 5 N § 5 O ÷ 9 M O  @ K L M : L 5 M ¸ 5 N ° 9 L N  - M @ K L M : L 5 M ¨ 5 N · 9 L N   M 6    H @ K L M  I K  5 K Ì 7 I  K O K  : L 5 M ¹ 5 N ³ 9 L N  : M 5 N ² 5 O ■ 9 M O  @ K L M : L 5 M   5 N  9 L N  - M @ K L M : L 5 M  5 N  9 L N   M 7   e @ K L M  I K     §
+ 5  ¦ (   [  8 
+ 
+ ╬┘┴[ñÌ┬ð ÎØ¡tÁ. i@ ╗ÅÙ ║UÈÙÆ  request Url Method Body  O   :  5   5   9     4    :  5   5   9    m    f     f    f  	 1        5  
+ 9    @       [     game
+ GetService
+ õî╬7Æ¿Xþû┘1  4▓Õ╝Cþ╔ ClickButon2  Vector2 new 
+ m     :  5   5   Q   ?     m    f        _  [     task wait pcal  #      -   *  5   =   &        5   &  	    	  m    f    :   ^    m       e  ^        	        :  &           -  *  [      ­? game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame p
+ GetService	 :V%56ÞZ2 ÿm9W^E
+ GameEvents	 adThirst @	 Workspace EatPlant
+ FireServer  GameMap Ferns Fern	 ╬Ï¿¡┬U½³ ╚ÖÀj├Ì▓4 Water 6 5  =   &       m    f     f     f     f      f     f   	 m       
+ :  5   
+ 5   Q   ?    f   
+  f    5  & -    -  m    f     f   
+  f         m    f     f     f    5         m       
+ :  5    5   Q   ?    f     f     f    5  &            s   s          5     [  	  game	 Workspace
+ GameEvents EatPlant
+ FireServer  GameMap Ferns Fern └r@  m   f   f   f     m    f     f      f    5  	    [  	  game	 Workspace
+ GameEvents EatPlant
+ FireServer  GameMap Ferns Fern └  m   f   f   f     m    f     f      f    5  	    [    tonumber m   s  x    *  [     pcal #      5   &        -   *  m       e  e  e ^             -  *  [      ­? @
+ FireServer game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame p
+ GetService	 )´g┴¨øı Â~Ç¬èÙy
+ GameEvents	 adThirst task wait	 ╝ı'Ýò1Ä fÙ║UåµsP  GameMap Water G 5  =   &       =   5  q  =   =  &             s    s        C  &  "    "  m    f     f      f     f   	  f   
+  f   
+ m        :   5  
+ 5 	  Q   	 ?    f     f    5   &        5   &  6    6  m    f    :    ^    m        :  5 	  5 
+  Q  
+ ?    f     f     f    5   &  %    %  5       %      C  &       5   =   5     :   &      [    * [   	 workspace
+ GameEvents ChangeDinosaur
+ FireServer task wait @
+ StartPlayer  m   f   f     :     m   f  5    ^   m   f   f     ^   [     game  Players
+ LocalPlayer	 Character CharacterScripts HandleBleding  Destroy
+ StarterGui  SetCore Ä¯1ñþ▓ 6ª└¥Û+®ã│ ®¦ï_└ Ûék3' F¥Ù_B ö═.¤ãƒ à┌ézå ·¹ð  X\ƒâñ╝├ ª+¥_┬¨Ï└>¥_ÈÒÏän¢Rù┘Êé"░S  ¢ÓN▀+Àï 
+Úÿı'¾ä íN£Ûv &@ . 5  q       m    f     f     f     f     f          ^    m    f   	     
+ :  5  
+ 5   9    O   :  5  
+ 5    9     :  5    5   9    @    :  5   5    9     :  5    5   9    @    :  5   5    9      4         -     [    game
+ StarterGui  SetCore ▀$&UéÝ%Û(+ oä÷" LîAHfÝÖ ~ËÌÊ  Ì*║v▓Àa s├pú~╔ Û=î$ Ïóf oA¢┌ eN!N¬[!T¬G
+,KnáAG-  ¤#+{Uk< T┐▓ÙmyÑ« ╩└è &@ ! m   f     :  5   5   9    O   :  5   5    9    :  5   5   	 9     @    :  5  
+ 5  
+ 9    :  5   5   
+ 9     @    :  5   5   9     4       [     ­? GetMouse  KeyDown  conect _G	 infinjump game
+ GetService  ª}▒Ê?╣ ÀM╩╚
+ LocalPlayer ) # &   &  5   =   &             x    s    f             e      (  &        5   &        5      q        m   0/     m  	     
+ :   5  
+ 5 	  Q   	 ?    f   
+ 5          (  m   0/     [     _G	 infinjump byte @  ­? waitÜÖ╣? Humanoid
+ ChangeState IÒõ,UK  tåàX0/ game
+ GetService  .═í²©`
+ ~í└ä¦
+ LocalPlayer	 Character FindFirstChildOfClas w=úXP!¬ 6?H╬d  ÔLHjýu¤ ¿9%à8 m    f    #  7   7      x    &  7    7  5   =   &  
+    
+  5   q        m    5   ^    m  	     
+ :  5  
+ 5    Q    _    7  &  
+    
+  m  
+      :  5   5    Q    ?    f     f         :  5   5    Q    ?   M  	 m  	     
+ :  5   5    Q    _   5    
+   7   
+  [    tonumber m   s  x    *  [     ­? task wait game  Players
+ LocalPlayer	 Character Dinosaur	 WalkSped  CharacterScripts ControlWalkSped  Destroy 2@= # 5   5  5   &        5   =   &          5   q  
+    
+  m    f    Z    m    f     f      f     f   	 :  D  
+      
+         :   &    
+     <  &        5   &  .    .  -   *   m    f     f      f     f     f   
+      ^    5   &  !    !  5       !      <  m    f     f      f     f   	 0/  
+  - [     game  Players
+ LocalPlayer	 Character CharacterScripts
+ UnderWater Remove 	 m   f   f   f   f   f      ^   [     task wait pairs game
+ GetService  l|( á  X<Iå┼u|
+ LocalPlayer	 PlayerGui Main HandleEmojis	 EmojiList
+ GetChildren ­?	 workspace
+ GameEvents  DoEmoji
+ FireServer Value P # M   M  5   =   &        5   &          -   *  5   &        m    f    Z    m   m        :    5    5 	  Q   	 ?    f   	  f   
+  f   
+  f     f   
+      2   L    A  5 	  & 	 )    )  m 
+   f 
+ 
+  Z 
+    A  q  #  	  #  5 
+  & 
+ ;    ;  m 
+   f 
+ 
+   f 
+ 
+    
+ 
+   f 
+    
+ 
+  m 
+   f 
+ 
+   f 
+ 
+    
+ 
+   f 
+    
+ 
+  5 
+  & 
+ ,    ,  5 	   #   ,   #  C  "    "   E     :  &  
+    
+   O       O      O  -  *  [  
+   plr game  Players
+ LocalPlayer hum	 Character HumanoidRotPart ­? mouse GetMouse  KeyDown  conect " 5  &       5   &        m    f     f    M   m    f      f    M   5  	 q 	       5 	       &   	    m       
+ x    M  
+ m  
+  f        
+        !     [     f mouse Target  ­? plr game  Players
+ LocalPlayer hum	 Character HumanoidRotPart GetMouse CFrame Hit  Vector3 new @4 & 3    3  m    f    #  3   3  5   =   &        5   &        5   &        5      &        m     f     f   	 M   m    f   
+  f    M  
+ 5      &  
+    
+  m       
+ x    M   m  
+ m    f    m    f    5   5    5   9    n    D     3   
+   3     [    game
+ StarterGui  SetCore ├JTâÌ@NÄ÷FYåõFUë þÉ/: åÐ╬y YÊ©║x]» ƒ|H³Z ZÐ3Á õ~O· ▀░7Ä ¥¤í1®╦§4║┌Â,¥╩§&óÄç+╣┬║< ıD█« /§1µ>╠0q kÇCçJÑ_ &@ ! m   f     :  5   5   9    O   :  5   5    9    :  5   5   	 9     @    :  5  
+ 5  
+ 9    :  5   5   
+ 9     @    :  5   5   9     4       [    ~¦│SÌ fNÙâ ¬xda TÜNT$'YÎ ¼░P® eØü68 M­Ï°r/ }╔Û╦C  X┘=1=2  söxctG
+ .(½*UL¼6S)Â !l]┘D ▀Y¿úı@ ═╗+┴ ╬}┌¾s
+╦ýsÐ¹` ┐×e ´µ½øûßý®éøùôÎÜ ¤ÑúþÎ ÕÏÈtYþÎ▄n\Ú╩ðy
+ ªÖ6D
+ Ó╝├M4¸Ð╗┼T  Ö▓Ëá&TA pairs print	 workspace
+ GameFunctions	 PromoCode InvokeServer = O 
+ :  5   5   9    :  5   5   9    :  5   5   9    :  5    5   9    :  5  	 5   
+ 9     :  5   
+ 5   9    :   5  
+ 5 	  9   	  :  5 	  5 
+  9  
+  : 	 5 
+  5 
+  9 	 
+  : 
+ 5 
+  5   9 
+   : 
+ 5   5 
+  Q 
+ 
+ 
+  m   s  %     :  m   m     f       f             s 	  Q   	 _   C  2    2  [     print 5   =   q        5   &        m   s  ^    *             [     ­? task wait Ó? print	 workspace
+ GameFunctions HatchEg InvokeServer  game
+ StarterGui  SetCore ╦
+╦Yý¸╠[╦¹	ÐT═÷ óÿhÑ= ¨&ªqu à¡OÊ úS┘«Y KÝì ÞZÈÑ ü╝?¼ÐO{ç yÙ¾ìA÷ÒìNÙ±ìA±‗┬
+ýþ┘Cý´├G¥ª ¡ äå j¯║8┬@  ¡.{hÅ╬Q &@F # C   C  5   &        5   &        m    f    5   ^    m   m     f     f   	     
+ :  Q   _         :   &    
+     E  &        -   *   m    f   
+      :   5   5   9    O   :   5    5   9    :    5   5 	  9   	  @     :   5    5   9    :    5   5 	  9   	  :  d      @     :   5    5   9     4        5       E  -  *   [    tonumber m   s  x    *  [    game  Players
+ LocalPlayer	 Character Head
+ CanColide  # 	   	  m    f     f     f     f    0/        m    f     f     f     f    0/    [     ­?	 workspace
+ GameEvents	 AOEDamage
+ FireServer task wait game	 Workspace Damage	 oð°╦¢¨7¨] Ü8┐èá╬ëV 6 # 3   3  5   =   &        5   &          -   *  5   =   q  
+    
+  5   &        m    f     f         ^     +  &        m     f    Z    m  	  f   
+  f     f   
+      :    5   5 	 
+ Q   	 _   5       +   
+  :  &  
+    
+   5       5      5  -  *  [    game
+ StarterGui  SetCore 1OSÌ9þC^█
+Ó Äb*=║wgb Â= hX▀b jÏÍþ!╚ ì$ùé«b ░┌ mõó xÓ³l§¶[ÑÝy¶ÕVÓ¨8Ô ¸‗zýÚF å>àØÇ #░Ï;©┘	  Âg┼z╣OÐ @ ! m   f     :  5   5   9    O   :  5   5    9    :  5   5   	 9     @    :  5  
+ 5  
+ 9    :  5   5   
+ 9     @    :  5   5   9     4       [     print tostring 5   =   q        5   &        m   s  ^    m   s  x    *              [    Name table insert   f   m    f    :  s       [     ­? Name pairs table remove 5   =   q          5   =   5   &        &  	    	   f   m   :  %               m 	   f 	 	  : 
+ s 
+    	 
+  C            	        [     task wait pcal ) # &   &  5   =   &        5   &          -   *  5   =   &  
+    
+  5   &        m    f    Z    m       e  e  ^              
+  :  &  
+    
+   (       (      (  -  *  [   	  game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame Torso new  m   f   f   f   f  m    f    :  (     f     f      f    m    f    5  	 5  	 :   9        D   [    tonumber m   s  x    *  [  	   ­? @	 workspace
+ GameFunctions
+ PackFunctions InviteToPack InvokeServer unpack  5  =   &         5   =   5  &       q  	    	  O   :  D    :   D    s   m    f     f     f          m  	 s   2   _       	        [     tostring 5   =   &        5   q        m   s  x    *  m   s  x    *               [   	 workspace
+ GameFunctions
+ PackFunctions JoinPack InvokeServer  m   f   f   f     :     [   	 workspace
+ GameFunctions
+ PackFunctions	 LeavePack InvokeServer  m   f   f   f     :     [  
+  game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame	 workspace Packs
+ PackLeader Value Torso  m   f   f   f   f  m    f    m     f    :  (     f   	  f   
+ (     f     f   
+  f    D   [  
+  pairs game
+ GetService	 ÷FY¼└J ▄í)}x*  GameMap Water
+ GetChildren
+ CanColide	 ï~▓»aí
+╣ n▄└ & #      m   m        :  5   5   Q   ?    f     f          2   L      0/  	 
+ C         %  m   m        :  5  
+ 5   Q   ?    f     f          2   L    #  0/  	 
+ C  "    "  [  *   ­? game
+ StarterGui  SetCore GÐ)Rèäæ}Ê.UÑƒî{┌  Õ┤G6─Ù wı´­  ÓIíâò╩ ▀╩┼yÊ└ 0æàæ nI¡· L:,ıÄ▒F Loking for feathers/branches (YOU CAN STIL USE IN THE HOMELANDS MAP) ´1 ,l┬+ ½DrM &@ ▄^V®ÐñÚSôÎ
+ú ═Å}02þ¥d NotificationInfo8 pairs
+ GetService	 ÷¿‗¾Ìí─ ┬íÃteüâ┐  GameMap	 Malicious
+ GetChildren task wait ð? Name ¤6Ã┐╚äÚ%▄á‗░ ┬îD¿╚ù
+ p·├ ¹}¦ð$ßJ■Ã ò"øÁE 4¶┴‗´ð■C▀Ã¹
+■¦ ÜcØÁ  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame w 5  =   &       5   &  5    5  5   &        5    5  &        m    f         :  5   5     9     O   :   5   5 	 	 9   	  :  5 	 
+ 5 
+ 
+ 9  
+  @     :   5   5 	 
+ 9   	   4     :   5   5 	  9   	   4         m    f         :  5   5    9     m       5      &        m   m        :  5   5    Q    ?    f     f         2   L    p  5    =   &   G    G  5   &  J    J  m 	   f 	 	  5 
+  ^ 	    f 	   : 
+ 5 
+   5  ! 9 
+   U 	 e  
+  e   f 	   : 
+ 5 
+ " 5  # 9 
+   U 	 e  
+  e   f 	   : 
+ 5 
+ $ 5  % 9 
+    	 p  
+  p  m 	   f 	 	 &  f 	 	 '  f 	 	 (  f 	 	 )  f 
+  * D 	 * 
+  p   J   p   G  C  E    E   v      v     [    pairs game
+ GetService  zSW▄XL ╣*?q.
+ LocalPlayer	 PlayerGui StartGui
+ Background DinosaurSelection
+ DinosaurFrame Box
+ GetChildren IsA
+ ²ð >÷╚5-┌ {┤¢AY  ­? table insert Name : m  m        :  5   5   Q   ?    f     f      f     f   	  f   
+  f   
+  f        
+ 2   L   7       :   5   5 	  Q   	 ?   #  7   7  5   &  )    )  m    f    :     f        m    f    :     f         7  &        m    f    :     f        m    f    :     f        5      C       [    tostring m   s  x    *  [    tostring m   s  x    *  [     ­? game  Players
+ LocalPlayer	 Character @ wait @	 workspace
+ GameEvents ChangeDinosaur
+ FireServer
+ StartPlayer GoToMenu @ @ @  @ _G AutoInstantElder é 5  & O    O  m    f     f     f    1  K    K  5   =    &         m   5 	 	 ^    m  
+  f   
+  f        
+ : 
+   
+  m  
+  f   
+  f        
+ ^     K  &  /    /  m    f     f     f    m  
+  f   
+  f     m  
+  f   
+  f        
+ s 
+    
+       
+ s 
+    
+  5   &  6    6  :   :  5   5   5   &  
+    
+  m   5 	  ^    m  
+  f   
+  f        
+ ^    m  
+  f   
+  f        
+ : 
+   
+       
+ s 
+    
+  5     
+  m   5    ^    5  & u    u  m    f     f     f    #  Z   Z  m   5    ^    m    f     f     f    #     5   =   q  b    b  5   &  e    e  m  
+  f   
+  f        
+ 5       m   5   ^       e     b    &       m   Z    m    f    1  ~    ~  [  5       [      ­? _G AutoInstantElder spawn ' # $   $  5   =   &        5   &        5   &        5      &  
+    
+  m   0/    m   :  ^    5    
+  &          m   :  ^    m   :  ^     &       &      &  m   0/     [  $   ­? @
+ §á═ºÍ«╦░
+┬«Í cª┴©ı _G DNAFarmActive4 wait game  Players
+ LocalPlayer	 Character @	 workspace
+ GameEvents GoToMenu @
+ GameFunctions
+ checkBadge InvokeServer d¢y¼A ChangeDinosaur
+ FireServer @ @ task
+ StartPlayer  @
+ ÕÂò®Ü┘ñà▓àÏ ÛÂÎÓ█l pcal É
+FÓØ½ Ù╩h(Å @ + # (  ( 5   =   &  	    	  5   =   5   &        =   &  ı    ı  :  5   5    9     s   m   0/     m  	 Z    m    f     1        [  m  
+  f   
+  f     f   
+ 1  │    │  5   =  
+ &  )    )  5   =     5   &  -    -  =  	 5   q  $    $  = 
+ 
+ &  G    G  5 
+  & 
+ 7    7  5    G  q  A  
+  A  m  
+  f   
+  f     f 	  
+ m    f     f 
+   5 
+  & 
+ 3    3  5    5   5 
+   3  &  \    \  m 
+   f 
+ 
+   f 
+ 
+    
+ 
+  5 
+   
+ 
+  m 
+   f 
+ 
+   f 
+ 
+    
+ 
+  s 
+   
+ 
+    
+ 
+  s 
+    
+ 
+  m 
+ 	 5   ^ 
+   5   &  ~    ~  5 
+  & 
+ c    c  5    ~  & 
+ o    o  m    f     f         s       m    f   	 Z    5 
+  & 
+ _    _  m    f     f         ^    m    f     f         s       5 
+   _  &  ƒ    ƒ  5 
+  & 
+ à    à  5    ƒ  & 
+ É    É  m    f   	 Z    m    f     f         ^    5 
+  & 
+ ü    ü  m    f     f         ^    m    f     f         s       5 
+   ü  &  0    0  m 
+ 	 5   ^ 
+   m 
+   f 
+ 
+   f 
+ 
+    
+ 
+  s 
+   
+ 
+  m 
+   f 
+ 
+   f 
+ 
+    
+ 
+  ^ 
+    │   0   │   $  m  	 5   ^    m  
+  f   
+  f     f   
+ #  ┐   ┐  m  	 5   ^    m  
+  f   
+  f     f   
+ #       5   q  ã    ã  m    f     f         5       m  	 5    ^        ã      * q  ‗    ‗  5   &  ß    ß  m    f     f         ^    5    ‗  q  Ï    Ï  m    f     f         :  5 	  5 
+  Q  
+ _   m    f   	 5    ^    5    Ï  &  
+   
+ 5   &      m    f     f         ^    m    f   	 5    ^    5   &  §    §  m         e ^    5    
+  §  &        5   &      :  5   ! 5  " 9    s   5      &  
+   
+ m    f     f         5       m    f   	 5   # ^    5    
+     *     * m   0/    $ [      ­? game
+ GetService	 ¸Ä®>Ëæ║6┼ Uáß█
+ GameFunctions
+ PackFunctions
+ CreateNest InvokeServer	 k
+æ┬%╠J_   +<eÒ®V╝ Packs Stock R¦Ë¢V╔ W¿▒▀:¼┘  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame new Part0 Position @	 ┬KÍ($╠ZÏ [T¡9¢
+ CreatePack #¡ ½ Âp┘l£└ L 5  &       m        :  5   5   Q   ?    f      f     f   	     
+ m        :  5  
+ 5    Q    ?    f   
+  f    :  5   5   Q   _    K  &       5   &  E    E  m    f     f     f     f    m    f    m    f    x    m    f    5   5   5    9         D    m        :  5   5   Q   ?    f      f     f        
+ :  5   5   Q   _   5   &          5            [  $   ­? task wait @ pcal
+ Ë©┘Zì)ñN­┐╩Lû =æ╩©9Õ@╦
+ q]ÜFOS£UIA '<2Ú @	 workspace
+ GameEvents
+ StartPlayer
+ FireServer ChangeDinosaur
+ 7<░-æ)º▒  ├zS├LÔHÊÜÖ"@ game  Players
+ LocalPlayer	 Character @ GoToMenu @
+ GameFunctions
+ checkBadge InvokeServer UserId @ _G DNAFarmActive3  @  #    5   =   &        m    f    5   ^    m       e ^    :  5    5   9    s   :  5  	 5  
+ 9    s   5  
+ q  >    >  5   &     
+     5    >  &  -    -  m    f   
+  f         ^    m    f   
+  f         ^    5  
+ q        m    f   
+  f         :   5   5 	  Q   	 _   m    f    5   ^    5      q 
+ ‗    ‗  5   &  E  
+  E  5    ‗  &  µ    µ  m    f    5   ^    5   =   &  M    M  5   &  Î    Î  m     f       f       f      1   K    K  5    =   q  ^     ^  = 
+ 
+ 5   
+ &   ð  
+  ð  =   &  m    m  5 	  5 
+  m 
+   f 
+ 
+   f 
+ 
+   f 
+ 
+  m 
+   f 
+ 
+ 
+  f  
+  5   &  â  
+  â  m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s    
+   m 
+   f 
+ 
+  Z 
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   5   &  Ü    Ü  m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s    
+   m 
+   f 
+ 
+  Z 
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s    
+   5   &  ¢    ¢  5 
+  & 
+ »    »  m    f     f         m    f     f     f        m    f   
+  f         s       5 
+  & 
+ ©    ©       s  	     m   5   ^    5 
+ 
+ & 
+ Ø  
+  Ø  5  
+  ¢   Ø  &  a    a  m 
+  5   ^ 
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s    
+   m 
+   f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+    K   a   K  &   Z    Z  5   = 	 	 5     Z   K  &  P    P  m    Z     m      f     ! 1   Ó    Ó  [  5    P   K   M   K  5  
+ &  A    A  m    0/  ! " m    f   
+  f         5         5    A  &        m   5   ^    m    f     f     f    #     m   5   ^    m    f     f     f    #     5   &        m    f   
+  f         5         m   5  # ^                m    0/  ! $ [       game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame new Part0 Position @
+ GetService	 I|¥^mc¡V{ 5╠
+ GameFunctions
+ PackFunctions
+ CreatePack InvokeServer ╩¶ç¼ ÃÖÇõ ­? task wait	 µ%¸┤┴+µ Ã▒Jày
+ CreateNest	 Åã«§$Í+╗╠  JÏ®▄×Wª Packs Stock ╩6.VÝ :êCsL H 5  & &    &  m    f     f     f     f    m     f    m  	  f   
+ x    m     f    5   5  
+ 5   9        D     m        :  5  
+ 5   Q   ?    f     f     f         :  5   5   Q   _   5  q       m    f    5   ^    m        :  5   5   Q   ?    f     f     f         m        :  5   5    Q    ?    f     f    :  5   5    Q   _    G     [  &   ­? @ wait game  Players
+ LocalPlayer	 Character	 workspace
+ GameEvents GoToMenu
+ FireServer @  @ @ _G DNAFarmActive6 taskÜÖ"@ ChangeDinosaur
+ StartPlayer @ @ @
+ GameFunctions
+ checkBadge InvokeServer UserId @ pcal
+ DÓ4zd	ý4j  hÖFo
+ +┤á8-óí Ëigã¤KLÎ
+ ýªóÓm
+»ñ█┤ Í«ÃðÅl┌  #    5   =   q      =   &  0    0  m   5   ^    m    f     f      f    #       m   5   ^    m    f     f      f    #     5   =   q        5   &          m   	  f     
+  f     
+        5 	 
+    	  m    5   ^                  &  ð    ð  m   0/    m  	  f   
+  f   
+      5   
+      m    f    5   ^    5   &  ╗    ╗  m    f     f      f    1  >    >  5   =   
+ &  Z    Z  m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s 
+   
+ 
+  m 
+   f 
+ 
+  Z 
+   m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   5   &  t    t  5 
+  q  g  
+  g  m  	  f   
+  f         s       5    t  q  ]  
+  ]  m  	  f   
+  f         s       m   5 
+  ^    5 
+   ]  &  |    |  m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+    >  &  à    à  5   
+ 5   m 
+   f 
+ 
+   f 
+ 
+    f 	 
+  5   &  û    û  m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s 
+   
+ 
+  m 
+   f 
+ 
+  Z 
+   m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   5   q  ½    ½  m 
+ 	  f 
+ 
+ 
+  f 
+ 
+ 
+ m 
+ 	  f 
+ 
+   f 
+ 
+    
+ 
+  m 
+   f 
+ 
+   f 
+ 
+    f 
+ 
+   
+ 
+  m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  s 
+   
+ 
+  5   &  I    I    
+ 
+  s 
+    
+ 
+  m 
+  5   ^ 
+   m 
+ 	  f 
+ 
+ 
+  f 
+ 
+    
+ 
+  ^ 
+   5    I   >  &  ?    ?  5   &  ┬    ┬  5    ?  &  ¥    ¥  m    Z     m     f      1   ╦    ╦  [  5    ¥   ?   >  5   q  Õ    Õ  m    f    5   ^    m       e ^    :  5    5   ! 9     s   :  5  " 5   # 9     s   5   &          5   &  ý    ý  5       &  ³    ³  m  	  f   
+  f         :  5 	 $ 5 
+ % Q  
+ _   m    f    5    ^    5   &  Þ    Þ  m  	  f   
+  f         ^    m  	  f   
+  f         ^    5    Þ        &        5   =   5        m   0/   & [       game  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame new Part0 Position @
+ GetService	 
+└ã6?╩  |\»g¡En
+ GameFunctions
+ PackFunctions
+ CreatePack InvokeServer ‗,4╩ WíXc ­? task wait	 %÷²Ãñ└"³  CrÖÅ¼Î░
+ CreateNest	 ë¡³¡▓´
+╗ nÌ┬Ä Packs Stock 5╠½^ñ ┴w╣{╔2 N 5  =   q       5   &  *    *  m    f     f     f     f    m     f    m  	  f   
+ x    m     f    5   5  
+ 5    9         D     m        :  5  
+ 5   Q   ?    f     f     f         :  5   5   Q   _   5   &        m    f    5   ^    m        :  5   5   Q   ?    f     f     f         m        :  5    5   Q   ?    f     f    :  5   5     Q    _    M      M     [     ­? game
+ StarterGui  SetCore ┤Å┬	·¬Äî┼7ßÀêä  ÌþÛ¼mVò ┘µÈÞ xìÅá nâé{cë 2 ╠Í ▓B-m qµ'UËè  ¢Ý5ïè^╩┤·(▄ÙHÐÂõ"▀óDð¸Fý(ïÑD╩¹°&▄Ñ
+▀¿FÛ&┘ñX▀«²4ï¬_×║
+õkïªJÃ¹Ú,╬ÙJ×©	²7Ã«
+Ð¢F³5┬«X×»	¿*╩áN×½
+²4├ÙX╩óF╝wø¯ ×Â Ò"ï©^╠¥F±(ÌÙJ╠¥Fß)ïªNð« +¥█fêG½╦ k"X6w?W 9BP (@ task wait  Players
+ LocalPlayer	 Character Kickf Ðúü=┤é&╩Óû8·ù/¦▓êu┤ç!¦ú─-¹─:¦ÑUì?┤ù=┴▓ç6þà<╩Á─)°æ:ðÓùyáÈyØÙUØ6ßè.ÿíæ5Ó─ ÌÓï-┤û,Ê»èy·─;¦░à- õI©└uõYö_ # \   \  5   =   &        5   &  4    4  5   q        5    4  &  
+    
+  -   *  m    f         :   5    5    9    O    :   5 	  5 
+ 	 9  
+  : 	  5 
+ 
+ 5 
+ 
+ 9 	 
+  @    	 :   5 	  5 
+ 
+ 9  
+  : 	  5 
+  5 
+  9 	 
+  @    	 :   5 	  5 
+  9  
+   4          5    
+  &          :  #  ^   ^  5   =   &  ;    ;  5   &  >    >  m    f    Z    m    f     f     f    #  6   6  m    f     f         :    5   5 	  Q   	 _    6   >   6   ;   6   ^       ^      ^  -  *  [  ,   @ pcal ­? game
+ StarterGui  SetCore -ý÷Î±Ð
+Ó■┌▄▀
+Ó¸¦ ¥~ëÿ│┐ 
+fÃ»  Hb½╩ *º]È! ùdÞR K▄¯ h╣û3 ÅÚÂÀ├Ô┴Ç■¼§±º█Þ┼Ê¨­°Û▄ý┼╚╝¸Àµ┘¶¤█½³Óºä¯¤╚¨§°§îÔ┴╬Â║ á╝┘ôùç¼Ç +╚±.└ Ë ®o¢pÉZ (@ ■å+®æÅï╦è&¼½ëî Ô¡ÒE═▀Ói l76W╩ {8^B;» ÈlG╚9█  ßÜ#üz× n¾C T:`ï7òç░? 
+0Â@M╬0S3ªX╩~*ÀI¦1┤G├- ºOÅ8-«	@╚~[1¼┴;;ª╔1í\└w  ^s_├`.» g^-<:$ê¯ Ç#+_]NMþ ù809q¢¡?7já½  ╔─}VTw ¸þ│ã ▀úÄd ¼9¸ÿøº ÏÔvúÐ è§  _ÌÉ{a7F *üÂFÓ
+─┐J¸ü¿¾ü¿WÔ
+à»Q÷
+─ÁQúû╗@Ùï®B÷
+æ®ý
+─©B±ù╗V±ù·BÝ─®SÔè·JÝ âyõ┌# ²┼0 mÍÌ {╣░Baä # ü   ü  5   &        :  #  â   â  m       e  e  ^        â  q  R    R  m    f          :   5   5  	 9    O   :   5   
+ 5  
+ 9    :    5   5 	 
+ 9   	  @     :   5    5   9    :    5   5 	  9   	  @     :   5    5   9     4        m    f          :   5   5   9    O   :   5    5   9    :    5   5 	  9   	  @     :   5    5   9    :    5   5 	  9   	  @     :   5    5    9     4        5   q        5   &  Y    Y  5      &  U    U  -   *  m    f          :   5  ! 5   " 9     O   :    5  # 5 	 $ 9   	  :   5 	 % 5 
+ & 9  
+  @     :    5  ' 5 	 ( 9   	  :   5 	 ) 5 
+ * 9  
+  @     :    5  + 5 	 , 9   	   4         5    U      â  -  *  [   }   task wait _G DNAFarmActive4 DNAFarmActive3 ­? game
+ GetService	 ·2±·»Õ╬8  {¡]âæ▄ò
+ GameEvents	 adThirst
+ FireServer	 !╦ *gÚÃÞ ÖvñìA  GameMap Water  Players
+ LocalPlayer	 Character HumanoidRotPart CFrame p UserId
+ CurentDino Value
+ ╠ çß 	ß!ç¸Õ² `ÄRµéù	 PlayerGui Main
+ DisplayAge Text
+ v┐ZLÒ«n┤ZN­ Ä/ð/"ä
+ GrowthPercent «ÝA <ûÌdb; Day @ print L2^WÊ«8K;Rı╗qG)QP  Q%\76╗┌ Éi@	 workspace GoToMenu @ @ :Aú8ù ß`$═W
+ ð®Ww{(Ý│Nm  iëã"/ I² áq╔! @
+ StarterGui  SetCore þ]óúçó└Q¬«¬¼└Qú® ═┤8╠Ã╔ ÀÎ(å xÒ¥\ s+R y é]<C<╣ |7 Z  (RX.Ç#9 hæ]%û÷('×{f¹01öq±9A£·25°u§*/°d¸6AÖõ($èdþ<4èvö Ï[%┤}a c┬C,y 7E|ú .@ q¦UÚÍeY·ôXµÌ1Rß~ı ö│<ê┐0
+ É+Ù»Õ│?ÙÁÕ ûÊJÖ└
+ ┌Ã-är:òþ¦4×  Èâ¿XÛ $┘╔ G%ÚýX <@
+ ´T▒HÕCO╠SóS <¡&ðv î, `6¶▀4 »!Rü│@ table find  @ ChangeDinosaur
+ ╠²1╠4╗ß³1┌.º² ÊÄÅP»\
+ StartPlayer	 Workspace EatPlant Ferns Fern i└ newð©p ─L½└▄╦Ã .D└f┌■òNÿ└ Health ,@╝"°▀j┴½└þT2 ÈHy@~®ƒGèá└ ë³÷È¡ÞÓÃ¼¹µı ª┘ëô ┬ºg¬Õ &â├ãæ c├?¨,U@Î/¨-G 43ÂZïXþT2 Èxy@
+ È½ÐõK Â├µVõ¼├ #û┘░ç ÏT c  Ö0kl# @
+ ,ù║w|N·É®l ënÕ█z! *¿=i"J7»-h z¦XV+D ,■è, µXHï Bí		Ksí  8Èv{ch \ 5  =   &       5   &        m    f    Z    m    f    #       m    f    #  ­  ­ 5   =   &        5   &  Ê    Ê m       	 :  5   
+ 5  
+ Q   ?    f     f   
+      m       	 :  5 	  5 
+  Q  
+ ?    f     f     f    m     f       f       f       f       f       f           m    f     f    m    f     f     f    (     f     f    :  5   5    9       ®    ®  m    f     f     f     f     f      f   ! :  5  " 5   # 9       ®    ®  m    f     f     f     f     f   $  f   ! :  5  % 5   & 9       [   [ 5   =   &  à    à  5   &  Ç    Ç  m     f       f      m    f     f     f    (       f     '  f     m     f      Z     m     f       f      m    f     f     f    (       f     '  f      U   p    p  5    &  d     d  5     à   d  &  Ü     Ü  5   &  î     î  5  (  Ü  &  ê    ê  m   ) :  5 	 * 5 
+ + Q  
+ _    m     f      5  , ^     5     ê  &  a  (  a  m  -  f     f   .      5  /     m    f    5   0 ^     [  a   [ m    f     f    m    f     f     f    (     f     f    :  5  1 5   2 9       8   8 m    f     f     f     f     f      f   ! :  5  3 5   4 9       8   8 m    f     f     f     f     f   $  f   ! :  5  5 5   6 9       [   [ 5   =   &  Û  (  Û  5   q  Õ    Õ  m   -  f       f     .        5 	 /    	  m     f      5  0 ^     5    q   Ï    Ï  5  7  Û   Ï  &  
+ 7  
+ m    f   8     9 :  5 	 : 5 
+ ; 9  
+  O 	  : 
+ 5 
+ < 5  = 9 
+   : 
+ 5  > 5 
+ ? 9 
+ 
+  @ 	 
+ 
+ : 
+ 5 
+ @ 5  A 9 
+   : 
+ 5  B 5 
+ C 9 
+ 
+  @ 	 
+ 
+ : 
+ 5 
+ D 5  E 9 
+    4 	 
+ F   	   [ &       m  ) :   5  G 5 	 H Q   	 _   m    f    5   , ^    5  ( q  ı    ı  m    f     f    m     f       f       f      (      f   '  f    m    f    Z    m    f     f    m     f       f       f      (      f   '  f    U  &   & 5     ı   [ m    f     f    m    f     f     f    (     f     f    :  5  I 5   J 9       ü   ü m    f     f     f     f     f      f   ! :  5  K 5   L 9       ü   ü m    f     f     f     f     f   $  f   ! :  5  M 5   N 9       [   [ 5   &  j    j m    f    5  0 ^     [ &  c   c 5   &  z   z m    f    5   O ^    m  -  f     f   .      5  /     5    q   m   m 5     c  m  c  [ m    f     f    m    f     f     f    (     f     f    :  5  P 5   Q 9           m    f     f     f     f     f      f   ! :  5  R 5   S 9           m  T  f   U :   m    f     f     f     f     f   $  f   ! 9    #  [  [ m   0/   V m    f    5  W ^    m  -  f     f   X      :  5   Y 5  Z Q   _   m    f    5  7 ^    m  -  f     f   [      ^    m  -  f     f   [      ^    m    f    5  7 ^    5   =   &  ╬   ╬ 5   &  ▀    ▀ m    f   \  f     f   ]      m  \  f     f   ^  f   _ 5 	 `   	   ² &  Ð   Ð 5   &  µ    µ 5     Ð &  Ô   Ô m     f      5  ( ^     m     f       f       f       f      m    f   a 5 	 b 5 
+ c 5 
+ d 9  
+  D     5     Ô  Ð  ²  ╬ m    f     f    m     f       f       f      (      f   e  f    &  ╠   ╠ m    f    5  f ^    m    f     f     f     f    m    f   a 5  g 5   h 5  i 9    D     [ m    f     f    m    f     f     f    (     f     f    :  5  j 5   k 9       [   [ m    f     f     f     f     f      f   ! :  5  l 5   m 9       [   [ m  T  f   U :   m    f     f     f     f     f   $  f   ! 9    #  [  [ 5   =   q  F   F 5   &  ì 7  ì 5   &  ê   ê m     f      5  7 ^     5    =   &   T   T 5   &  j   j m 	   f 	 	  5 
+ ( ^ 	   m 	   f 	 	   f 	 	   f 	 	   f 	 	  m 
+   f 
+ 
+ a 5 
+ b 5  c 5 
+ d 9 
+ 
+  D 	  
+ 5    &  W    W m 	   f 	 	 \  f 	 	   f 	 	 ]   	 	  m 
+ \  f 
+ 
+   f 
+ 
+ ^  f 
+ 
+ _ 5  `  	    {  W  {  T m 	   f 	 	   f 	 	  m 
+   f 
+ 
+   f 
+ 
+   f 
+ 
+  ( 	 	 
+  f 	 	 e  f 	 	  & 	 R   R 5    &  L    L 5  W  ì  L &  Ñ    Ñ 5   q  á   á m   -  f       f     X        : 	 5 
+ n 5 
+ o Q 	 
+ _    m     f      5  7 ^     5    &  É    É 5  (  Ñ  É &  ▓ (  ▓ m  -  f     f   [      ^    m  -  f     f   [      ^    5  7 &  ╗   ╗ m   0/   V m    f    5   W ^    5    q W I   I m    f    5   f ^    m    f     f     f     f    m     f     a 5  g 5 	 h 5 
+ i 9   
+  D      [  I  [  F  [ &        m    f     f     f     f    m    f   a 5  g 5   p 5  i 9    D    m    f   \  f     f   ]      m  \  f     f   ^  f   _ 5   (      5        [     [ m    f     f    m    f     f     f    (     f     f    :  5  q 5  r 9      ñ   ñ m    f     f     f     f     f      f   ! :  5  s 5  t 9      ñ   ñ m  T  f   U :   m    f     f     f     f     f   $  f   ! 9    #  [  [ 5   &  $   $ m   0/   V m    f    5  u ^    5    q   <   < 5   &  +    + 5  (  < &  '   ' m  -  f     f   X      :  5   v 5  w Q   _   m    f    5    ^    5     ' q ( Q   Q 5   q   C   C 5  7  Q &  ?   ? m  -  f     f   [      ^    m  -  f     f   [      ^    5     ? &  Å 7  Å 5   &  X    X 5  W  Å &  T   T m    f    5  7 ^    5   &  r   r m    f    5  ( ^    m    f     f     f     f    m    f   a 5   b 5  c 5 	 d 9  	  D    5    &  _    _ m    f   \  f     f   ]      m   \  f       f     ^  f     _ 5  `      ü  _ m    f     f    m    f     f     f    (     f   e  f    &  ^   ^ 5     T &   W   m    f    5  / ^    m    f     f     f     f    m    f   a 5  g 5  h 5   i 9     D     [    [ m    f     f    m    f     f     f    (     f     f    :  5  x 5  y 9      [   [ m    f     f     f     f     f      f   ! :  5  z 5  { 9      [   [ m  T  f   U :   m    f     f     f     f     f   $  f   ! 9    #  [  [ 5   &  ▀    ▀ m  -  f     f   X      :  5  | 5   } Q    _   m    f    5    ^    5  ( &  ¶ (  ¶ 5   &  µ    µ 5  7  ¶ q  Ô   Ô m  -  f     f   [      ^    m  -  f     f   [      ^    5     Ô &  2 7  2 5   &  ¹    ¹ 5  W  2 &  ¸   ¸ m    f    5  7 ^    5   &       m    f   \  f     f   ]      m   \  f       f     ^  f     _ 5  `      $ &      m    f    5  ( ^    m    f     f     f     f    m    f   a 5   b 5  c 5 	 d 9  	  D    5      m    f     f    m    f     f     f    (     f   e  f    &      5     ¸ q W E   E m    f    5  / ^    m    f     f     f     f    m    f   a 5  g 5  h 5   i 9     D     [ &  ¤   ¤ 5   &  L    L 5     ¤ q  H   H m   0/   V m    f    5  u ^    5     H  ¤  [     [    [    pcal #        m       e ^      [      task waitÜÖ╣? game	 workspace FindFirstChild ½▀│Ã ƒÞÀz└│ _G DNAFarmActive3 DNAFarmActive4  ­?  Players
+ LocalPlayer	 Character
+ GameEvents
+ StartPlayer
+ FireServer Ó? HumanoidRotPart CFrame Chest g 5  &       m    f    5   ^    m    f          :  5   5  	 Q   ?   #  f   f  m  
+  f   
+ 1        m  
+  f    #  Z   Z  5   =   &        5   q  -    -  5   &  (    (  m  
+ 0/  
+ 
+ m  
+ 0/   
+ 5   &  !    !  5    -   !  &        m    f     f     f    1  f    f  5   q  C    C  m    f     f         ^    m    f     f         ^    5   &  6    6  m    f    5   ^    m    f     f     f     f    m    f     f     f    D     f   6   f      f      f  m    f     f     f     f    m    f     f     f    D     f     [  
+  v  game  Players
+ LocalPlayer	 Character	 MeatEater Value
+ PlantEater  m  #      5  =   &       5   &        m    f     f     f     f     0/   	 m    f     f     f     f   
+ 0/   	             [      task wait InvokeServer	 workspace	 PackNests % # "   "  5   =   &        5   &          -   *  5   &        m    f    Z    :        m    f    :    (               :  &  
+     
+   $       $      $  -  *  [     game  Players
+ PlayerAded  Conect  5  &       :  1          [  m    f     f             e            [      pairs UserId game  Players
+ LocalPlayer Kick! You've ben kicked for protection m   :  %     
+   f     
+    
+  m    f     f         5        C        [     game  Players
+ PlayerAded  Conect  5  &       :  1          [  m    f     f             e  e            [     pairs UserId game
+ StarterGui  SetCore s@ó2sã;DFL»7I└ C - %╠V=®O a\░ 5e▄ı  :}:osÅw ┐m<h!:┴0 │Ê ¾ çþÀx# ÃJhÎuªÔ^Õ!╗ªM¸uª´IÓuíÒJKÕ8Þ  ╔åj,äUz e>Ã- CVl_al¿ &@* m   :  %     '   f     '    '  m    f         :   5 	  5 
+   9  
+  O 	  : 
+  5 
+  5  	 9 
+   : 
+  5  
+ 5 
+ 
+ 9 
+ 
+  @ 	 
+ 
+ : 
+  5 
+  5  
+ 9 
+   : 
+  5   5 
+  9 
+ 
+  @ 	 
+ 
+ : 
+  5 
+  5   9 
+    4 	 
+    	  C        [    pairs game
+ GetService	 n╝ÿq╗íX░Å Ð9ËÛ╚ Packs
+ GetChildren  task wait ­? table insert Name , m  m        :  5   5   Q   ?    f          2   L   )  5   &        5   &        O   *    m   	  f     
+ 5  
+ ^     5  
+ &    
+    5  
+       &    
+    m    f   
+ :    5  
+  f 	     	   )     C 
+    
+  [     #      5   =   &        5   q          -   *  :   Z                    -  *  [    AB3
+ #        -   M   :  Z     	  -  M   [  
+  pairs game
+ GetService	 ╝┤(;:è©? JÙ█ZPj  GameMap Water
+ GetChildren Transparency ­?	 {╠I0)õ{±I Æ,ú;[Zö & #      m   m        :  5   5   Q   ?    f     f          2   L      0/  	 
+ C         %  m   m        :  5  
+ 5   Q   ?    f     f          2   L    #  0/  	 
+ C  "    "  [  
